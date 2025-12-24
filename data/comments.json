@@ -1,0 +1,47 @@
+[
+  {
+    "commentId": "693823c2e54baa69d148a500",
+    "cardId": "693696401f745c71475e822d",
+    "shortLink": "vyJ5vvK7",
+    "text": "**(A) RELACIONAMIENTO CON BANDERAS (Fe y Thi)**\n\n**Producto**:\n\n- Device Biding con passkey, equipo de FIDO, Reatch y user accounts\n- PPT tokenization Pau con equipo de PF // BC Super Token\n- Tap to pay Open Loop (Visa y Mastercard) aun no hicimos la prueba produtiva, mirar lo que falta para hacernos\n- 3DS Server: empezar certificación con EMVCo\n\n**Relacionamiento con las marcas**:\n\n- Consumer Clarity - Merchant.\n- Sensory Branding Track (Visa)\n\n1️⃣ Proyectos:\n\n**MLM Prosa**\n\n- BIN VISA & ICA MC:\n  - Issue de sintaxis (Banamex): resuelto. Este issue fue el que demoró la migración.\n  - Rechazos por BIN Visa: persisten; según Prosa, el BIN no estaría activo para algunos emisores. Coordinaremos reunión con cámara y Visa.\n\n**Elo**\n\n- Finalizamos la constitución de la Garantía Elo.\n\n**MCO**\n\n- Roll out 2026: Revisión de plan de rollout\n\n2️⃣ IA:\n\n- **Porotaje**:  Avanzar en el rediseño del proceso de portaje con plan anual\n- **Genia**: Crear flujo de errores (VerdiFlow) y optimizar el workflow de borradores automáticos por email.\n- **Guada**: continuar ajustes y armado de guía de best prompting practices.\n\n3️⃣ Porotaje:\n\n- Sesión de trade-off\n\n4️⃣ Cross Capabilities\n\n- _Controles_: avance en el mapeo de controles existentes y faltantes.\n- _Nuevos flujos_: soporte de mapeo de controles en los tracks de MSI Prosa y Master MLM, CBK On Us y DCC.\n\n**MLC (Euge)**\n\n- **Devoluciones Parciales Merchant Financed**: continuar scope del poroto para Q1 (opcion TBK vs Opcion Klap) para poder escalar el feature\n- **Encendido Merchant Financed via MP Lending**:  continuamos con las 2 pruebas faltantes de los modelos contables ( 1 de 3 done)\n\n**MLB (Lucas)**\n\n- **Mastercard Tech Conference**: Voy a estar en el evento de Release de Master el 9/12 – Mastercard Tech Conference (All day).\n- **AI**: Tenemos la Monthly de AI Leaders y estoy trabajando con Milo para encontrar procesos dentro de CPC que puedan automatizarse (por ejemplo: Agrupador de Facturas con Cami) y esquematizando la creación de Multi-Agents.\n- **Reintentos**: Junto con Anto, estamos contactando al equipo de Bank Approval para entender el flujo de reintentos vs. la regla del Router, buscando oportunidades de TPV para Génova.\n\n**MLA (Santi)**\n\n- **No settlement ON US**: Validación de plan propuesto con MasterCard.\n- **Transferencias con tarjeta**:  Alineación para el inicio de  las pruebas junto al equipo de MP para Visa y Master\n- **Fee de riesgo**: Esta semana estaremos finalizando el rollout para la Bandera Mastercard.\n\n**MLM (Pili)**\n\n- **Tasas Naturales**: Iniciar rollout con ICA/BIN Master Visa\n- **Issue CBK en USD Master**: Tras confirmación de Mastercard que no habrá multas, tenemos que avanzar con el pago manual del saldo adeudado.\n- **MSI Master**: Inicio de rollout de los emisores Naranja X y Revolut. MC trabaja con Ualá para que resuelvan un issue con envío de IVA para poder iniciar rollout\n\n**(C) NEGOCIO CROSS (Marce)**\n\n**WIN?** Traje merchandising de Master para sortear / repartir dentro del equipo.\n\n**GENOVA**:\n\n- **MLA - Proyecto No Settlement TPV On-Us**. Definir BC y modelo captura Master.\n- **Tradeoff Interno Q1**. 2 encuentros de 4hs cada uno.\n\n**BANDERAS**\n\n- **Presentación Pau - Proyectos de tokenización**. Avanzar deck.\n- **Amex**. (1) Negociar encendido Débitos Automáticos, (2) Dar feedback al tema contratos e info solicitada.\n- **Master**. Ethoca - Consumer Clarity. Migra de OPS CBK a PF (Gus Baldani). Evitamos apagado y conseguimos 3 meses free, para que nuevo equipo evalúe la performance. Reu esta semana.",
+    "createdAt": "2025-12-09T13:27:30.203Z",
+    "memberId": "6132a8d4833a056be6508386",
+    "memberFullName": "MARCELO GALINDEZ"
+  },
+  {
+    "commentId": "69381a5d0ed89c8136ca5093",
+    "cardId": "693696401f745c71475e822d",
+    "shortLink": "vyJ5vvK7",
+    "text": "**Mejora Continua + Planning + Scheme Enablers**\n\n_Cami y Alvi OOO_\n\n**WIN Scheme Enablers :** Firmamos la carta fianza de Elo, lo cual nos permite dar por concluido el track de Licencing :raised_hands:\n\n@antonelamutti1 Resultados Genova Noviembre 2025 + Plan Genova 2026 + Seguimiento Approval MLB\n\n@noelialoza3 Catch up de temas + Actualizar fees de Genova para CUBO de noviembre\n\n@martinabailo Monthly Deck Noviembre + Review mandates Issuing + Back testing asistente Gemini\n\n@sofiasperez Continuar consultas generales soporte cross + Continuar diseño asistente de Gemini +  Cerrar contrato de Visa para Colombia",
+    "createdAt": "2025-12-09T12:47:25.520Z",
+    "memberId": "6294ec73282edc75536c286c",
+    "memberFullName": "Martina Bailo"
+  },
+  {
+    "commentId": "693815ff18d828a6fe9315cd",
+    "cardId": "693696401f745c71475e822d",
+    "shortLink": "vyJ5vvK7",
+    "text": "**XC**\n\\- TTE - Preparacion para monthly\n\\- Mafalda - Go-live\n\\- CPC IA V2 with Luqui",
+    "createdAt": "2025-12-09T12:28:47.545Z",
+    "memberId": "56af74cb1e469544ec66afb3",
+    "memberFullName": "Emilio Ferrero"
+  },
+  {
+    "commentId": "6938143d80fca59ee3c234e6",
+    "cardId": "693696401f745c71475e822d",
+    "shortLink": "vyJ5vvK7",
+    "text": "**BARI**\n\n- @patriciofernandez42 Proyecto de BINes Dormidos de tarjetas (prepaid y crédito) MLC + Análisis de emisión inhouse de Tarjetas Corporativas.\n-  @francogariffo1 Alineación proyecto EAS cloud Visa + Jurisprudencia Iva: ventanas de pruebas + Porotaje: estimación y priorización.",
+    "createdAt": "2025-12-09T12:21:17.978Z",
+    "memberId": "65a926ebdcfeba4cf92c93dc",
+    "memberFullName": "Patricio Fernandez"
+  },
+  {
+    "commentId": "6936ea3387f4760f9607bd5d",
+    "cardId": "693696401f745c71475e822d",
+    "shortLink": "vyJ5vvK7",
+    "text": "**OPTIMUS**\n\n@vanesafelipponi1\n\n- **PMO**: continuar tema sillas / trabajar definición de eficiencia\n- **Grandes iniciativas:** avanzar conversaciones metodología plan 2027\n\n@mariabattistotti1\n\n- **Gestión del cambio**\n  - IA Leads: liderar las monthlies con los resultados de la pulse y el seguimiento de iniciaitvas\n  - Reuniones eficientes: continuar problem solving\n  - Success Stories: continuar con relevamiento de casos",
+    "createdAt": "2025-12-08T15:09:39.021Z",
+    "memberId": "5e2776960678266a2b1d95e4",
+    "memberFullName": "maria.battistotti"
+  }
+]

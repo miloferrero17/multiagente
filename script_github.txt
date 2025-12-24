@@ -1,0 +1,9 @@
+git rm -r --cached .env .env.local 2>/dev/null || true
+git init
+git branch -M main
+git remote remove origin 2>/dev/null || true
+git remote add origin https://github.com/miloferrero17/multiagente.git
+git add -A
+git commit -m "reset to local project" || true
+git push -u origin main --force
+

@@ -1,0 +1,196 @@
+#!/usr/bin/env python3
+# process_comments_serial_ai_only.py
+"""
+Procesa /mnt/data/comments.json en serie *usando IA para cada comentario*.
+- Para cada comment: llama a OpenAI con system+user messages (tu spec completa).
+- Espera que el modelo devuelva SOLO el arreglo JSON (por ejemplo: [] o [{...}, ...]).
+- Guarda por comment: /mnt/data/output/<commentId>.json
+"""
+
+from pathlib import Path
+import json
+import re
+import time
+from dotenv import load_dotenv
+from datetime import datetime
+
+# Carga .env para que services.openai pueda leer OPENAI_API_KEY
+load_dotenv()
+
+# Importa la función que tenés en services/openai.py
+from services.openai import ask_openai
+
+INPUT_PATH = Path("/mnt/data/comments.json")
+OUT_DIR = Path("/mnt/data/output")
+OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+# -----------------------
+# System message (tu especificación EXACTA). Puedes editar aquí si querés.
+# -----------------------
+SYSTEM_MESSAGE = """Eres un formateador de texto.
+
+En cada llamada vas a recibir como input UN SOLO objeto JSON llamado comentario. Ese objeto incluye al menos estos campos:
+
+commentId: identificador único del comentario.
+
+createdAt: fecha/hora en ISO 8601 (ej: "2025-12-12T15:44:29.278Z")
+
+text: contenido del comentario.
+
+Ejemplo:
+
+{
+  "commentId": "693c385dcf57f598a5335964",
+  "createdAt": "2025-12-12T15:44:29.278Z",
+  "text": "Genova\\n\\n- Ajuste de pricing en COL\\n- Lanzamiento ELO"
+}
+
+Objetivo
+
+Transformar comentario.text en una lista de bullets normalizados e incluir la fecha del comentario en el string final.
+
+Reglas
+
+Ignora todos los campos excepto commentId, createdAt y text.
+
+Define fecha como:
+
+fecha = comentario.createdAt convertido a YYYY-MM-DD (tomado de la parte de fecha del ISO 8601).
+
+Ejemplo: "2025-12-12T15:44:29.278Z" → "2025-12-12".
+
+Analiza text para identificar:
+
+Título, subtítulo y sub-subtítulo (si existen), siguiendo prácticas comunes (por ejemplo: líneas sueltas, encabezados, separadores, etc.). Del team, titulo, sub-titulo y sub-sub-titulo transformamos a minúsculas y elimina todo los caracteres especiales. El resto del contenido debe convertirse en bullets (ítems) y los bullets tienen un bullet_id = <commentID>_Orden de aparición. Si ya hay bullets (por ejemplo -, *, •, numeración), úsalos.Si no hay bullets explícitos, intenta separar en ítems por semántica (frases/cortes naturales). Si aun así no es claro, considera que no hay bullets. Debes generar UN objeto por cada bullet detectado. Para cada bullet, construye un string formatted con este formato: Siempre debe incluir como mínimo fecha, título e ítem: "<texto del ítem>" Si existen subtítulo y/o sub-subtítulo, se agregan en el medio, en este orden: "[<subtítulo>] - <texto del ítem>",  "[<subtítulo>] - [<sub-subtítulo>] - <texto del ítem>" El output debe ser SIEMPRE un arreglo JSON con tantos objetos como bullets se hayan encontrado. 
+El pais del texto: 
+Argentina -> MLA; 
+Brasil -> MLB; 
+Mexico -> MLM; 
+Uruguay -> MLU; 
+Chile -> MLC; 
+Colombia -> MLO; 
+en caso de no poder detectar el pais responder “CORP”.
+
+
+Cada objeto del arreglo debe tener exactamente esta estructura:
+
+{ “bullet_id”: <commentID>_Orden de aparición
+  "commentId": "<comentario.commentId>",
+   "createdAt": "2025-12-12T15:44:29.278Z",
+  “Team”: [<título>],
+ “Sub-Title”:  [<subtítulo>] ,
+ “Sub-Sub-Title”:  [<sub-subtítulo>],
+  "formatted": [<texto del ítem>],
+“country”:  [<texto del ítem>]
+
+}
+
+
+El commentId se repite en todos los objetos generados.
+
+Si no hay bullets, devuelve un arreglo vacío:
+
+[]
+
+Restricción de salida
+
+NO devuelvas explicaciones.
+
+Devuelve ÚNICAMENTE el arreglo JSON.
+"""
+
+# -----------------------
+# Helpers para llamar la IA y validar respuesta
+# -----------------------
+def extract_json_array_from_text(txt: str) -> str:
+    """
+    Intenta extraer el primer/último bloque JSON array válido del texto del modelo.
+    También quita bloques de código triple backticks si existen.
+    """
+    if not txt:
+        return ""
+    s = txt.strip()
+    # quitar wrapper ```json ... ``` o ```
+    if s.startswith("```"):
+        # quitar la primera línea que puede ser ```json
+        s = re.sub(r'^```[^\n]*\n', '', s)
+        s = re.sub(r'\n```$', '', s).strip()
+    # buscar primer '[' y último ']'
+    first = s.find('[')
+    last = s.rfind(']')
+    if first != -1 and last != -1 and last > first:
+        return s[first:last+1]
+    return s
+
+def call_ai_for_comment(comment, max_retries=3, wait_seconds=1.0):
+    """
+    Llama a ask_openai con system + user messages y parsea la respuesta.
+    Retorna: lista (el arreglo JSON) o None si falla.
+    """
+    user_msg = (
+        "Procesa este comentario y RESPONDE SOLO con el arreglo JSON solicitado por la especificación.\n\n"
+        "Comentario JSON:\n" + json.dumps(comment, ensure_ascii=False) + "\n\n"
+        "Insisto: devuelve ÚNICAMENTE el arreglo JSON (por ejemplo: [] o [{...}, ...]) sin texto adicional."
+    )
+    messages = [
+        {"role": "system", "content": SYSTEM_MESSAGE},
+        {"role": "user", "content": user_msg}
+    ]
+
+    last_err = None
+    for attempt in range(1, max_retries + 1):
+        try:
+            resp_text = ask_openai(messages, temperature=0.0, model="gpt-4.1")
+            candidate_txt = extract_json_array_from_text(resp_text)
+            parsed = json.loads(candidate_txt)
+            if isinstance(parsed, list):
+                # mínima validación estructural opcional: cada objeto debe tener 'bullet_id' y 'commentId'
+                valid = True
+                for obj in parsed:
+                    if not isinstance(obj, dict):
+                        valid = False
+                        break
+                    if 'bullet_id' not in obj or 'commentId' not in obj:
+                        valid = False
+                        break
+                if not valid:
+                    raise ValueError("Parsed JSON list but objects fail minimal schema check")
+                return parsed
+            else:
+                raise ValueError("AI returned JSON but not a list")
+        except Exception as e:
+            last_err = e
+            # backoff simple
+            time.sleep(wait_seconds * attempt)
+            continue
+    # if it fails after retries, log and return None
+    print(f"[AI] Failed for comment {comment.get('commentId')}: {last_err}")
+    return None
+
+# -----------------------
+# Pipeline principal (IA siempre)
+# -----------------------
+def process_all_serial_ai_only():
+    if not INPUT_PATH.exists():
+        raise FileNotFoundError(f"Input not found: {INPUT_PATH}")
+    raw = json.loads(INPUT_PATH.read_text(encoding="utf-8"))
+    if not isinstance(raw, list):
+        raise ValueError("Esperaba un array JSON de comentarios en /mnt/data/comments.json")
+
+    processed = 0
+    for comment in raw:
+        cid = comment.get("commentId") or f"no-id-{processed}"
+        print(f"[AI] Processing comment {cid} ({processed+1}/{len(raw)})...")
+        ai_result = call_ai_for_comment(comment)
+        if ai_result is None:
+            # si la IA falla, escribimos [] para ese comment para no bloquear el pipeline
+            ai_result = []
+        out_path = OUT_DIR / f"{cid}.json"
+        out_path.write_text(json.dumps(ai_result, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"[AI] Wrote {len(ai_result)} bullets -> {out_path}")
+        processed += 1
+
+    print(f"[AI] Processed {processed} comments. Output dir: {OUT_DIR}")
+
+if __name__ == "__main__":
+    process_all_serial_ai_only()
