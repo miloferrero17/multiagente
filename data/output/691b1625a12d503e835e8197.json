@@ -1,0 +1,41 @@
+[
+  {
+    "bullet_id": "691b1625a12d503e835e8197_1",
+    "commentId": "691b1625a12d503e835e8197",
+    "fecha": "2025-Q4",
+    "Team": [
+      "bari"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "puesta en producción de ica y bin de tc mlc y mesa de aprobación unificada bari core analytics transaccional",
+    "country": "MLC",
+    "bandera": "Otra"
+  },
+  {
+    "bullet_id": "691b1625a12d503e835e8197_2",
+    "commentId": "691b1625a12d503e835e8197",
+    "fecha": "2025-Q4",
+    "Team": [
+      "bari"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "error en el importe en settlement internacional de la tc mla + rechazo de sintaxis visa mlm: dimensionar impacto económico",
+    "country": "MLA",
+    "bandera": "Visa"
+  },
+  {
+    "bullet_id": "691b1625a12d503e835e8197_3",
+    "commentId": "691b1625a12d503e835e8197",
+    "fecha": "2025-Q4",
+    "Team": [
+      "bari"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "análisis reforma tributaria mlb + banco mlm + definiciones on us mlb",
+    "country": "MLB",
+    "bandera": "Otra"
+  }
+]

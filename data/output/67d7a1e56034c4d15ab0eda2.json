@@ -1,0 +1,78 @@
+[
+  {
+    "bullet_id": "67d7a1e56034c4d15ab0eda2_1",
+    "commentId": "67d7a1e56034c4d15ab0eda2",
+    "fecha": "2025-Q1",
+    "Team": [
+      "planning y mejora"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "cerrar resultados génova feb-24 + presentación de resultados + costo plazo + competitividad mla (foco mcc incentivados - smart routing)"
+    ],
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67d7a1e56034c4d15ab0eda2_2",
+    "commentId": "67d7a1e56034c4d15ab0eda2",
+    "fecha": "2025-Q1",
+    "Team": [
+      "planning y mejora"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "fee de bandera emisión + controles manuales all + fees mlc cnp / cp"
+    ],
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67d7a1e56034c4d15ab0eda2_3",
+    "commentId": "67d7a1e56034c4d15ab0eda2",
+    "fecha": "2025-Q1",
+    "Team": [
+      "planning y mejora"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "competitividad mlm + calculo de fee de bandera para big sellers según transaccionalidad"
+    ],
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67d7a1e56034c4d15ab0eda2_4",
+    "commentId": "67d7a1e56034c4d15ab0eda2",
+    "fecha": "2025-Q1",
+    "Team": [
+      "planning y mejora"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "seguimiento a finops + impacto 3ds (estimación en base al a/b testing de rodri b.)"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "bullet_id": "67b2ab9448de85b830607fd0_1",
+    "commentId": "67b2ab9448de85b830607fd0",
+    "fecha": "2025-Q1",
+    "Team": [
+      "mejora planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Cerrar controles manuales y análisis fee de bandera"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67b2ab9448de85b830607fd0_2",
+    "commentId": "67b2ab9448de85b830607fd0",
+    "fecha": "2025-Q1",
+    "Team": [
+      "mejora planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Cálculo más detallado costo plazo y presentación de resultados génova"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67b2ab9448de85b830607fd0_3",
+    "commentId": "67b2ab9448de85b830607fd0",
+    "fecha": "2025-Q1",
+    "Team": [
+      "mejora planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Afinar calculo de impacto marginal tc mla - mastercard en acquiring y continuar explorar con pricing mlb pedido de programa de icnentivo para visa en mlb"
+    ],
+    "country": [
+      "MLA",
+      "MLB"
+    ],
+    "bandera": [
+      "Mastercard",
+      "Visa"
+    ]
+  },
+  {
+    "bullet_id": "67b2ab9448de85b830607fd0_4",
+    "commentId": "67b2ab9448de85b830607fd0",
+    "fecha": "2025-Q1",
+    "Team": [
+      "mejora planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Follow-up notificación visa mlb (retroactivo ic y mcc case)"
+    ],
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Visa"
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "bullet_id": "67e161ae32b538efd030bbf7_1",
+    "commentId": "67e161ae32b538efd030bbf7",
+    "fecha": "2025-Q1",
+    "Team": [
+      "mejora continua planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Afinar cálculo de fee Master MLC CP/CNP, estructurar análisis de TPV rechazado en emisión internacional"
+    ],
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "67e161ae32b538efd030bbf7_2",
+    "commentId": "67e161ae32b538efd030bbf7",
+    "fecha": "2025-Q1",
+    "Team": [
+      "mejora continua planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Rediseño weekly Génova + Primera versión de forecast para Génova"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67e161ae32b538efd030bbf7_3",
+    "commentId": "67e161ae32b538efd030bbf7",
+    "fecha": "2025-Q1",
+    "Team": [
+      "mejora continua planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Continuar análisis de costos de Génova por big seller (foco MLA) + Cerrar presen competitividad MLM con ayuda de Cams"
+    ],
+    "country": [
+      "MLA",
+      "MLM"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67e161ae32b538efd030bbf7_4",
+    "commentId": "67e161ae32b538efd030bbf7",
+    "fecha": "2025-Q1",
+    "Team": [
+      "mejora continua planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Alinear cotizador / simulador de pricing para MLC + analizar flujo cross Marketplace MLA"
+    ],
+    "country": [
+      "MLC",
+      "MLA"
+    ],
+    "bandera": [
+      ""
+    ]
+  }
+]

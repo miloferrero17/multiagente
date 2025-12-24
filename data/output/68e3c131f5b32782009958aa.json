@@ -1,0 +1,584 @@
+[
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_1",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "a relacionamiento con banderas fe y thi"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "Device Binding com Passkey (tema para Super Token)",
+    "country": "",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_2",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "a relacionamiento con banderas fe y thi"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "PRAPI y Mastercard Directory // Mercado Pago BR x Visa - Performance VDO // MercadoPago <> Visa - Tap to Everything",
+    "country": "MLB",
+    "bandera": [
+      "Mastercard",
+      "Visa"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_3",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "a relacionamiento con banderas fe y thi"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "3Ds Server interno (empezar la certificación con FIME)",
+    "country": "",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_4",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "a relacionamiento con banderas fe y thi"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "Tap to phone (Getnet) riesgo emisor",
+    "country": "",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_5",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "proyectos"
+    ],
+    "Sub-Sub-Title": [
+      "prosa"
+    ],
+    "formatted": "BIN Visa & ICA Mastercard: estamos confirmando fecha para recepción de la nueva reportería y início roll out",
+    "country": "",
+    "bandera": [
+      "Visa",
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_6",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "proyectos"
+    ],
+    "Sub-Sub-Title": [
+      "prosa"
+    ],
+    "formatted": "Gestión de notificaciones del árbitro Merlos: Entender proceso con Martu",
+    "country": "",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_7",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "proyectos"
+    ],
+    "Sub-Sub-Title": [
+      "mco visa & mc"
+    ],
+    "formatted": "Evaluación de apertura de pre-proyecto",
+    "country": "",
+    "bandera": [
+      "Visa",
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_8",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "proyectos"
+    ],
+    "Sub-Sub-Title": [
+      "mco visa & mc"
+    ],
+    "formatted": "Seguimiento de la firma del NDA de MCCA para conseguir el draft del contrato.",
+    "country": "",
+    "bandera": [
+      "Visa",
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_9",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "proyectos"
+    ],
+    "Sub-Sub-Title": [
+      "elo"
+    ],
+    "formatted": "Iniciaremos el roll out técnico con primeros sellers productivos",
+    "country": "MLB",
+    "bandera": [
+      "Elo"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_10",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "proyectos"
+    ],
+    "Sub-Sub-Title": [
+      "mla amex"
+    ],
+    "formatted": "Gestión de CBK: Excepción aprobada para salir a producción sin certificación.",
+    "country": "MLA",
+    "bandera": [
+      "American Express"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_11",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "proyectos"
+    ],
+    "Sub-Sub-Title": [
+      "mla amex"
+    ],
+    "formatted": "Esta semana se habilita el acceso manual a CBK, mientras el equipo prioriza el poroto para automatizar los files de Payment Designee (no es un must, ya que es sólo iniciación).",
+    "country": "MLA",
+    "bandera": [
+      "American Express"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_12",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "porotaje"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "Definición de nota Q3",
+    "country": "",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_13",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "porotaje"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "Preparación de los learnings Q3",
+    "country": "",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_14",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "porotaje"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "Redefinición del proceso de porotaje sin PAYAC",
+    "country": "",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_15",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "track controles"
+    ],
+    "formatted": "Mesa con Finops para decidir quien toma control de interchange en la historia del pago",
+    "country": "",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_16",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "track controles"
+    ],
+    "formatted": "Validación de controles del flujo de fee de riesgo en Master MLA",
+    "country": "MLA",
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_17",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "track controles"
+    ],
+    "formatted": "Mapeo de controles: validar herramienta (miro) y formato",
+    "country": "",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_18",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "mlb lucas"
+    ],
+    "formatted": "BINs Blacklist: Validar reglas con el equipo de Router para las BINs y los rechazos en Génova.",
+    "country": "MLB",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_19",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "mlb lucas"
+    ],
+    "formatted": "Emisión de Mandates: Ver la aplicabilidad de la automatización y la planilla de control (junto con el equipo de Bari y Martu).",
+    "country": "MLB",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_20",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "mlb lucas"
+    ],
+    "formatted": "Proyecto Reforma Tributaria: Reunión con el equipo para entender qué demandas pueden surgir para Génova relacionadas con la reforma tributaria en Brasil.",
+    "country": "MLB",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_21",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "mla santi"
+    ],
+    "formatted": "ON US: Estaremos presentando a MasterCard la idea de ON US en la reunión semanal.",
+    "country": "MLA",
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_22",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "mla santi"
+    ],
+    "formatted": "Promociones: Vamos a iniciar el roll out para el poroto de tokenización de promociones",
+    "country": "MLA",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_23",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "mla santi"
+    ],
+    "formatted": "MCC Rapipago y Pagofácil: Vamos a revisar junto al equipo de MP la manera de poder enviar el mcc final de cada seller.",
+    "country": "MLA",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_24",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "mlm pili"
+    ],
+    "formatted": "Tasas Naturales: Enviar deck de gestión de TNs + análisis de rechazos para incrementar aprobación automática",
+    "country": "MLM",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_25",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "mlm pili"
+    ],
+    "formatted": "Pin Online - TTP: Realizar prueba en staging de Pin Online en TTP",
+    "country": "MLM",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_26",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "mlm pili"
+    ],
+    "formatted": "MSI Master",
+    "country": "MLM",
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_27",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "mlc euge"
+    ],
+    "formatted": "DCC: continuamos con mesas de trabajo  con Génova IT para armar flujos y escenarios.",
+    "country": "MLC",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_28",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "mlc euge"
+    ],
+    "formatted": "Devoluciones Parciales Merchant Finance: revisión con banderas por baja en tasa de aprobación de 85% a 63%",
+    "country": "MLC",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_29",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "c negocio cross marce"
+    ],
+    "Sub-Title": [
+      "genova"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "Monthly Septiembre. Completar el mail.",
+    "country": "",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_30",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "c negocio cross marce"
+    ],
+    "Sub-Title": [
+      "genova"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "QBR Q3. Terminar el armado del deck.",
+    "country": "",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_31",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "c negocio cross marce"
+    ],
+    "Sub-Title": [
+      "genova"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "TTP con iOS en MEX. Reu para alinear posición con Pau/Juani/Mati.",
+    "country": "MLM",
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68e3c131f5b32782009958aa_32",
+    "commentId": "68e3c131f5b32782009958aa",
+    "fecha": "2025-Q4",
+    "Team": [
+      "c negocio cross marce"
+    ],
+    "Sub-Title": [
+      "banderas"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "Getnet Corp. Definir scope workshop Octubre.",
+    "country": "",
+    "bandera": [
+      "Otra"
+    ]
+  }
+]

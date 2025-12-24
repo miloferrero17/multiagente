@@ -1,0 +1,70 @@
+[
+  {
+    "bullet_id": "67a0184b8cbd9637f110e83a_1",
+    "commentId": "67a0184b8cbd9637f110e83a",
+    "fecha": "2025-Q1",
+    "Team": [
+      "planning mejora continua"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "reunión mlm - solicitar cambio ruteo mccs económicos del emisor santander de vuelta al switch de master para débito (crédito ok) + impacto nuevo mandate de tokenización @noelialoza3",
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "67a0184b8cbd9637f110e83a_2",
+    "commentId": "67a0184b8cbd9637f110e83a",
+    "fecha": "2025-Q1",
+    "Team": [
+      "planning mejora continua"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "calculos de fee de bandera adquirencia y emisión + cerrar presentación de impacto de notificación de mla @camilaprandi",
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67a0184b8cbd9637f110e83a_3",
+    "commentId": "67a0184b8cbd9637f110e83a",
+    "fecha": "2025-Q1",
+    "Team": [
+      "planning mejora continua"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "resultados génova enero-25 + redo weekly genova @antonelamutti1",
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67a0184b8cbd9637f110e83a_4",
+    "commentId": "67a0184b8cbd9637f110e83a",
+    "fecha": "2025-Q1",
+    "Team": [
+      "planning mejora continua"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "seguimiento cálculos de retroactivo visa mlb + seguimiento notificación visa mlb",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Visa"
+    ]
+  }
+]

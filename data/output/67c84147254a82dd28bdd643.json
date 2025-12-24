@@ -1,0 +1,71 @@
+[
+  {
+    "bullet_id": "67c84147254a82dd28bdd643_1",
+    "commentId": "67c84147254a82dd28bdd643",
+    "fecha": "2025-Q1",
+    "Team": [
+      "mejora continua planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "iniciar control y gestion de fee de bandera + apertura de be mastercard mlc transaccionales por tipo de captura",
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "67c84147254a82dd28bdd643_2",
+    "commentId": "67c84147254a82dd28bdd643",
+    "fecha": "2025-Q1",
+    "Team": [
+      "mejora continua planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "resultados genova febrero 2025 - seguir con analisis costo plazo",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67c84147254a82dd28bdd643_3",
+    "commentId": "67c84147254a82dd28bdd643",
+    "fecha": "2025-Q1",
+    "Team": [
+      "mejora continua planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "cerrar presentacion de visa y mastercard regionales + competitividad mlm feb25",
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Visa",
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "67c84147254a82dd28bdd643_4",
+    "commentId": "67c84147254a82dd28bdd643",
+    "fecha": "2025-Q1",
+    "Team": [
+      "mejora continua planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "cerrar proyecciones prosa visa mlm -para compartir con visa",
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Visa"
+    ]
+  }
+]

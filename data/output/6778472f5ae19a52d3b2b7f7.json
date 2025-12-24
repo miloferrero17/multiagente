@@ -1,0 +1,59 @@
+[
+  {
+    "bullet_id": "6778472f5ae19a52d3b2b7f7_1",
+    "commentId": "6778472f5ae19a52d3b2b7f7",
+    "fecha": "2025-Q1",
+    "Team": [
+      "bari"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "mlb migración crédito: abrimos el proyecto con visa y el miércoles 8/01 tenemos el primer checkpoint. seteamos el 22/01, entre 7 y 9am, como fecha/hora de migración"
+    ],
+    "country": [
+      "brasil"
+    ],
+    "bandera": [
+      "visa"
+    ]
+  },
+  {
+    "bullet_id": "6778472f5ae19a52d3b2b7f7_2",
+    "commentId": "6778472f5ae19a52d3b2b7f7",
+    "fecha": "2025-Q1",
+    "Team": [
+      "bari"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "cobrand: mesa con individuals para evacuar dudas sobre revenues en los flujos de users"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "6778472f5ae19a52d3b2b7f7_3",
+    "commentId": "6778472f5ae19a52d3b2b7f7",
+    "fecha": "2025-Q1",
+    "Team": [
+      "bari"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "bari mlm débito y crédito seguimiento para resolución de issue que permite transaccionar con ambas tarjetas luego de ingresar 3 veces incorrectamente el nip. (eta 15/01)"
+    ],
+    "country": [
+      "mexico"
+    ],
+    "bandera": [
+      ""
+    ]
+  }
+]

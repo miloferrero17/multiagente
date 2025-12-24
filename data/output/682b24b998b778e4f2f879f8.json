@@ -1,0 +1,65 @@
+[
+  {
+    "bullet_id": "682b24b998b778e4f2f879f8_1",
+    "commentId": "682b24b998b778e4f2f879f8",
+    "fecha": "2025-Q2",
+    "Team": [
+      "win"
+    ],
+    "Sub-Title": [
+      "bari"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "carga y gestión de porotaje"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "682b24b998b778e4f2f879f8_2",
+    "commentId": "682b24b998b778e4f2f879f8",
+    "fecha": "2025-Q2",
+    "Team": [
+      "win"
+    ],
+    "Sub-Title": [
+      "bari"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "mlm banco: alinear con los equipos el impacto de la migración de licencias en las banderas (alto)"
+    ],
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "682b24b998b778e4f2f879f8_3",
+    "commentId": "682b24b998b778e4f2f879f8",
+    "fecha": "2025-Q2",
+    "Team": [
+      "win"
+    ],
+    "Sub-Title": [
+      "bari"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "mlc crédito: redefinir el roadmap junto a alvaro según bandera elegida."
+    ],
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,500 @@
+[
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_1",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "a relacionamiento con banderas fe y thiw"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Data Only Visa - Definición de piloto (Visa/PF)"
+    ],
+    "country": "",
+    "bandera": [
+      "Visa"
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_2",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "a relacionamiento con banderas fe y thiw"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "MTA - Finalizar contrato para piloto (legal/jurídico)"
+    ],
+    "country": "",
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_3",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "a relacionamiento con banderas fe y thiw"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Tap to Pay - reporte del tap to verify y plan de lanzamiento (rollout) de open loop"
+    ],
+    "country": "",
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_4",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "equipo mari"
+    ],
+    "Sub-Sub-Title": [
+      "mlm prosa"
+    ],
+    "formatted": [
+      "BIN Visa & ICA Mastercard: avanzar con el roll out y consensuar un nuevo plan que permita completarlo antes de fin de diciembre."
+    ],
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Visa",
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_5",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "equipo mari"
+    ],
+    "Sub-Sub-Title": [
+      "elo"
+    ],
+    "formatted": [
+      "Finalizamos certificación API Disputa (automatización de notificaciones)."
+    ],
+    "country": "",
+    "bandera": [
+      "Elo"
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_6",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "equipo mari"
+    ],
+    "Sub-Sub-Title": [
+      "mco"
+    ],
+    "formatted": [
+      "Roll out 2026: preparar una primera versión del plan."
+    ],
+    "country": "",
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_7",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "equipo mari"
+    ],
+    "Sub-Sub-Title": [
+      "mco"
+    ],
+    "formatted": [
+      "Realizar push a Visa para coordinar un consultation y confirmar aspectos técnicos clave para la certificación."
+    ],
+    "country": "",
+    "bandera": [
+      "Visa"
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_8",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "equipo mari"
+    ],
+    "Sub-Sub-Title": [
+      "ia"
+    ],
+    "formatted": [
+      "Genia: Documentar el caso de éxito y revisar los puntos de mejoras identificados"
+    ],
+    "country": "",
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_9",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "equipo mari"
+    ],
+    "Sub-Sub-Title": [
+      "ia"
+    ],
+    "formatted": [
+      "Porotaje: Iniciar el Rediseño el proceso a partir de los cambios introducidos por la migración de porotos desde el Plan Anual."
+    ],
+    "country": "",
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_10",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "equipo mari"
+    ],
+    "Sub-Sub-Title": [
+      "ia"
+    ],
+    "formatted": [
+      "Guada: troubleshooting y fine tunning"
+    ],
+    "country": "",
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_11",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "equipo mari"
+    ],
+    "Sub-Sub-Title": [
+      "porotaje"
+    ],
+    "formatted": [
+      "Finalizar la definición del orden único de porotos de negocio."
+    ],
+    "country": "",
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_12",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "equipo mari"
+    ],
+    "Sub-Sub-Title": [
+      "cross capabilities"
+    ],
+    "formatted": [
+      "Controles: avance en el mapeo de controles existentes y faltantes."
+    ],
+    "country": "",
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_13",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "equipo mari"
+    ],
+    "Sub-Sub-Title": [
+      "cross capabilities"
+    ],
+    "formatted": [
+      "Nuevos flujos: soporte de mapeo de controles en los tracks de MSI Prosa y Master MLM, CBK On Us y DCC."
+    ],
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_14",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "mlm pili"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Cambio Jurisprudencia IVA: Iniciar pruebas de recepción de archivo con Mastercard, y en conjunto con Bari"
+    ],
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_15",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "mlm pili"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Issue CBK en USD: El reverso de los cbks que realizó MC fue por el impacto que se tuvo por el lado emisor. Tras la reunión de la semana pasada, se comunicó que debemos avanzar con Account Manager para mitigar impactos."
+    ],
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_16",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "mlm pili"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "MSI Master: Alinear inicio de rollout de los emisores Naranja X, Ualá y Revolut"
+    ],
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Mastercard",
+      "Naranja"
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_17",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "mlc euge"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Devoluciones Parciales Merchant Financed: FUP con Master y Ripley por rechazos basados en formato de mensajería. Nueva Sync con refunds y IT para estimar músculo y opciones ante el rechazo"
+    ],
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_18",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "mlc euge"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Encendido Merchant Financed via MP Lending: reintento de pruebas productivas. Sync con TMO . Pos Conci y Teso"
+    ],
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_19",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "mlb lucas"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Reintentos: Junto con Anto, estoy contactando al equipo de Bank Approval para entender el flujo de reintentos vs. la regla del Router, buscando oportunidades de TPV para Génova."
+    ],
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_20",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "mlb lucas"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "BINs Blacklist: Validar el proceso de actualización de emisores con insolvencia."
+    ],
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_21",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "mlb lucas"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Reunión con Mastercard + Genota IT: Apertura del proyecto de migración de la API de disputas de SMTM → MCOM."
+    ],
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_22",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "mla santi"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "No settlement ON US: Validación de plan propuesto con MasterCard."
+    ],
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_23",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "mla santi"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Iniciativa Post Adelantos: Alineación junto al equipo de MP scope y alcance de cada equipo."
+    ],
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_24",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "b genova"
+    ],
+    "Sub-Title": [
+      "mla santi"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Cambio de forma fee de bandera Master(Proyecto Coelsa) : Alineación con Citi por detalles en el flujo técnico."
+    ],
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  }
+]

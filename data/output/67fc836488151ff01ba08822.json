@@ -1,0 +1,59 @@
+[
+  {
+    "bullet_id": "67fc836488151ff01ba08822_1",
+    "commentId": "67fc836488151ff01ba08822",
+    "fecha": "2025-Q2",
+    "Team": [
+      "bari"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Mesa con Felix Pago + alineamiento de propuesta"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67fc836488151ff01ba08822_2",
+    "commentId": "67fc836488151ff01ba08822",
+    "fecha": "2025-Q2",
+    "Team": [
+      "bari"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "MLA: trx marcadas como internacionales que podrían ser nacionales (merchant EE.UU, adquirente Argentino, moneda settlement ARS e IC doméstico → Bari las interpretaría como internacionales)"
+    ],
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67fc836488151ff01ba08822_3",
+    "commentId": "67fc836488151ff01ba08822",
+    "fecha": "2025-Q2",
+    "Team": [
+      "bari"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Mesa con Monza previa a la migración de MLM (26/04) y entender qué paso con el retraso en plan del F&F MLA."
+    ],
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      ""
+    ]
+  }
+]

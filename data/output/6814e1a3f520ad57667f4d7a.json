@@ -1,0 +1,59 @@
+[
+  {
+    "bullet_id": "6814e1a3f520ad57667f4d7a_1",
+    "commentId": "6814e1a3f520ad57667f4d7a",
+    "fecha": "2025-Q2",
+    "Team": [
+      "mejora continua y planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "cálculos fee de bandera (foco mlb) + dashboard génova internacional @camilaprandi"
+    ],
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "6814e1a3f520ad57667f4d7a_2",
+    "commentId": "6814e1a3f520ad57667f4d7a",
+    "fecha": "2025-Q2",
+    "Team": [
+      "mejora continua y planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "cierre génova + implementación de new weekly (con proxy de internacional mlb) @antonelamutti1"
+    ],
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "6814e1a3f520ad57667f4d7a_3",
+    "commentId": "6814e1a3f520ad57667f4d7a",
+    "fecha": "2025-Q2",
+    "Team": [
+      "mejora continua y planning"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "sesión con big sellers (mostrar análisis de fee x seller) + prosa fee de bandera + control tc mla @noelialoza3"
+    ],
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      ""
+    ]
+  }
+]

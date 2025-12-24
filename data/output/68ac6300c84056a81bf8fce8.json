@@ -1,0 +1,597 @@
+[
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_1",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "mari estará ooo jueves y viernes participando de un curso presencial"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_2",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "prosa"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "iniciar pruebas f&f msi y continuar con las pruebas bin visa & ica master"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      "visa",
+      "mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_3",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mco visa & mc"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "deck para el workshop"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      "visa",
+      "mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_4",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mco visa & mc"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "primer draft de roll out"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      "visa",
+      "mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_5",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "elo"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "garantía elo: seguimiento a minutas con bb elo legales mp tesorería y cp local"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      "elo"
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_6",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mla amex"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "pruebas productivas prosegur prevista 01/09"
+    ],
+    "country": [
+      "argentina"
+    ],
+    "bandera": [
+      "american express"
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_7",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mla amex"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "finalizar el armado del plan progresivo roll out"
+    ],
+    "country": [
+      "argentina"
+    ],
+    "bandera": [
+      "american express"
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_8",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "porotaje"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "viernes sesiones de porotaje r1 con it"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_9",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "tasas naturales"
+    ],
+    "formatted": [
+      "cerrar las visualizaciones para control de contribución de prosa y rollout de tasas naturales"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_10",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "controles"
+    ],
+    "formatted": [
+      "heatmap de controles existentes por casuística y flujo"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_11",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "cross capabilities"
+    ],
+    "Sub-Sub-Title": [
+      "modelo de datos unificado"
+    ],
+    "formatted": [
+      "reproceso para incorporación de nuevos datos"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_12",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlm pili euge"
+    ],
+    "Sub-Sub-Title": [
+      "tasas naturales"
+    ],
+    "formatted": [
+      "sync con genova it para procesar datos pendientes nuevas pruebas de altas de tns tras fix de prosa en act check rollout tns"
+    ],
+    "country": [
+      "mexico"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_13",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlm pili euge"
+    ],
+    "Sub-Sub-Title": [
+      "msi master"
+    ],
+    "formatted": [
+      "repetición de pruebas con didi por error en el reporte de comisiones de master sync con conci para encender 1k transacciones de stori"
+    ],
+    "country": [
+      "mexico"
+    ],
+    "bandera": [
+      "mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_14",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlm pili euge"
+    ],
+    "Sub-Sub-Title": [
+      "ttp ios"
+    ],
+    "formatted": [
+      "encendido f&f 25/8 sync con core payments para revisar flujo doméstico e internacional sin casos"
+    ],
+    "country": [
+      "mexico"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_15",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlc euge"
+    ],
+    "Sub-Sub-Title": [
+      "refunds parciales"
+    ],
+    "formatted": [
+      "pruebas de tokenización externa sync con conci para encender demorado"
+    ],
+    "country": [
+      "chile"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_16",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlc euge"
+    ],
+    "Sub-Sub-Title": [
+      "aceleración de cupones merchant finance"
+    ],
+    "formatted": [
+      "pruebas exitosas en simetrik con génova validaciones contables wip con esta confirmación podemos comenzar rollout"
+    ],
+    "country": [
+      "chile"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_17",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlc euge"
+    ],
+    "Sub-Sub-Title": [
+      "dcc"
+    ],
+    "formatted": [
+      "revisión business case con planning y discovery con genova it respuesta banderas"
+    ],
+    "country": [
+      "chile"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_18",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlb lucas"
+    ],
+    "Sub-Sub-Title": [
+      "sif"
+    ],
+    "formatted": [
+      "seguir con la creación de mids para sellers identificados e involucrar a core payments local mlb mla mlc"
+    ],
+    "country": [
+      "brasil"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_19",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlb lucas"
+    ],
+    "Sub-Sub-Title": [
+      "mandates con verdi"
+    ],
+    "formatted": [
+      "validar con genova it el proceso automático ticket jira y testear rga para análisis de impactos"
+    ],
+    "country": [
+      "brasil"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_20",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlb lucas"
+    ],
+    "Sub-Sub-Title": [
+      "tap to more"
+    ],
+    "formatted": [
+      "pruebas con los equipos de payments gateway genova de pagos mastercard"
+    ],
+    "country": [
+      "brasil"
+    ],
+    "bandera": [
+      "mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_21",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mla santi"
+    ],
+    "Sub-Sub-Title": [
+      "adquirencia directa"
+    ],
+    "formatted": [
+      "continuaremos actualizando el business case y presentación de ad para las próximas presentaciones"
+    ],
+    "country": [
+      "argentina"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_22",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mla santi"
+    ],
+    "Sub-Sub-Title": [
+      "propinas"
+    ],
+    "formatted": [
+      "estaremos coordinando pruebas con tarjetas domésticas e internacionales con el equipo de mp para bandera visa y master"
+    ],
+    "country": [
+      "argentina"
+    ],
+    "bandera": [
+      "visa",
+      "mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_23",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mla santi"
+    ],
+    "Sub-Sub-Title": [
+      "pruebas bimo"
+    ],
+    "formatted": [
+      "continuaremos pusheando a citi para poder realizar pruebas productivas con liquidación de saldos en dólares junto al equipo de mp"
+    ],
+    "country": [
+      "argentina"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_24",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "negocio cross"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "marce del 1 al 10 de sep en colombia"
+    ],
+    "country": [
+      "colombia"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_25",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "mla adquirencia directa presentación a pau"
+    ],
+    "country": [
+      "argentina"
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_26",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "plan 2026 revisar deck e impactos de presentación de pato"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_27",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "banderas"
+    ],
+    "Sub-Sub-Title": [
+      "on us"
+    ],
+    "formatted": [
+      "alineamientos varios con mlb y mlm para determinar scope del proyecto"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  }
+]

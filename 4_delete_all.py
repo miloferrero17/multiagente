@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 """
 4_delete_all.py
@@ -155,3 +156,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# -----------------------

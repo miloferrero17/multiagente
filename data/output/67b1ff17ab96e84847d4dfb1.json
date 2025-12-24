@@ -1,0 +1,40 @@
+[
+  {
+    "bullet_id": "67b1ff17ab96e84847d4dfb1_1",
+    "commentId": "67b1ff17ab96e84847d4dfb1",
+    "fecha": "2025-Q1",
+    "Team": [
+      "x countries"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "TTE - improve UX"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  },
+  {
+    "bullet_id": "67b1ff17ab96e84847d4dfb1_2",
+    "commentId": "67b1ff17ab96e84847d4dfb1",
+    "fecha": "2025-Q1",
+    "Team": [
+      "x countries"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "Deep dive GPT"
+    ],
+    "country": [
+      ""
+    ],
+    "bandera": [
+      ""
+    ]
+  }
+]
