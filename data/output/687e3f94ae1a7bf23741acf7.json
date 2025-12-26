@@ -4,14 +4,16 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "banderas - qmap y matchmercado pago y taf",
-    "country": "",
+    "formatted": "banderas qmap y matchmercado pago y taf",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -19,15 +21,16 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "tap to more - firmar aditivo del contrato visa y mastercard + close loop mypinpad visa + reu de mastercard para piloto",
-    "country": "",
+    "formatted": "tap to more firmar aditivo del contrato visa y mastercard close loop mypinpad visa reu de mastercard para piloto",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "visa",
-      "mastercard"
+      "Visa"
     ]
   },
   {
@@ -35,16 +38,16 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "ttp argentina - sensory brand agus viola chicho y bebe",
+    "formatted": "tap to more firmar aditivo del contrato visa y mastercard close loop mypinpad visa reu de mastercard para piloto",
     "country": [
-      "MLA"
+      "CORP"
     ],
     "bandera": [
-      "otra"
+      "Mastercard"
     ]
   },
   {
@@ -52,14 +55,16 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "búsquedas - interna y fuera case presencial",
-    "country": "",
+    "formatted": "ttp argentina sensory brand agus viola chicho y bebe",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -67,16 +72,16 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "relacionamiento con las banderas"
     ],
-    "Sub-Title": [
-      "prosa"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "revisión de contribución sin tasas naturales",
-    "country": "",
+    "formatted": "búsquedas interna y fuera case presencial",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -84,16 +89,18 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mco visa mc"
+      "prosa"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "alineación con it del plan interno para desarrollar mastercard en q3.",
-    "country": "",
+    "formatted": "revisión de contribución sin tasas naturales",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "mastercard"
+      "Otra"
     ]
   },
   {
@@ -101,16 +108,18 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mco visa mc"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "apoyo en gestión de rechazos de tasas naturales",
-    "country": "",
+    "formatted": "alineación con it del plan interno para desarrollar mastercard en q3",
+    "country": [
+      "MCO"
+    ],
     "bandera": [
-      "otra"
+      "Mastercard"
     ]
   },
   {
@@ -118,18 +127,18 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mla amex"
+      "mco visa mc"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "nueva ventana con amex para realizar las pruebas productivas y lograr el go live.",
+    "formatted": "apoyo en gestión de rechazos de tasas naturales",
     "country": [
-      "MLA"
+      "MCO"
     ],
     "bandera": [
-      "american express"
+      "Otra"
     ]
   },
   {
@@ -137,16 +146,18 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "porotaje"
+      "mla amex"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "definimos si continuamos con payac o no",
-    "country": "",
+    "formatted": "nueva ventana con amex para realizar las pruebas productivas y lograr el go live",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
-      "otra"
+      "American Express"
     ]
   },
   {
@@ -154,16 +165,18 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "cross capabilities"
+      "porotaje"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "controles: análisis de casuísticas e2e no mapeadas",
-    "country": "",
+    "formatted": "definimos si continuamos con payac o no",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -171,16 +184,18 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "cross capabilities"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "análisis de controles de ecoconci vs ecofin brands",
-    "country": "",
+    "formatted": "controles análisis de casuísticas e2e no mapeadas",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -188,16 +203,18 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "cross capabilities"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "dashboard controles: presentación a los sites",
-    "country": "",
+    "formatted": "análisis de controles de ecoconci vs ecofin brands",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -205,20 +222,18 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlm pilieuge"
+      "cross capabilities"
     ],
-    "Sub-Sub-Title": [
-      "tasas naturales"
-    ],
-    "formatted": "seguimiento de plan de rollout de q3 con el site y análisis e implementación de sanitización para completar data pendiente para incrementar el universo de seller ready para solicitar tns.",
+    "Sub-Sub-Title": [],
+    "formatted": "dashboard controles presentación a los sites",
     "country": [
-      "MLM"
+      "CORP"
     ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -226,20 +241,20 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlm pilieuge"
     ],
     "Sub-Sub-Title": [
-      "msi master"
+      "tasas naturales"
     ],
-    "formatted": "reprogramamos las pruebas con didi por pedido de master para este martes 227.",
+    "formatted": "seguimiento de plan de rollout de q3 con el site y análisis e implementación de sanitización para completar data pendiente para incrementar el universo de seller ready para solicitar tns",
     "country": [
       "MLM"
     ],
     "bandera": [
-      "mastercard"
+      "Otra"
     ]
   },
   {
@@ -247,7 +262,28 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlm pilieuge"
+    ],
+    "Sub-Sub-Title": [
+      "msi master"
+    ],
+    "formatted": "reprogramamos las pruebas con didi por pedido de master para este martes 227",
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "687e3f94ae1a7bf23741acf7_16",
+    "commentId": "687e3f94ae1a7bf23741acf7",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
     ],
     "Sub-Title": [
       "mlm pilieuge"
@@ -260,28 +296,7 @@
       "MLM"
     ],
     "bandera": [
-      "otra"
-    ]
-  },
-  {
-    "bullet_id": "687e3f94ae1a7bf23741acf7_16",
-    "commentId": "687e3f94ae1a7bf23741acf7",
-    "fecha": "2025-Q3",
-    "Team": [
-      "b genova"
-    ],
-    "Sub-Title": [
-      "mlc euge"
-    ],
-    "Sub-Sub-Title": [
-      "refunds parciales"
-    ],
-    "formatted": "primeras pruebas exitosas al no tokenizar nueva transacción en on y point. esta semana continuaremos testeando nuevos escenarios montos diferentes chip tap entre otros",
-    "country": [
-      "MLC"
-    ],
-    "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -289,7 +304,28 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlc euge"
+    ],
+    "Sub-Sub-Title": [
+      "refunds parciales"
+    ],
+    "formatted": "primeras pruebas exitosas al no tokenizar nueva transacción en on y point esta semana continuaremos testeando nuevos escenarios montos diferentes chip tap entre otros",
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "687e3f94ae1a7bf23741acf7_18",
+    "commentId": "687e3f94ae1a7bf23741acf7",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
     ],
     "Sub-Title": [
       "mlc euge"
@@ -302,15 +338,15 @@
       "MLC"
     ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
-    "bullet_id": "687e3f94ae1a7bf23741acf7_18",
+    "bullet_id": "687e3f94ae1a7bf23741acf7_19",
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlc euge"
@@ -323,28 +359,7 @@
       "MLC"
     ],
     "bandera": [
-      "otra"
-    ]
-  },
-  {
-    "bullet_id": "687e3f94ae1a7bf23741acf7_19",
-    "commentId": "687e3f94ae1a7bf23741acf7",
-    "fecha": "2025-Q3",
-    "Team": [
-      "b genova"
-    ],
-    "Sub-Title": [
-      "mlb lucas"
-    ],
-    "Sub-Sub-Title": [
-      "mastercard match"
-    ],
-    "formatted": "tenemos una reunión con core payments mlb sobre migrar el flujo de midxseller a payfac debido a las notificaciones que recibimos.",
-    "country": [
-      "MLB"
-    ],
-    "bandera": [
-      "mastercard"
+      "Otra"
     ]
   },
   {
@@ -352,20 +367,20 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlb lucas"
     ],
     "Sub-Sub-Title": [
-      "visa sif system integrity fees"
+      "mastercard match"
     ],
-    "formatted": "buscar información sobre la cantidad de sellers que generan impacto por multas para el programa y el esfuerzo posibilidad de un mid individualizado para esos sellers.",
+    "formatted": "tenemos una reunión con core payments mlb sobre migrar el flujo de midxseller a payfac debido a las notificaciones que recibimos",
     "country": [
       "MLB"
     ],
     "bandera": [
-      "visa"
+      "Mastercard"
     ]
   },
   {
@@ -373,20 +388,20 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlb lucas"
     ],
     "Sub-Sub-Title": [
-      "mejoras motor mcc"
+      "visa sif system integrity fees"
     ],
-    "formatted": "sincronización con los equipos sobre el poroto donde génova actuará solamente como informante de los cambios de mcc realizados por las banderas para que el equipo del motor de mcc consuma esa información.",
+    "formatted": "buscar información sobre la cantidad de sellers que generan impacto por multas para el programa y el esfuerzo posibilidad de un mid individualizado para esos sellers",
     "country": [
       "MLB"
     ],
     "bandera": [
-      "otra"
+      "Visa"
     ]
   },
   {
@@ -394,7 +409,28 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlb lucas"
+    ],
+    "Sub-Sub-Title": [
+      "mejoras motor mcc"
+    ],
+    "formatted": "sincronización con los equipos sobre el poroto donde génova actuará solamente como informante de los cambios de mcc realizados por las banderas para que el equipo del motor de mcc consuma esa información",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "687e3f94ae1a7bf23741acf7_23",
+    "commentId": "687e3f94ae1a7bf23741acf7",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
     ],
     "Sub-Title": [
       "mla santi"
@@ -407,15 +443,15 @@
       "MLA"
     ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
-    "bullet_id": "687e3f94ae1a7bf23741acf7_23",
+    "bullet_id": "687e3f94ae1a7bf23741acf7_24",
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla santi"
@@ -428,15 +464,15 @@
       "MLA"
     ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
-    "bullet_id": "687e3f94ae1a7bf23741acf7_24",
+    "bullet_id": "687e3f94ae1a7bf23741acf7_25",
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla santi"
@@ -449,24 +485,7 @@
       "MLA"
     ],
     "bandera": [
-      "otra"
-    ]
-  },
-  {
-    "bullet_id": "687e3f94ae1a7bf23741acf7_25",
-    "commentId": "687e3f94ae1a7bf23741acf7",
-    "fecha": "2025-Q3",
-    "Team": [
-      "c negocio cross marce"
-    ],
-    "Sub-Title": [],
-    "Sub-Sub-Title": [],
-    "formatted": "mla: seguir avanzando con el deck de adquirencia directa con el objetivo de determinar el tamaño del negocio y el esfuerzo.",
-    "country": [
-      "MLA"
-    ],
-    "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -474,16 +493,16 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "mlm: reunión con visa méxico x plan adquirencia 20252026.",
+    "formatted": "mla seguir avanzando con el deck de adquirencia directa con el objetivo de determinar el tamaño del negocio y el esfuerzo",
     "country": [
-      "MLM"
+      "MLA"
     ],
     "bandera": [
-      "visa"
+      "Otra"
     ]
   },
   {
@@ -491,16 +510,16 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "mlm: foco plan captura tasas naturales h2 2025.",
+    "formatted": "mlm reunión con visa méxico x plan adquirencia 20252026",
     "country": [
       "MLM"
     ],
     "bandera": [
-      "otra"
+      "Visa"
     ]
   },
   {
@@ -508,18 +527,35 @@
     "commentId": "687e3f94ae1a7bf23741acf7",
     "fecha": "2025-Q3",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "mlm foco plan captura tasas naturales h2 2025",
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "687e3f94ae1a7bf23741acf7_29",
+    "commentId": "687e3f94ae1a7bf23741acf7",
+    "fecha": "2025-Q3",
+    "Team": [
+      "negocio cross"
     ],
     "Sub-Title": [
       "banderas"
     ],
-    "Sub-Sub-Title": [
-      "visa"
+    "Sub-Sub-Title": [],
+    "formatted": "visa comunicar internamente los nuevos focal points técnicos y de producto a nivel regional",
+    "country": [
+      "CORP"
     ],
-    "formatted": "comunicar internamente los nuevos focal points técnicos y de producto a nivel regional.",
-    "country": "",
     "bandera": [
-      "visa"
+      "Visa"
     ]
   }
 ]

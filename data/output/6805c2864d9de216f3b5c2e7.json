@@ -8,10 +8,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "win confirmamos el reemplazo de yoe que comenzará el 15/05 con un esquema compartido y a partir del 1ro de junio full en el equipo",
-    "country": "",
+    "formatted": "confirmamos el reemplazo de yoe que comenzará el 15/05 con un esquema compartido y a partir del 1ro de junio full en el equipo",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -23,12 +25,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "mlm crédito cerrar definiciones y detalles de la migración sábado 26/04",
+    "formatted": "mlm crédito: cerrar definiciones y detalles de la migración (sábado 26/04)",
     "country": [
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -40,9 +42,9 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "cobrands workshop de priorización juntos a master de posibles partners de la región incluyendo a negocios de cada site y corp",
+    "formatted": "cobrands: workshop de priorización juntos a master de posibles partners de la región, incluyendo a negocios de cada site y corp",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
       "Mastercard"
@@ -62,7 +64,7 @@
       "MLC"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

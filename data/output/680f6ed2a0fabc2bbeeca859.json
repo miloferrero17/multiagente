@@ -4,7 +4,7 @@
     "commentId": "680f6ed2a0fabc2bbeeca859",
     "fecha": "2025-Q2",
     "Team": [
-      "win"
+      "bari"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
@@ -21,7 +21,7 @@
     "commentId": "680f6ed2a0fabc2bbeeca859",
     "fecha": "2025-Q2",
     "Team": [
-      "low"
+      "bari"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
@@ -29,7 +29,9 @@
     "country": [
       "MLM"
     ],
-    "bandera": []
+    "bandera": [
+      "Visa"
+    ]
   },
   {
     "bullet_id": "680f6ed2a0fabc2bbeeca859_3",
@@ -44,7 +46,9 @@
     "country": [
       "MLM"
     ],
-    "bandera": []
+    "bandera": [
+      "CORP"
+    ]
   },
   {
     "bullet_id": "680f6ed2a0fabc2bbeeca859_4",
@@ -56,10 +60,11 @@
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "discovery de la solución alm de master y similar de visa",
-    "country": [],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "Mastercard",
-      "Visa"
+      "Mastercard"
     ]
   },
   {
@@ -71,8 +76,10 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "deck qbr de bari 08 05 y slides del workshop de mastercard",
-    "country": [],
+    "formatted": "deck qbr de bari 0805 y slides del workshop de mastercard",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Mastercard"
     ]

@@ -4,18 +4,20 @@
     "commentId": "6869a8b4e58a8c20977ee0dc",
     "fecha": "2025-Q3",
     "Team": [
-      "xc low"
+      "x countries"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "low"
+    ],
     "Sub-Sub-Title": [],
     "formatted": [
       "monthly tte"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -23,18 +25,20 @@
     "commentId": "6869a8b4e58a8c20977ee0dc",
     "fecha": "2025-Q3",
     "Team": [
-      "xc low"
+      "x countries"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "low"
+    ],
     "Sub-Sub-Title": [],
     "formatted": [
       "war room"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

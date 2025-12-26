@@ -6,16 +6,18 @@
     "Team": [
       "genova"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "prosa"
+    ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "mari estará ooo jueves y viernes participando de un curso presencial"
+      "iniciar pruebas f&f msi y continuar con las pruebas bin visa & ica master"
     ],
     "country": [
-      ""
+      "corp"
     ],
     "bandera": [
-      ""
+      "visa"
     ]
   },
   {
@@ -26,18 +28,17 @@
       "genova"
     ],
     "Sub-Title": [
-      "prosa"
+      "mco visa & mc"
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "iniciar pruebas f&f msi y continuar con las pruebas bin visa & ica master"
+      "deck para el workshop"
     ],
     "country": [
-      ""
+      "mco"
     ],
     "bandera": [
-      "visa",
-      "mastercard"
+      "visa"
     ]
   },
   {
@@ -52,40 +53,17 @@
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "deck para el workshop"
+      "primer draft de roll out"
     ],
     "country": [
-      ""
+      "mco"
     ],
     "bandera": [
-      "visa",
       "mastercard"
     ]
   },
   {
     "bullet_id": "68ac6300c84056a81bf8fce8_4",
-    "commentId": "68ac6300c84056a81bf8fce8",
-    "fecha": "2025-Q3",
-    "Team": [
-      "genova"
-    ],
-    "Sub-Title": [
-      "mco visa & mc"
-    ],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "primer draft de roll out"
-    ],
-    "country": [
-      ""
-    ],
-    "bandera": [
-      "visa",
-      "mastercard"
-    ]
-  },
-  {
-    "bullet_id": "68ac6300c84056a81bf8fce8_5",
     "commentId": "68ac6300c84056a81bf8fce8",
     "fecha": "2025-Q3",
     "Team": [
@@ -99,10 +77,31 @@
       "garantía elo: seguimiento a minutas con bb elo legales mp tesorería y cp local"
     ],
     "country": [
-      ""
+      "corp"
     ],
     "bandera": [
       "elo"
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_5",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mla amex"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "pruebas productivas prosegur prevista 01/09"
+    ],
+    "country": [
+      "mla"
+    ],
+    "bandera": [
+      "american express"
     ]
   },
   {
@@ -117,10 +116,10 @@
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "pruebas productivas prosegur prevista 01/09"
+      "finalizar el armado del plan progresivo roll out"
     ],
     "country": [
-      "argentina"
+      "mla"
     ],
     "bandera": [
       "american express"
@@ -134,27 +133,6 @@
       "genova"
     ],
     "Sub-Title": [
-      "mla amex"
-    ],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "finalizar el armado del plan progresivo roll out"
-    ],
-    "country": [
-      "argentina"
-    ],
-    "bandera": [
-      "american express"
-    ]
-  },
-  {
-    "bullet_id": "68ac6300c84056a81bf8fce8_8",
-    "commentId": "68ac6300c84056a81bf8fce8",
-    "fecha": "2025-Q3",
-    "Team": [
-      "genova"
-    ],
-    "Sub-Title": [
       "porotaje"
     ],
     "Sub-Sub-Title": [],
@@ -162,14 +140,14 @@
       "viernes sesiones de porotaje r1 con it"
     ],
     "country": [
-      ""
+      "corp"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
-    "bullet_id": "68ac6300c84056a81bf8fce8_9",
+    "bullet_id": "68ac6300c84056a81bf8fce8_8",
     "commentId": "68ac6300c84056a81bf8fce8",
     "fecha": "2025-Q3",
     "Team": [
@@ -185,14 +163,14 @@
       "cerrar las visualizaciones para control de contribución de prosa y rollout de tasas naturales"
     ],
     "country": [
-      ""
+      "corp"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
-    "bullet_id": "68ac6300c84056a81bf8fce8_10",
+    "bullet_id": "68ac6300c84056a81bf8fce8_9",
     "commentId": "68ac6300c84056a81bf8fce8",
     "fecha": "2025-Q3",
     "Team": [
@@ -208,14 +186,14 @@
       "heatmap de controles existentes por casuística y flujo"
     ],
     "country": [
-      ""
+      "corp"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
-    "bullet_id": "68ac6300c84056a81bf8fce8_11",
+    "bullet_id": "68ac6300c84056a81bf8fce8_10",
     "commentId": "68ac6300c84056a81bf8fce8",
     "fecha": "2025-Q3",
     "Team": [
@@ -231,10 +209,33 @@
       "reproceso para incorporación de nuevos datos"
     ],
     "country": [
-      ""
+      "corp"
     ],
     "bandera": [
-      ""
+      "otra"
+    ]
+  },
+  {
+    "bullet_id": "68ac6300c84056a81bf8fce8_11",
+    "commentId": "68ac6300c84056a81bf8fce8",
+    "fecha": "2025-Q3",
+    "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
+      "mlm"
+    ],
+    "Sub-Sub-Title": [
+      "tasas naturales"
+    ],
+    "formatted": [
+      "sync con genova it para procesar datos pendientes nuevas pruebas de altas de tns tras fix de prosa en act check rollout tns"
+    ],
+    "country": [
+      "mlm"
+    ],
+    "bandera": [
+      "otra"
     ]
   },
   {
@@ -245,19 +246,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlm pili euge"
+      "mlm"
     ],
     "Sub-Sub-Title": [
-      "tasas naturales"
+      "msi master"
     ],
     "formatted": [
-      "sync con genova it para procesar datos pendientes nuevas pruebas de altas de tns tras fix de prosa en act check rollout tns"
+      "repetición de pruebas con didi por error en el reporte de comisiones de master sync con conci para encender 1k transacciones de stori"
     ],
     "country": [
-      "mexico"
+      "mlm"
     ],
     "bandera": [
-      ""
+      "mastercard"
     ]
   },
   {
@@ -268,19 +269,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlm pili euge"
+      "mlm"
     ],
     "Sub-Sub-Title": [
-      "msi master"
+      "ttp ios"
     ],
     "formatted": [
-      "repetición de pruebas con didi por error en el reporte de comisiones de master sync con conci para encender 1k transacciones de stori"
+      "encendido f&f 25/8 sync con core payments para revisar flujo doméstico e internacional sin casos"
     ],
     "country": [
-      "mexico"
+      "mlm"
     ],
     "bandera": [
-      "mastercard"
+      "otra"
     ]
   },
   {
@@ -291,19 +292,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlm pili euge"
+      "mlc"
     ],
     "Sub-Sub-Title": [
-      "ttp ios"
+      "refunds parciales"
     ],
     "formatted": [
-      "encendido f&f 25/8 sync con core payments para revisar flujo doméstico e internacional sin casos"
+      "pruebas de tokenización externa sync con conci para encender demorado"
     ],
     "country": [
-      "mexico"
+      "mlc"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
@@ -314,19 +315,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlc euge"
+      "mlc"
     ],
     "Sub-Sub-Title": [
-      "refunds parciales"
+      "aceleración de cupones merchant finance"
     ],
     "formatted": [
-      "pruebas de tokenización externa sync con conci para encender demorado"
+      "pruebas exitosas en simetrik con génova validaciones contables wip con esta confirmación podemos comenzar rollout"
     ],
     "country": [
-      "chile"
+      "mlc"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
@@ -337,19 +338,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlc euge"
+      "mlc"
     ],
     "Sub-Sub-Title": [
-      "aceleración de cupones merchant finance"
+      "dcc"
     ],
     "formatted": [
-      "pruebas exitosas en simetrik con génova validaciones contables wip con esta confirmación podemos comenzar rollout"
+      "revisión business case con planning y discovery con genova it respuesta banderas"
     ],
     "country": [
-      "chile"
+      "mlc"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
@@ -360,19 +361,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlc euge"
+      "mlb"
     ],
     "Sub-Sub-Title": [
-      "dcc"
+      "sif"
     ],
     "formatted": [
-      "revisión business case con planning y discovery con genova it respuesta banderas"
+      "seguir con la creación de mids para sellers identificados e involucrar a core payments local mlb mla mlc"
     ],
     "country": [
-      "chile"
+      "mlb"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
@@ -383,19 +384,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlb lucas"
+      "mlb"
     ],
     "Sub-Sub-Title": [
-      "sif"
+      "mandates con verdi"
     ],
     "formatted": [
-      "seguir con la creación de mids para sellers identificados e involucrar a core payments local mlb mla mlc"
+      "validar con genova it el proceso automático ticket jira y testear rga para análisis de impactos"
     ],
     "country": [
-      "brasil"
+      "mlb"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
@@ -406,19 +407,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlb lucas"
+      "mlb"
     ],
     "Sub-Sub-Title": [
-      "mandates con verdi"
+      "tap to more"
     ],
     "formatted": [
-      "validar con genova it el proceso automático ticket jira y testear rga para análisis de impactos"
+      "pruebas con los equipos de payments gateway genova de pagos mastercard"
     ],
     "country": [
-      "brasil"
+      "mlb"
     ],
     "bandera": [
-      ""
+      "mastercard"
     ]
   },
   {
@@ -429,19 +430,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlb lucas"
+      "mla"
     ],
     "Sub-Sub-Title": [
-      "tap to more"
+      "adquirencia directa"
     ],
     "formatted": [
-      "pruebas con los equipos de payments gateway genova de pagos mastercard"
+      "continuaremos actualizando el business case y presentación de ad para las próximas presentaciones"
     ],
     "country": [
-      "brasil"
+      "mla"
     ],
     "bandera": [
-      "mastercard"
+      "otra"
     ]
   },
   {
@@ -452,19 +453,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "mla santi"
+      "mla"
     ],
     "Sub-Sub-Title": [
-      "adquirencia directa"
+      "propinas"
     ],
     "formatted": [
-      "continuaremos actualizando el business case y presentación de ad para las próximas presentaciones"
+      "estaremos coordinando pruebas con tarjetas domésticas e internacionales con el equipo de mp para bandera visa y master"
     ],
     "country": [
-      "argentina"
+      "mla"
     ],
     "bandera": [
-      ""
+      "visa"
     ]
   },
   {
@@ -475,7 +476,7 @@
       "genova"
     ],
     "Sub-Title": [
-      "mla santi"
+      "mla"
     ],
     "Sub-Sub-Title": [
       "propinas"
@@ -484,10 +485,9 @@
       "estaremos coordinando pruebas con tarjetas domésticas e internacionales con el equipo de mp para bandera visa y master"
     ],
     "country": [
-      "argentina"
+      "mla"
     ],
     "bandera": [
-      "visa",
       "mastercard"
     ]
   },
@@ -499,7 +499,7 @@
       "genova"
     ],
     "Sub-Title": [
-      "mla santi"
+      "mla"
     ],
     "Sub-Sub-Title": [
       "pruebas bimo"
@@ -508,10 +508,10 @@
       "continuaremos pusheando a citi para poder realizar pruebas productivas con liquidación de saldos en dólares junto al equipo de mp"
     ],
     "country": [
-      "argentina"
+      "mla"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
@@ -527,10 +527,10 @@
       "marce del 1 al 10 de sep en colombia"
     ],
     "country": [
-      "colombia"
+      "mco"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
@@ -546,10 +546,10 @@
       "mla adquirencia directa presentación a pau"
     ],
     "country": [
-      "argentina"
+      "mla"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
@@ -565,10 +565,10 @@
       "plan 2026 revisar deck e impactos de presentación de pato"
     ],
     "country": [
-      ""
+      "corp"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
@@ -576,22 +576,18 @@
     "commentId": "68ac6300c84056a81bf8fce8",
     "fecha": "2025-Q3",
     "Team": [
-      "genova"
+      "relacionamiento con las banderas"
     ],
-    "Sub-Title": [
-      "banderas"
-    ],
-    "Sub-Sub-Title": [
-      "on us"
-    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "alineamientos varios con mlb y mlm para determinar scope del proyecto"
+      "on-us alineamientos varios con mlb y mlm para determinar scope del proyecto"
     ],
     "country": [
-      ""
+      "corp"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   }
 ]

@@ -4,18 +4,20 @@
     "commentId": "6908945a15ba19bd2deb7d5f",
     "fecha": "2025-Q4",
     "Team": [
-      "xc"
+      "x countries"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "tte"
+    ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "tte - fcst de impacto"
+      "fcst de impacto"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -23,18 +25,20 @@
     "commentId": "6908945a15ba19bd2deb7d5f",
     "fecha": "2025-Q4",
     "Team": [
-      "xc"
+      "x countries"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "cpc ia"
+    ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "cpc ia - biweekly"
+      "biweekly"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -42,18 +46,20 @@
     "commentId": "6908945a15ba19bd2deb7d5f",
     "fecha": "2025-Q4",
     "Team": [
-      "xc"
+      "x countries"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "mafalda"
+    ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "mafalda - fup"
+      "fup"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

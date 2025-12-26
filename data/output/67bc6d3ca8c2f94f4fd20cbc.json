@@ -4,18 +4,16 @@
     "commentId": "67bc6d3ca8c2f94f4fd20cbc",
     "fecha": "2025-Q1",
     "Team": [
-      "x country"
+      "x countries"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "tte - ux review + review de conversion"
-    ],
+    "formatted": "tte ux review review de conversion",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -23,18 +21,16 @@
     "commentId": "67bc6d3ca8c2f94f4fd20cbc",
     "fecha": "2025-Q1",
     "Team": [
-      "x country"
+      "x countries"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "gpt deep dive - continuar talleres"
-    ],
+    "formatted": "gpt deep dive continuar talleres",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

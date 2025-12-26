@@ -4,259 +4,339 @@
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "cierre y reporte de fees de bandera octubre",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_2",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "controles no transaccionales",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_3",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "gestión fees de bandera",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_4",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "continuar looker scheme fees",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_5",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "plan genova 2026",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_6",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "cierre resultados genova 2026",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_7",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "presentación resultados y monthly",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_8",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "actualización de fees de genova en cubo y seguimiento de cierre oct",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_9",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "continuar con track de maestro mlb",
-    "country": "Brasil",
-    "bandera": ""
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_10",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "competitividad mexico (hacer push para cambios de mcc en switch master)",
-    "country": "Mexico",
-    "bandera": "Mastercard"
+    "formatted": "competitividad mexico hacer push para cambios de mcc en switch master",
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_11",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "decks novedades de bandera",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_12",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "monthly update octubre",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_13",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "análisis cambios normativos méxico",
-    "country": "Mexico",
-    "bandera": ""
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_14",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "soft descriptors mla: apoyo r&c en respuesta a bcra",
-    "country": "Argentina",
-    "bandera": ""
+    "formatted": "soft descriptors mla apoyo r c en respuesta a bcra",
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_15",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "armado del deck novedades con martu",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_16",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "apoyo respuesta a la consulta del bcra",
-    "country": "Argentina",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_17",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "mapeo de reclamos y devoluciones con cami",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_18",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "continuar onboarding",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_19",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "actualización hc genova ti (en caso de existir)",
-    "country": "",
-    "bandera": ""
+    "formatted": "actualización hc genova ti en caso de existir",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "690fa334d8b99b0c633e03f9_20",
     "commentId": "690fa334d8b99b0c633e03f9",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "workshop interno equipo eficiencia",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   }
 ]

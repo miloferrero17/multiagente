@@ -8,14 +8,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "iniciamos mesas para armar las iniciativas de bari 2026"
-    ],
+    "formatted": "iniciamos mesas para armar las iniciativas de bari 2026",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -27,15 +25,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "mesa con visa y master por status de pin online en mlm (master supuestamente tenia a su primer emisor en mayo)"
-    ],
+    "formatted": "mesa con visa y master por status de pin online en mlm (master supuestamente tenia a su primer emisor en mayo)",
     "country": [
       "MLM"
     ],
     "bandera": [
-      "Visa",
-      "Mastercard"
+      "Visa"
     ]
   },
   {
@@ -47,14 +42,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "banco mlm: continuamos alineando estrategia de migración la figura de nuestra wallet y la separación entre psp y banco"
-    ],
+    "formatted": "banco mlm: continuamos alineando estrategia de migración la figura de nuestra wallet y la separación entre psp y banco",
     "country": [
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

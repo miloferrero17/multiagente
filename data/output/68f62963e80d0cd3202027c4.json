@@ -9,10 +9,14 @@
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "@patriciofernandez42 cierre de certificación tc mlc + avances administrativos y técnicos por ppc mlu (fmp, taxes, puebas online)"
+      "cierre de certificación tc mlc + avances administrativos y técnicos por ppc mlu (fmp, taxes, puebas online)"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68f62963e80d0cd3202027c4_2",
@@ -24,9 +28,11 @@
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "@francogariffo1 tokenizaicion nfc mlm: configuración reglas en vrm con visa para poder iniciar pruebas de pagos nfc en nuestra wallet"
+      "tokenizaicion nfc mlm: configuración reglas en vrm con visa para poder iniciar pruebas de pagos nfc en nuestra wallet"
     ],
-    "country": "",
+    "country": [
+      "MLM"
+    ],
     "bandera": [
       "Visa"
     ]
@@ -43,7 +49,11 @@
     "formatted": [
       "catch-up con emi a su vuelta de la licencia"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   }
 ]

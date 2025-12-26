@@ -12,12 +12,14 @@
     "Sub-Sub-Title": [
       "mlm prosa"
     ],
-    "formatted": "alinear con ops cbk plan de roll out para q2",
+    "formatted": [
+      "alinear con ops cbk plan de roll out para q2"
+    ],
     "country": [
-      "mlm"
+      "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -33,12 +35,14 @@
     "Sub-Sub-Title": [
       "mla amex"
     ],
-    "formatted": "completar el kick off con preparación de ambientes de test",
+    "formatted": [
+      "completar el kick off con preparación de ambientes de test"
+    ],
     "country": [
-      "mla"
+      "MLA"
     ],
     "bandera": [
-      "american express"
+      "American Express"
     ]
   },
   {
@@ -54,12 +58,14 @@
     "Sub-Sub-Title": [
       "porotaje"
     ],
-    "formatted": "proceso de q2/25: apertura de ticketera 13/01 hasta el 29/01",
+    "formatted": [
+      "proceso de q2/25 apertura de ticketera 13/01 hasta el 29/01"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -75,12 +81,14 @@
     "Sub-Sub-Title": [
       "capabilities cross"
     ],
-    "formatted": "revisión de kpis adelantos: alinear criterio de cálculo de tpv adelantado con genova it anto y negocio mla",
+    "formatted": [
+      "revisión de kpis adelantos alinear criterio de cálculo de tpv adelantado con genova it anto y negocio mla"
+    ],
     "country": [
-      "mla"
+      "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -96,12 +104,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "pruebas técnicas de la solución para el split de refund problema de diferencia de ic",
+    "formatted": [
+      "pruebas técnicas de la solución para el split de refund problema de diferencia de ic"
+    ],
     "country": [
-      "mlb"
+      "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -117,12 +127,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "loterías caixa - tombamento de emisores que levantaron el bloqueo del mcc 9406",
+    "formatted": [
+      "loterías caixa tombamento de emisores que levantaron el bloqueo del mcc 9406"
+    ],
     "country": [
-      "mlb"
+      "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -138,12 +150,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "comprensión de la solución de pricing para el share de mlb",
+    "formatted": [
+      "comprensión de la solución de pricing para el share de mlb"
+    ],
     "country": [
-      "mlb"
+      "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -159,12 +173,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "fee collection banco supervielle: estamos alineando con supervielle un contrato para recuperar el monto de otros adquirentes en el mismo fee collection",
+    "formatted": [
+      "fee collection banco supervielle estamos alineando con supervielle un contrato para recuperar el monto de otros adquirentes en el mismo fee collection"
+    ],
     "country": [
-      "mla"
+      "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -180,12 +196,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "unmatched clearing : presentación del waiver para recuperar las multas acumuladas 820k usd y presentar el proyectado de cuotas futuras hasta 2026 1m uss",
+    "formatted": [
+      "unmatched clearing presentación del waiver para recuperar las multas acumuladas 820k usd y presentar el proyectado de cuotas futuras hasta 2026 1m uss"
+    ],
     "country": [
-      "mla"
+      "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -201,12 +219,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "bimonetarismo: apertura de cuentas de garantía en coelsa y viabilidad de apertura de cuentas en usd en otros bancos",
+    "formatted": [
+      "bimonetarismo apertura de cuentas de garantía en coelsa y viabilidad de apertura de cuentas en usd en otros bancos"
+    ],
     "country": [
-      "mla"
+      "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -220,14 +240,16 @@
       "mlm mlc euge"
     ],
     "Sub-Sub-Title": [
-      ""
+      "mlm msi master"
     ],
-    "formatted": "[mlm msi master:] revisión flujo con ac done eta diseño 31/1 sync por termsheet con master y legales revisión de files con ecofin para pasar a ecoconci wip",
+    "formatted": [
+      "revisión flujo con ac done eta diseño 31/1 sync por termsheet con master y legales revisión de files con ecofin para pasar a ecoconci wip"
+    ],
     "country": [
-      "mlm"
+      "MLM"
     ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -241,14 +263,16 @@
       "mlm mlc euge"
     ],
     "Sub-Sub-Title": [
-      ""
-    ],
-    "formatted": "[mlm] apertura cuenta internaciona 14/1 - pedido de instrucción done para roll out de pruebas alta de cp site wip",
-    "country": [
       "mlm"
     ],
+    "formatted": [
+      "apertura cuenta internaciona 14/1 pedido de instrucción done para roll out de pruebas alta de cp site wip"
+    ],
+    "country": [
+      "MLM"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -262,14 +286,16 @@
       "mlm mlc euge"
     ],
     "Sub-Sub-Title": [
-      ""
-    ],
-    "formatted": "[mlm] tasas naturals: 165 sellers id aprobados - pedido de instrucción de una tn done alta de cp site eta 20/1",
-    "country": [
       "mlm"
     ],
+    "formatted": [
+      "tasas naturals 165 sellers id aprobados pedido de instrucción de una tn done alta de cp site eta 20/1"
+    ],
+    "country": [
+      "MLM"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -283,14 +309,16 @@
       "mlm mlc euge"
     ],
     "Sub-Sub-Title": [
-      ""
-    ],
-    "formatted": "[mlc] trade off devoluciones parciales merchant financed para que quede como ayd reu con gva it por scope y ecoconci y gateway por dependencias- quedo in con todos los equipos armar roadmap y cerrar dod para compartir con gva it",
-    "country": [
       "mlc"
     ],
+    "formatted": [
+      "trade off devoluciones parciales merchant financed para que quede como ayd reu con gva it por scope y ecoconci y gateway por dependencias quedo in con todos los equipos armar roadmap y cerrar dod para compartir con gva it"
+    ],
+    "country": [
+      "MLC"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -298,7 +326,7 @@
     "commentId": "678e428d4626b0c172284e27",
     "fecha": "2025-Q1",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "low"
@@ -306,12 +334,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "sef q1 a q3 11mm y 50% de q3 firma para aditivo",
+    "formatted": [
+      "sef q1 a q3 11mm y 50 de q3 firma para aditivo"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -319,7 +349,7 @@
     "commentId": "678e428d4626b0c172284e27",
     "fecha": "2025-Q1",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "low"
@@ -327,12 +357,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "seguimiento visa y master - 3ds visa servidor",
+    "formatted": [
+      "seguimiento visa y master 3ds visa servidor"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      "visa"
+      "Visa"
     ]
   },
   {
@@ -340,7 +372,7 @@
     "commentId": "678e428d4626b0c172284e27",
     "fecha": "2025-Q1",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "low"
@@ -348,12 +380,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "fido / taf / token requestor con device binding / data only reu con mastercard",
+    "formatted": [
+      "fido taf token requestor con device binding data only reu con mastercard"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -361,7 +395,7 @@
     "commentId": "678e428d4626b0c172284e27",
     "fecha": "2025-Q1",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "low"
@@ -369,12 +403,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "proyecto mastercard advisors cobrand equipo bari y otros prioridad",
+    "formatted": [
+      "proyecto mastercard advisors cobrand equipo bari y otros prioridad"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -382,7 +418,7 @@
     "commentId": "678e428d4626b0c172284e27",
     "fecha": "2025-Q1",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "low"
@@ -390,12 +426,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "nfc en wallet tarjetas de otros emisores",
+    "formatted": [
+      "nfc en wallet tarjetas de otros emisores"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -403,7 +441,7 @@
     "commentId": "678e428d4626b0c172284e27",
     "fecha": "2025-Q1",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "low"
@@ -411,12 +449,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "nda cbt - colômbia",
+    "formatted": [
+      "nda cbt colombia"
+    ],
     "country": [
-      "mlo"
+      "MCO"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -432,12 +472,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "all: terminar de llegar y ponerme al día con mails y slacks",
+    "formatted": [
+      "all terminar de llegar y ponerme al día con mails y slacks"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -453,12 +495,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "genova: enviar monthy diciembre",
+    "formatted": [
+      "genova enviar monthy diciembre"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -474,12 +518,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "bari enviar monthly diciembre + review slides deck pau qbr y review con marcos",
+    "formatted": [
+      "bari enviar monthly diciembre review slides deck pau qbr y review con marcos"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

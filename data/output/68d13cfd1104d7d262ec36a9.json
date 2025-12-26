@@ -4,20 +4,18 @@
     "commentId": "68d13cfd1104d7d262ec36a9",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
     "Sub-Title": [
       "frente pmo"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "reunión update ozzie. avance reconversión hc recovery en fdv. reu embajadores"
-    ],
+    "formatted": "reunión update ozzie",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -25,20 +23,18 @@
     "commentId": "68d13cfd1104d7d262ec36a9",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
     "Sub-Title": [
-      "frente gestión del cambio"
+      "frente pmo"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "reu proveedor taller palancas. comunicación iniciativa ai leader en mlb"
-    ],
+    "formatted": "avance reconversión hc recovery en fdv",
     "country": [
-      "Brasil"
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -46,20 +42,94 @@
     "commentId": "68d13cfd1104d7d262ec36a9",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente pmo"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "reu embajadores",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68d13cfd1104d7d262ec36a9_4",
+    "commentId": "68d13cfd1104d7d262ec36a9",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente gestión del cambio"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "reu proveedor taller palancas",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68d13cfd1104d7d262ec36a9_5",
+    "commentId": "68d13cfd1104d7d262ec36a9",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente gestión del cambio"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "comunicación iniciativa ai leader en mlb",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68d13cfd1104d7d262ec36a9_6",
+    "commentId": "68d13cfd1104d7d262ec36a9",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
     ],
     "Sub-Title": [
       "frente grandes iniciativas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "ver avances voice agents. preparar mesa fdv para el viernes"
-    ],
+    "formatted": "ver avances voice agents",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68d13cfd1104d7d262ec36a9_7",
+    "commentId": "68d13cfd1104d7d262ec36a9",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente grandes iniciativas"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "preparar mesa fdv para el viernes",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
     ]
   }
 ]

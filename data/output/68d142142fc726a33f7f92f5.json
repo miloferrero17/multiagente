@@ -4,19 +4,16 @@
     "commentId": "68d142142fc726a33f7f92f5",
     "fecha": "2025-Q3",
     "Team": [
-      "patof en tierras argentinas"
-    ],
-    "Sub-Title": [
       "bari"
     ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "avanzar con los procesos de certificación ppc de mlu y tc mlc y retomar mesa de aprobación",
     "country": [
-      "MLU",
-      "MLC"
+      "MLU"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -24,11 +21,9 @@
     "commentId": "68d142142fc726a33f7f92f5",
     "fecha": "2025-Q3",
     "Team": [
-      "patof en tierras argentinas"
-    ],
-    "Sub-Title": [
       "bari"
     ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "realizar la configuración en vrm visa para comenzar con pruebas para tokenizar pagos nfc en nuestra wallet con la tc mlm",
     "country": [
@@ -43,18 +38,16 @@
     "commentId": "68d142142fc726a33f7f92f5",
     "fecha": "2025-Q3",
     "Team": [
-      "patof en tierras argentinas"
-    ],
-    "Sub-Title": [
       "bari"
     ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "challenge a méxico por viabilidad de on us",
+    "formatted": "challenge a mexico por viabilidad de on us",
     "country": [
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

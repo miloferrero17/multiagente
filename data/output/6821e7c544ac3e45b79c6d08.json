@@ -4,14 +4,16 @@
     "commentId": "6821e7c544ac3e45b79c6d08",
     "fecha": "2025-Q2",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "foco 100% workshop anual mastercard jueves y viernes"
+      "foco 100 workshop anual mastercard jueves y viernes"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Mastercard"
     ]
@@ -21,45 +23,57 @@
     "commentId": "6821e7c544ac3e45b79c6d08",
     "fecha": "2025-Q2",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "fup de proyectos card arts mirar puntos de atencion de cards con equipo tuvimos problemas nas artes visuales de nuestra tarjeta mp en mlb y outras en mla"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_3",
     "commentId": "6821e7c544ac3e45b79c6d08",
     "fecha": "2025-Q2",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "ta to more gataway e genova datos de mensageria"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_4",
     "commentId": "6821e7c544ac3e45b79c6d08",
     "fecha": "2025-Q2",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "mapeo de datos adicionales para generar green flow con equipo de pf"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_5",
@@ -73,10 +87,14 @@
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "roll out"
+      "roll out retomamos el incremento de volumen en todos los flujos gracias al por acompanarnos"
     ],
-    "country": "MLM",
-    "bandera": []
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_6",
@@ -90,10 +108,14 @@
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "retomamos el incremento de volumen en todos los flujos gracias al por acompanarnos"
+      "estaremos escalando a un volumen mayor durante esta semana debido al periodo de freeze del 19 05 al 03 06"
     ],
-    "country": "MLM",
-    "bandera": []
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_7",
@@ -103,14 +125,18 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlm prosa"
+      "elo"
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "estaremos escalando a un volumen mayor durante esta semana debido al periodo de freeze del 19/05 al 03/06"
+      "agendas confirmadas para elo day en los dias 13 05 y 15 05"
     ],
-    "country": "MLM",
-    "bandera": []
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Elo"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_8",
@@ -124,9 +150,11 @@
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "agendas confirmadas para elo day en los dias 13/05 y 15/05"
+      "check point presencial para definicion ficha scope tecnico"
     ],
-    "country": "MLB",
+    "country": [
+      "MLB"
+    ],
     "bandera": [
       "Elo"
     ]
@@ -139,15 +167,17 @@
       "genova"
     ],
     "Sub-Title": [
-      "elo"
+      "capabilities cross"
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "check point presencial para definicion ficha scope tecnico"
+      "diseno del dashboard de genova end game"
     ],
-    "country": "MLB",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "Elo"
+      "Otra"
     ]
   },
   {
@@ -162,10 +192,14 @@
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "diseno del dashboard de genova end game"
+      "avanzar con el mapeo de controles para la iniciativa con ecoconci arbol de kpis"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_11",
@@ -175,14 +209,18 @@
       "genova"
     ],
     "Sub-Title": [
-      "capabilities cross"
+      "mlb lucas"
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "avanzar con el mapeo de controles para la iniciativa con ecoconci arbol de kpis"
+      "track gpt mandates estructuracion del ppt de la automatizacion que integra ia y rpa para descargar analizar y consolidar los mandates"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_12",
@@ -192,14 +230,18 @@
       "genova"
     ],
     "Sub-Title": [
-      "onboarding juli"
+      "mlb lucas"
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "onboarding juli"
+      "elo agendas de visita en elo agenda con el equipo de genova it core payments brasil"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Elo"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_13",
@@ -211,14 +253,16 @@
     "Sub-Title": [
       "mlb lucas"
     ],
-    "Sub-Sub-Title": [
-      "track gpt mandates"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "estructuracion del ppt de la automatizacion que integra ia y rpa para descargar analizar y consolidar los mandates"
+      "liquidacion centralizada entender el plan de rollout y compartir las ultimas actualizaciones pruebas integradas en stg 02 06 pruebas productivas inicio del rollout 16 06 rollout completo hasta el 30 06"
     ],
-    "country": "MLB",
-    "bandera": []
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_14",
@@ -230,15 +274,15 @@
     "Sub-Title": [
       "mlb lucas"
     ],
-    "Sub-Sub-Title": [
-      "elo"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "agendas de visita en elo agenda con el equipo de genova it core payments brasil"
+      "sdwo mandates recientemente las redes publicaron algunos mandates especificos para transacciones de billetera digital que incluyen nuevos plazos de liquidacion y valores de interchange realizar un estudio profundo con los principales cambios e impactos"
     ],
-    "country": "MLB",
+    "country": [
+      "MLB"
+    ],
     "bandera": [
-      "Elo"
+      "Otra"
     ]
   },
   {
@@ -249,16 +293,18 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlb lucas"
+      "mlm pili euge"
     ],
-    "Sub-Sub-Title": [
-      "liquidacion centralizada"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "entender el plan de rollout y compartir las ultimas actualizaciones pruebas integradas en stg 02/06 pruebas productivas inicio del rollout 16/06 rollout completo hasta el 30/06"
+      "tasas naturales actualmente estamos bloqueados para continuar con las altas por issue en produccion del lado de prosa seguimiento para obtener fecha del fix"
     ],
-    "country": "MLB",
-    "bandera": []
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_16",
@@ -268,16 +314,18 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlb lucas"
+      "mlm pili euge"
     ],
-    "Sub-Sub-Title": [
-      "sdwo mandates"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "recientemente las redes publicaron algunos mandates especificos para transacciones de billetera digital que incluyen nuevos plazos de liquidacion y valores de interchange realizar un estudio profundo con los principales cambios e impactos"
+      "acceso revision e integracion a bdu"
     ],
-    "country": "MLB",
-    "bandera": []
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_17",
@@ -289,14 +337,16 @@
     "Sub-Title": [
       "mlm pili euge"
     ],
-    "Sub-Sub-Title": [
-      "tasas naturales"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "actualmente estamos bloqueados para continuar con las altas por issue en produccion del lado de prosa seguimiento para obtener fecha del fix"
+      "rollout de 16 sellers con tns"
     ],
-    "country": "MLM",
-    "bandera": []
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_18",
@@ -308,14 +358,16 @@
     "Sub-Title": [
       "mlm pili euge"
     ],
-    "Sub-Sub-Title": [
-      "tasas naturales"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "acceso revision e integracion a bdu"
+      "alineacion con site y equipo de router para automatizar rollout de tns"
     ],
-    "country": "MLM",
-    "bandera": []
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_19",
@@ -327,14 +379,16 @@
     "Sub-Title": [
       "mlm pili euge"
     ],
-    "Sub-Sub-Title": [
-      "tasas naturales"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "rollout de 16 sellers con tns"
+      "msi master kick off con master para ver el readiness assessment 13 5"
     ],
-    "country": "MLM",
-    "bandera": []
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_20",
@@ -344,16 +398,18 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlm pili euge"
+      "mlc euge"
     ],
-    "Sub-Sub-Title": [
-      "tasas naturales"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "alineacion con site y equipo de router para automatizar rollout de tns"
+      "mid revision de merchants id con core payments y merchant settings por inconsistencias identificadas"
     ],
-    "country": "MLM",
-    "bandera": []
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_21",
@@ -363,17 +419,17 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlm pili euge"
+      "mlc euge"
     ],
-    "Sub-Sub-Title": [
-      "msi master"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "kick off con master para ver el readiness assessment 13/5"
+      "devoluciones parciales mf follow up con genova it y ecoconci para revisar integridad de info que viajaria para el ecosistema conci"
     ],
-    "country": "MLM",
+    "country": [
+      "MLC"
+    ],
     "bandera": [
-      "Mastercard"
+      "Otra"
     ]
   },
   {
@@ -384,16 +440,18 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlc euge"
+      "mla santi"
     ],
-    "Sub-Sub-Title": [
-      "mid"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "revision de merchants id con core payments y merchant settings por inconsistencias identificadas"
+      "reuniones presenciales con equipo de genova it por iniciativas en curso"
     ],
-    "country": "MLC",
-    "bandera": []
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_23",
@@ -403,16 +461,18 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlc euge"
+      "mla santi"
     ],
-    "Sub-Sub-Title": [
-      "devoluciones parciales mf"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "follow up con genova it y ecoconci para revisar integridad de info que viajaria para el ecosistema conci"
+      "actualizacion ultimos detalles porotos q3"
     ],
-    "country": "MLC",
-    "bandera": []
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6821e7c544ac3e45b79c6d08_24",
@@ -426,43 +486,13 @@
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "reuniones presenciales con equipo de genova it por iniciativas en curso"
-    ],
-    "country": "MLA",
-    "bandera": []
-  },
-  {
-    "bullet_id": "6821e7c544ac3e45b79c6d08_25",
-    "commentId": "6821e7c544ac3e45b79c6d08",
-    "fecha": "2025-Q2",
-    "Team": [
-      "genova"
-    ],
-    "Sub-Title": [
-      "mla santi"
-    ],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "actualizacion ultimos detalles porotos q3"
-    ],
-    "country": "MLA",
-    "bandera": []
-  },
-  {
-    "bullet_id": "6821e7c544ac3e45b79c6d08_26",
-    "commentId": "6821e7c544ac3e45b79c6d08",
-    "fecha": "2025-Q2",
-    "Team": [
-      "genova"
-    ],
-    "Sub-Title": [
-      "mla santi"
-    ],
-    "Sub-Sub-Title": [],
-    "formatted": [
       "adelantos mpsp a mp alineacion de fechas para salida de la iniciativa"
     ],
-    "country": "MLA",
-    "bandera": []
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   }
 ]

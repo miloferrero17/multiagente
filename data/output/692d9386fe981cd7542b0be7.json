@@ -4,14 +4,16 @@
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "a relacionamiento con banderas fe y thiw"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "Data Only Visa - Definición de piloto (Visa/PF)"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Visa"
     ]
@@ -21,16 +23,18 @@
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "a relacionamiento con banderas fe y thiw"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "MTA - Finalizar contrato para piloto (legal/jurídico)"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -38,16 +42,18 @@
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "a relacionamiento con banderas fe y thiw"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "Tap to Pay - reporte del tap to verify y plan de lanzamiento (rollout) de open loop"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -55,7 +61,7 @@
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari"
@@ -70,8 +76,7 @@
       "MLM"
     ],
     "bandera": [
-      "Visa",
-      "Mastercard"
+      "Visa"
     ]
   },
   {
@@ -79,7 +84,30 @@
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
+    ],
+    "Sub-Title": [
+      "equipo mari"
+    ],
+    "Sub-Sub-Title": [
+      "mlm prosa"
+    ],
+    "formatted": [
+      "BIN Visa & ICA Mastercard: avanzar con el roll out y consensuar un nuevo plan que permita completarlo antes de fin de diciembre."
+    ],
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "692d9386fe981cd7542b0be7_6",
+    "commentId": "692d9386fe981cd7542b0be7",
+    "fecha": "2025-Q4",
+    "Team": [
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari"
@@ -90,17 +118,19 @@
     "formatted": [
       "Finalizamos certificación API Disputa (automatización de notificaciones)."
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Elo"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_6",
+    "bullet_id": "692d9386fe981cd7542b0be7_7",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari"
@@ -111,17 +141,19 @@
     "formatted": [
       "Roll out 2026: preparar una primera versión del plan."
     ],
-    "country": "",
+    "country": [
+      "MCO"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_7",
+    "bullet_id": "692d9386fe981cd7542b0be7_8",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari"
@@ -132,17 +164,19 @@
     "formatted": [
       "Realizar push a Visa para coordinar un consultation y confirmar aspectos técnicos clave para la certificación."
     ],
-    "country": "",
+    "country": [
+      "MCO"
+    ],
     "bandera": [
       "Visa"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_8",
+    "bullet_id": "692d9386fe981cd7542b0be7_9",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari"
@@ -153,17 +187,19 @@
     "formatted": [
       "Genia: Documentar el caso de éxito y revisar los puntos de mejoras identificados"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_9",
+    "bullet_id": "692d9386fe981cd7542b0be7_10",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari"
@@ -174,17 +210,19 @@
     "formatted": [
       "Porotaje: Iniciar el Rediseño el proceso a partir de los cambios introducidos por la migración de porotos desde el Plan Anual."
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_10",
+    "bullet_id": "692d9386fe981cd7542b0be7_11",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari"
@@ -195,17 +233,19 @@
     "formatted": [
       "Guada: troubleshooting y fine tunning"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_11",
+    "bullet_id": "692d9386fe981cd7542b0be7_12",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari"
@@ -216,17 +256,19 @@
     "formatted": [
       "Finalizar la definición del orden único de porotos de negocio."
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_12",
+    "bullet_id": "692d9386fe981cd7542b0be7_13",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari"
@@ -237,17 +279,19 @@
     "formatted": [
       "Controles: avance en el mapeo de controles existentes y faltantes."
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_13",
+    "bullet_id": "692d9386fe981cd7542b0be7_14",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari"
@@ -259,18 +303,18 @@
       "Nuevos flujos: soporte de mapeo de controles en los tracks de MSI Prosa y Master MLM, CBK On Us y DCC."
     ],
     "country": [
-      "MLM"
+      "CORP"
     ],
     "bandera": [
       "Mastercard"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_14",
+    "bullet_id": "692d9386fe981cd7542b0be7_15",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlm pili"
@@ -287,11 +331,11 @@
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_15",
+    "bullet_id": "692d9386fe981cd7542b0be7_16",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlm pili"
@@ -308,11 +352,11 @@
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_16",
+    "bullet_id": "692d9386fe981cd7542b0be7_17",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlm pili"
@@ -325,16 +369,15 @@
       "MLM"
     ],
     "bandera": [
-      "Mastercard",
-      "Naranja"
+      "Mastercard"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_17",
+    "bullet_id": "692d9386fe981cd7542b0be7_18",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlc euge"
@@ -351,11 +394,11 @@
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_18",
+    "bullet_id": "692d9386fe981cd7542b0be7_19",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlc euge"
@@ -368,15 +411,15 @@
       "MLC"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_19",
+    "bullet_id": "692d9386fe981cd7542b0be7_20",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlb lucas"
@@ -389,15 +432,15 @@
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_20",
+    "bullet_id": "692d9386fe981cd7542b0be7_21",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlb lucas"
@@ -410,15 +453,15 @@
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_21",
+    "bullet_id": "692d9386fe981cd7542b0be7_22",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlb lucas"
@@ -435,11 +478,11 @@
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_22",
+    "bullet_id": "692d9386fe981cd7542b0be7_23",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla santi"
@@ -456,11 +499,11 @@
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_23",
+    "bullet_id": "692d9386fe981cd7542b0be7_24",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla santi"
@@ -473,15 +516,15 @@
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
-    "bullet_id": "692d9386fe981cd7542b0be7_24",
+    "bullet_id": "692d9386fe981cd7542b0be7_25",
     "commentId": "692d9386fe981cd7542b0be7",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla santi"

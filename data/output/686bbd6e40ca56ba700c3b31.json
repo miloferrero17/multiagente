@@ -8,12 +8,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "deck qpr + v2 del dash con métricas bari"
+    "formatted": "deck qpr + v2 del dash con métricas bari",
+    "country": [
+      "CORP"
     ],
-    "country": "",
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -25,12 +25,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "tokenización: mla config de bin commercial + nfc y de bin crédito + nfc | mlm tokenización bin crédito cof y primeras conversaciones con visa por nfc"
+    "formatted": "tokenización: mla config de bin commercial + nfc y de bin crédito + nfc",
+    "country": [
+      "MLA"
     ],
-    "country": "",
     "bandera": [
-      "visa"
+      "Otra"
     ]
   },
   {
@@ -42,12 +42,29 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "mesa por tap to everything - c/bari + continuar con bari 2026"
+    "formatted": "mlm tokenización bin crédito cof y primeras conversaciones con visa por nfc",
+    "country": [
+      "MLM"
     ],
-    "country": "",
     "bandera": [
-      ""
+      "Visa"
+    ]
+  },
+  {
+    "bullet_id": "686bbd6e40ca56ba700c3b31_4",
+    "commentId": "686bbd6e40ca56ba700c3b31",
+    "fecha": "2025-Q3",
+    "Team": [
+      "bari"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "mesa por tap to everything - c/bari + continuar con bari 2026",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
     ]
   }
 ]

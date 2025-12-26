@@ -4,7 +4,7 @@
     "commentId": "69381a5d0ed89c8136ca5093",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora continua planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [
       "cami y alvi ooo"
@@ -15,7 +15,9 @@
     "formatted": [
       "firmamos la carta fianza de elo lo cual nos permite dar por concluido el track de licencing"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Elo"
     ]
@@ -25,7 +27,7 @@
     "commentId": "69381a5d0ed89c8136ca5093",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora continua planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [
       "cami y alvi ooo"
@@ -35,16 +37,18 @@
       "resultados genova noviembre 2025 plan genova 2026 seguimiento approval mlb"
     ],
     "country": [
-      "Brasil"
+      "MLB"
     ],
-    "bandera": []
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "69381a5d0ed89c8136ca5093_3",
     "commentId": "69381a5d0ed89c8136ca5093",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora continua planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [
       "cami y alvi ooo"
@@ -54,16 +58,18 @@
       "catch up de temas actualizar fees de genova para cubo de noviembre"
     ],
     "country": [
-      "Brasil"
+      "CORP"
     ],
-    "bandera": []
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "69381a5d0ed89c8136ca5093_4",
     "commentId": "69381a5d0ed89c8136ca5093",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora continua planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [
       "cami y alvi ooo"
@@ -72,15 +78,19 @@
     "formatted": [
       "monthly deck noviembre review mandates issuing back testing asistente gemini"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "69381a5d0ed89c8136ca5093_5",
     "commentId": "69381a5d0ed89c8136ca5093",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora continua planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [
       "cami y alvi ooo"
@@ -90,7 +100,7 @@
       "continuar consultas generales soporte cross continuar diseño asistente de gemini cerrar contrato de visa para colombia"
     ],
     "country": [
-      "Colombia"
+      "MCO"
     ],
     "bandera": [
       "Visa"

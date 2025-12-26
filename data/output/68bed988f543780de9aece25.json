@@ -4,14 +4,16 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "amex api de compartir dados del seller report pau"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "American Express"
     ]
@@ -21,14 +23,16 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "costo de tsp con visa fed y juli"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Visa"
     ]
@@ -38,14 +42,16 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "tap to more firma con mastercard pruebas internas con gateway y genova"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Mastercard"
     ]
@@ -55,16 +61,18 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "alineación px y aprobaciones necesidades para super token"
+      "alineacion px y aprobaciones necesidades para super token"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -72,18 +80,22 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "proyectos"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "prosa flujo de msi listo para habilitar pendiente de validación final de conci foco en destrabarlo"
+    "Sub-Sub-Title": [
+      "prosa"
     ],
-    "country": "",
+    "formatted": [
+      "flujo de msi listo para habilitar pendiente de validacion final de conci foco en destrabarlo"
+    ],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -91,19 +103,22 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "proyectos"
+    ],
+    "Sub-Sub-Title": [
       "mco visa mc"
     ],
-    "Sub-Sub-Title": [],
     "formatted": [
       "centralizar y organizar las notas del workshop y reuniones con mco destacando decisiones responsables due dates y plan consensuado"
     ],
-    "country": "",
+    "country": [
+      "MCO"
+    ],
     "bandera": [
-      "Visa",
-      "Mastercard"
+      "Visa"
     ]
   },
   {
@@ -111,18 +126,22 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "proyectos"
+    ],
+    "Sub-Sub-Title": [
       "mco visa mc"
     ],
-    "Sub-Sub-Title": [],
     "formatted": [
-      "dar cierre a las consultas de accounting corp para que avancen con la definición del modelo contable"
+      "dar cierre a las consultas de accounting corp para que avancen con la definicion del modelo contable"
     ],
-    "country": "",
+    "country": [
+      "MCO"
+    ],
     "bandera": [
-      ""
+      "Mastercard"
     ]
   },
   {
@@ -130,16 +149,20 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "proyectos"
+    ],
+    "Sub-Sub-Title": [
       "elo"
     ],
-    "Sub-Sub-Title": [],
     "formatted": [
-      "garantia elo recibimos la posibilidad de avanzar con un waiver eta 31 10 vamos a confirmar si lo aceptamos luego de la reunión de hoy"
+      "garantia elo recibimos la posibilidad de avanzar con un waiver eta 3110 vamos a confirmar si lo aceptamos luego de la reunion de hoy"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Elo"
     ]
@@ -149,12 +172,14 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "proyectos"
+    ],
+    "Sub-Sub-Title": [
       "mla amex"
     ],
-    "Sub-Sub-Title": [],
     "formatted": [
       "validar e2e de pagos iniciales prosegur amex mp incluyendo la conci y controles definiendo next steps en base a resultados"
     ],
@@ -170,18 +195,20 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "porotaje"
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "lunes sesión de porotaje rr"
+      "lunes sesion de porotaje rr"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -189,18 +216,20 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "porotaje"
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "jueves 11 último día de wfi"
+      "jueves 11 ultimo dia de wfi"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -208,18 +237,22 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "cross capabilities"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "controles heatmap de controles existentes por casuística y flujo prosa detectamos que no se está haciendo la devolución de ic en contracargos 14 5k usd"
+    "Sub-Sub-Title": [
+      "controles"
     ],
-    "country": "",
+    "formatted": [
+      "heatmap de controles existentes por casuistica y flujo prosa detectamos que no se esta haciendo la devolucion de ic en contracargos 145k usd"
+    ],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -227,18 +260,22 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "cross capabilities"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "modelo de datos unificado reproceso para incorporación de nuevos datos continuar"
+    "Sub-Sub-Title": [
+      "modelo de datos unificado"
     ],
-    "country": "",
+    "formatted": [
+      "reproceso para incorporacion de nuevos datos continuar"
+    ],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -246,18 +283,22 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "cross capabilities"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "ia continuar con el desarrollo del prompt para consultas en lenguaje natural"
+    "Sub-Sub-Title": [
+      "ia"
     ],
-    "country": "",
+    "formatted": [
+      "continuar con el desarrollo del prompt para consultas en lenguaje natural"
+    ],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -265,12 +306,14 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
       "mlb lucas"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "win compliance case visa recibimos la confirmación del cierre de un caso abierto con visa desde 2022 con una multa asociada de usd 225k gracias a todos los involucrados durante estos 2 años fer martu cami g génova it core payments mlb"
+      "win compliance case visa recibimos la confirmacion del cierre de un caso abierto con visa desde 2022 con una multa asociada de usd 225k gracias a todos los involucrados durante estos 2 anos fer martu cami g genova it core payments mlb"
     ],
     "country": [
       "MLB"
@@ -284,18 +327,20 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
       "mlb lucas"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "proyecto mandates con ia armar una presentación demostrando el flujo de automatización del proceso de mandates con verdi rag e ia para su difusión"
+      "proyecto mandates con ia armar una presentacion demostrando el flujo de automatizacion del proceso de mandates con verdi rag e ia para su difusion"
     ],
     "country": [
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -303,18 +348,20 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
       "mlb lucas"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "flujo boletos sdwo las transacciones de boletos undefined bill están llegando a génova con información del banco emisor del boleto en lugar del payer el gateway pasará a enviar únicamente la info del card holder y mover este flujo a getnet"
+      "flujo boletos sdwo las transacciones de boletos undefined bill estan llegando a genova con informacion del banco emisor del boleto en lugar del payer el gateway pasara a enviar unicamente la info del card holder y mover este flujo a getnet"
     ],
     "country": [
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -322,9 +369,11 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
       "mlm euge"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "sync con pili"
@@ -333,7 +382,7 @@
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -341,9 +390,11 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
       "mlm euge"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "tasas naturales retomar proceso de altas en act y corroborar rollout"
@@ -352,7 +403,7 @@
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -360,9 +411,11 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
       "mlm euge"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "msi master encendido de 200 transacciones hasta 3k usd para probar proceso e2e"
@@ -379,18 +432,20 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
       "mlc euge"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "refunds parciales merchant finance encendido controlado con tasa de aprobación del 85 análisis motivos de rechazos y comparación con tbk"
+      "refunds parciales merchant finance encendido controlado con tasa de aprobacion del 85 analisis motivos de rechazos y comparacion con tbk"
     ],
     "country": [
       "MLC"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -398,18 +453,20 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
       "mla santi"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "promociones estaremos haciendo pruebas para el track de promociones de reintegro y para el track de tokenización de promociones"
+      "promociones estaremos haciendo pruebas para el track de promociones de reintegro y para el track de tokenizacion de promociones"
     ],
     "country": [
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -417,12 +474,14 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
       "mla santi"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "adecuación de mcc alineación con equipos de mp para proponer solución a la notificación enviada por visa para rapipago y pago facil"
+      "adecuacion de mcc alineacion con equipos de mp para proponer solucion a la notificacion enviada por visa para rapipago y pago facil"
     ],
     "country": [
       "MLA"
@@ -436,18 +495,20 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
+      "genova"
+    ],
+    "Sub-Title": [
       "mla santi"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "propinas alineación f f"
+      "propinas alineacion f f"
     ],
     "country": [
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -455,18 +516,20 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
+    "Sub-Title": [],
+    "Sub-Sub-Title": [
       "genova"
     ],
-    "Sub-Sub-Title": [],
     "formatted": [
-      "monthly enviar monthly agosto con resumen de audio de 2 mins en inglés by notebooklm"
+      "monthly enviar monthly agosto con resumen de audio de 2 mins en ingles by notebooklm"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -474,12 +537,12 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
+    "Sub-Title": [],
+    "Sub-Sub-Title": [
       "genova"
     ],
-    "Sub-Sub-Title": [],
     "formatted": [
       "mlm piloto ttp ios presentar plan de captura de meses para presentar a equipo de producto"
     ],
@@ -487,7 +550,7 @@
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -495,16 +558,18 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
+    "Sub-Title": [],
+    "Sub-Sub-Title": [
       "banderas"
     ],
-    "Sub-Sub-Title": [],
     "formatted": [
-      "miércoles voy a estar en master fintech forum en la oficina de master"
+      "miercoles voy a estar en master fintech forum en la oficina de master"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Mastercard"
     ]
@@ -514,17 +579,17 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
+    "Sub-Title": [],
+    "Sub-Sub-Title": [
       "banderas"
     ],
-    "Sub-Sub-Title": [],
     "formatted": [
       "martes me invitaron a visa day colombia"
     ],
     "country": [
-      "MLO"
+      "MCO"
     ],
     "bandera": [
       "Visa"
@@ -535,20 +600,20 @@
     "commentId": "68bed988f543780de9aece25",
     "fecha": "2025-Q3",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
+    "Sub-Title": [],
+    "Sub-Sub-Title": [
       "banderas"
     ],
-    "Sub-Sub-Title": [],
     "formatted": [
       "on us compartir algunos insights del viaje a colombia"
     ],
     "country": [
-      "MLO"
+      "MCO"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

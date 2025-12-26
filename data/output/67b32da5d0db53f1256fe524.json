@@ -12,10 +12,10 @@
       "proceso de porotaje"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -28,10 +28,10 @@
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "mesa por assessment de cobrand (mastercard)"
+      "mesa por assessment de cobrand"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
       "Mastercard"
@@ -47,32 +47,13 @@
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
-      "mlb - tarjetas internacionales / melidolar"
+      "tarjetas internacionales / melidolar"
     ],
     "country": [
-      "Brasil"
+      "MLB"
     ],
     "bandera": [
-      ""
-    ]
-  },
-  {
-    "bullet_id": "67b32da5d0db53f1256fe524_4",
-    "commentId": "67b32da5d0db53f1256fe524",
-    "fecha": "2025-Q1",
-    "Team": [
-      "bari"
-    ],
-    "Sub-Title": [],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "traspaso de temas de yow a patof"
-    ],
-    "country": [
-      ""
-    ],
-    "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

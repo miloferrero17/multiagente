@@ -6,16 +6,18 @@
     "Team": [
       "bari"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "mlb migracion credito"
+    ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "mlb migración crédito: abrimos el proyecto con visa y el miércoles 8/01 tenemos el primer checkpoint. seteamos el 22/01, entre 7 y 9am, como fecha/hora de migración"
+      "abrimos el proyecto con visa y el miercoles 8/01 tenemos el primer checkpoint. seteamos el 22/01, entre 7 y 9am, como fecha/hora de migracion"
     ],
     "country": [
-      "brasil"
+      "MLB"
     ],
     "bandera": [
-      "visa"
+      "Visa"
     ]
   },
   {
@@ -25,16 +27,18 @@
     "Team": [
       "bari"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "cobrand"
+    ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "cobrand: mesa con individuals para evacuar dudas sobre revenues en los flujos de users"
+      "mesa con individuals para evacuar dudas sobre revenues en los flujos de users"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -44,16 +48,18 @@
     "Team": [
       "bari"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "bari mlm debito y credito"
+    ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "bari mlm débito y crédito seguimiento para resolución de issue que permite transaccionar con ambas tarjetas luego de ingresar 3 veces incorrectamente el nip. (eta 15/01)"
+      "seguimiento para resolucion de issue que permite transaccionar con ambas tarjetas luego de ingresar 3 veces incorrectamente el nip. (eta 15/01)"
     ],
     "country": [
-      "mexico"
+      "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

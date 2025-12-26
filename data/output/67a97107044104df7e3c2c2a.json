@@ -4,18 +4,16 @@
     "commentId": "67a97107044104df7e3c2c2a",
     "fecha": "2025-Q1",
     "Team": [
-      "mejora continua planning"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "controles de fee de bandera + cálculo fino de fee de bandera marginal mastercard y visa credit en mla"
-    ],
+    "formatted": "controles de fee de bandera + cálculo fino de fee de bandera marginal mastercard y visa credit en mla",
     "country": [
       "MLA"
     ],
     "bandera": [
-      "Mastercard, Visa"
+      "Mastercard"
     ]
   },
   {
@@ -23,18 +21,16 @@
     "commentId": "67a97107044104df7e3c2c2a",
     "fecha": "2025-Q1",
     "Team": [
-      "mejora continua planning"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "cerrar resultados génova + rediseño weekly génova"
-    ],
+    "formatted": "cerrar resultados génova + rediseño weekly génova",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -42,13 +38,11 @@
     "commentId": "67a97107044104df7e3c2c2a",
     "fecha": "2025-Q1",
     "Team": [
-      "mejora continua planning"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "empezar track de prop. de incentivo visa mlb"
-    ],
+    "formatted": "empezar track de prop de incentivo visa mlb",
     "country": [
       "MLB"
     ],
@@ -61,18 +55,16 @@
     "commentId": "67a97107044104df7e3c2c2a",
     "fecha": "2025-Q1",
     "Team": [
-      "mejora continua planning"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "análisis de impacto en acquiring tc mla"
-    ],
+    "formatted": "análisis de impacto en acquiring tc mla",
     "country": [
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

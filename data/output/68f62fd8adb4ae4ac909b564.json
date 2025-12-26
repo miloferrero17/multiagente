@@ -4,14 +4,16 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "win - refund emissores santander r$1.6m y picpay r$40k",
-    "country": "",
+    "formatted": "win refund emissores santander r16m y picpay r40k",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -19,16 +21,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "producto"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "super token - deseño y mapeo de entregas q4, q1 y q2 // px con hc’s para q4/q1",
-    "country": "",
+    "formatted": "super token deseño y mapeo de entregas q4 q1 y q2 px con hcs para q4q1",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -36,16 +40,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "producto"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "3ds server - mapeo de impacto y planeo de rollout // mirar la certificação con fime y emvco",
-    "country": "",
+    "formatted": "3ds server mapeo de impacto y planeo de rollout mirar la certificacao con fime y emvco",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -53,16 +59,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "relacionamiento con las marcas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "costo vau/vces pau - facturas",
-    "country": "",
+    "formatted": "costo vauvces pau facturas",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -70,16 +78,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "relacionamiento con las marcas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "mepa y bbva - nfc tarjetas de terceiros en nuestra billetera",
-    "country": "",
+    "formatted": "mepa y bbva nfc tarjetas de terceiros en nuestra billetera",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -87,7 +97,7 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "proyectos"
@@ -95,10 +105,12 @@
     "Sub-Sub-Title": [
       "prosa"
     ],
-    "formatted": "issue en agre dms en el soft descriptor: afectación en todos los bines y adquirentes, sin fecha definida para resolución.",
-    "country": "",
+    "formatted": "issue en agre dms en el soft descriptor afectacion en todos los bines y adquirentes sin fecha definida para resolucion",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -106,19 +118,20 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "proyectos"
     ],
     "Sub-Sub-Title": [
-      "mco visa & mc"
+      "mco visa mc"
     ],
-    "formatted": "alineamiento sobre nuevo decreto en retención de impuestos",
-    "country": "",
+    "formatted": "alineamiento sobre nuevo decreto en retencion de impuestos",
+    "country": [
+      "MCO"
+    ],
     "bandera": [
-      "visa",
-      "mastercard"
+      "Visa"
     ]
   },
   {
@@ -126,16 +139,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "porotaje"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "presentación nuevo proceso de portaje sin payac",
-    "country": "",
+    "formatted": "presentacion nuevo proceso de portaje sin payac",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -143,16 +158,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "porotaje"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "avanzar en la automatización con n8n",
-    "country": "",
+    "formatted": "avanzar en la automatizacion con n8n",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -160,7 +177,7 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "cross capabilities"
@@ -168,10 +185,12 @@
     "Sub-Sub-Title": [
       "track controles"
     ],
-    "formatted": "validación de controles del flujo de fee de riesgo en master mla",
-    "country": "MLA",
+    "formatted": "validacion de controles del flujo de fee de riesgo en master mla",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -179,7 +198,7 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "cross capabilities"
@@ -187,10 +206,12 @@
     "Sub-Sub-Title": [
       "track controles"
     ],
-    "formatted": "mapeo de controles: armado de nivel high level de mapeo",
-    "country": "",
+    "formatted": "mapeo de controles armado de nivel high level de mapeo",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -198,7 +219,7 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "cross capabilities"
@@ -206,10 +227,12 @@
     "Sub-Sub-Title": [
       "ia"
     ],
-    "formatted": "guada: testear cambios en descripciones de campos.",
-    "country": "",
+    "formatted": "guada testear cambios en descripciones de campos",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -217,17 +240,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlm pili"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "msi master: incremento de tpv de los emisores didi, stori y plata . continuamos monitoreando la aprobación. sync con master para acelerar encendido de uala, naranja, finsus y revolute esta semana.",
-    "country": "MLM",
+    "formatted": "msi master incremento de tpv de los emisores didi stori y plata continuamos monitoreando la aprobacion sync con master para acelerar encendido de uala naranja finsus y revolute esta semana",
+    "country": [
+      "MLM"
+    ],
     "bandera": [
-      "mastercard",
-      "naranja"
+      "Mastercard"
     ]
   },
   {
@@ -235,16 +259,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlc euge"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "mastercard administradora chile: revisión de cambios con teso y conci para la implementación en noviembre",
-    "country": "MLC",
+    "formatted": "mastercard administradora chile revision de cambios con teso y conci para la implementacion en noviembre",
+    "country": [
+      "MLC"
+    ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -252,17 +278,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlc euge"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "devoluciones parciales merchant financed: reuniones con emisores y banderas para mejorar la tasa de aprobación 67%. follow up con visa con info compartida.",
-    "country": "MLC",
+    "formatted": "devoluciones parciales merchant financed reuniones con emisores y banderas para mejorar la tasa de aprobacion 67 follow up con visa con info compartida",
+    "country": [
+      "MLC"
+    ],
     "bandera": [
-      "visa",
-      "otra"
+      "Visa"
     ]
   },
   {
@@ -270,16 +297,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlc euge"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "aceleración cupones merchant finance: prueba productiva con acfin y larrain vial 22/10",
-    "country": "MLC",
+    "formatted": "aceleracion cupones merchant finance prueba productiva con acfin y larrain vial 2210",
+    "country": [
+      "MLC"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -287,16 +316,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla santi"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "on us: estaremos haciendo seguimiento junto a mastercard para posible solución de on us.",
-    "country": "MLA",
+    "formatted": "on us estaremos haciendo seguimiento junto a mastercard para posible solucion de on us",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -304,16 +335,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla santi"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "banco pagador bapro: continuaremos con las mesas junto al equipo técnico de bapro.",
-    "country": "MLA",
+    "formatted": "banco pagador bapro continuaremos con las mesas junto al equipo tecnico de bapro",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   },
   {
@@ -321,16 +354,18 @@
     "commentId": "68f62fd8adb4ae4ac909b564",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla santi"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "bimonetarismo: continuaremos haciendo pruebas junto al equipo de mp.",
-    "country": "MLA",
+    "formatted": "bimonetarismo continuaremos haciendo pruebas junto al equipo de mp",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
-      "otra"
+      "Otra"
     ]
   }
 ]

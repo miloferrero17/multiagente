@@ -4,11 +4,13 @@
     "commentId": "6814d41c2bcbec1d9280d5ed",
     "fecha": "2025-Q2",
     "Team": [
-      "scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "auditoría Visa Génova MLA (8 mayo) + vencimiento respuesta CaC",
+    "formatted": [
+      "auditoría visa génova mla (8 mayo) + vencimiento respuesta cac"
+    ],
     "country": [
       "MLA"
     ],
@@ -21,13 +23,15 @@
     "commentId": "6814d41c2bcbec1d9280d5ed",
     "fecha": "2025-Q2",
     "Team": [
-      "scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "sesión DD Elo",
+    "formatted": [
+      "sesión dd elo"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
       "Elo"
@@ -38,16 +42,18 @@
     "commentId": "6814d41c2bcbec1d9280d5ed",
     "fecha": "2025-Q2",
     "Team": [
-      "scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "Review mandates Issuing Abril 25",
+    "formatted": [
+      "review mandates issuing abril 25"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

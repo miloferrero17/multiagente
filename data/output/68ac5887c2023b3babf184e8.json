@@ -4,18 +4,20 @@
     "commentId": "68ac5887c2023b3babf184e8",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "frente pmo"
+    ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "frente pmo: seguimiento mapeo de sillas dadoras receptoras"
+      "seguimiento mapeo de sillas dadoras receptoras"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -23,18 +25,20 @@
     "commentId": "68ac5887c2023b3babf184e8",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "frente gestion del cambio"
+    ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "frente gestion del cambio: armado del material para qa ozzie"
+      "armado del material para qa ozzie"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -42,18 +46,20 @@
     "commentId": "68ac5887c2023b3babf184e8",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "frente grandes iniciativas"
+    ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "frente grandes iniciativas: seguimiento avances mesa ai recovery touchpoint con lideres de mesa ai ops"
+      "seguimiento avances mesa ai recovery touchpoint con lideres de mesa ai ops"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

@@ -8,14 +8,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "emi de licencia hasta fin de esta semana"
-    ],
+    "formatted": "emi de licencia hasta fin de esta semana.",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -27,14 +25,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "@patriciofernandez42 cierre de slides de highs & lows de q3 + avances proyectos ppc mlu y tc mlc"
-    ],
+    "formatted": "cierre de slides de highs & lows de q3 + avances proyectos ppc mlu y tc mlc",
     "country": [
-      ""
+      "MLU"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -46,14 +42,46 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "@francogariffo1 tokenizacion nfc mlm: realizar pruebas productivas para evaluar sus primeros resultados + on us mlb: reunión con acc corp para explicarles el flujo operativo y financiero + control refund mla: continuación mesas de diseño"
-    ],
+    "formatted": "tokenizacion nfc mlm: realizar pruebas productivas para evaluar sus primeros resultados",
     "country": [
-      ""
+      "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68ff657e021e6b9296748b86_4",
+    "commentId": "68ff657e021e6b9296748b86",
+    "fecha": "2025-Q4",
+    "Team": [
+      "bari"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "on us mlb: reunión con acc corp para explicarles el flujo operativo y financiero",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68ff657e021e6b9296748b86_5",
+    "commentId": "68ff657e021e6b9296748b86",
+    "fecha": "2025-Q4",
+    "Team": [
+      "bari"
+    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "control refund mla: continuación mesas de diseño",
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
     ]
   }
 ]

@@ -4,16 +4,18 @@
     "commentId": "67bc6e5bc872ffde153bf809",
     "fecha": "2025-Q1",
     "Team": [
+      "na"
+    ],
+    "Sub-Title": [
       "mejora y planning"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "competitividad mla + afinar costo plazo en plan @antonelamutti1",
     "country": [
       "MLA"
     ],
     "bandera": [
-      ""
+      "otra"
     ]
   },
   {
@@ -21,17 +23,18 @@
     "commentId": "67bc6e5bc872ffde153bf809",
     "fecha": "2025-Q1",
     "Team": [
+      "na"
+    ],
+    "Sub-Title": [
       "mejora y planning"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "hacer push con core payments mlb (feli g.) para apoyo en la estructuración de incentivos visa + presentaciones corp de visa y mastercard @noelialoza3",
     "country": [
       "MLB"
     ],
     "bandera": [
-      "Visa",
-      "Mastercard"
+      "visa"
     ]
   },
   {
@@ -39,17 +42,18 @@
     "commentId": "67bc6e5bc872ffde153bf809",
     "fecha": "2025-Q1",
     "Team": [
+      "na"
+    ],
+    "Sub-Title": [
       "mejora y planning"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "estimación de ganancias por fees visa y mastercard regionales @camilaprandi",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      "Visa",
-      "Mastercard"
+      "visa"
     ]
   },
   {
@@ -57,16 +61,18 @@
     "commentId": "67bc6e5bc872ffde153bf809",
     "fecha": "2025-Q1",
     "Team": [
+      "na"
+    ],
+    "Sub-Title": [
       "mejora y planning"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "cerrar respuestas cofefe + volumenes visa mlm",
+    "formatted": "cerrar respuestas cofece + volumenes visa mlm",
     "country": [
       "MLM"
     ],
     "bandera": [
-      "Visa"
+      "visa"
     ]
   }
 ]

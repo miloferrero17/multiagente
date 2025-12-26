@@ -6,16 +6,16 @@
     "Team": [
       "x countries"
     ],
-    "Sub-Title": [],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "tte - análisis de conversion por mejoras en attestation lite"
+    "Sub-Title": [
+      "tte"
     ],
+    "Sub-Sub-Title": [],
+    "formatted": "análisis de conversion por mejoras en attestation lite",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -27,14 +27,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "milo de vacas :)"
-    ],
+    "formatted": "milo de vacas",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

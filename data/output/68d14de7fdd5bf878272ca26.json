@@ -4,310 +4,235 @@
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "prueba interna de tap to pay open loop y firma del contrato com mastercard"
-    ],
-    "country": "",
-    "bandera": [
-      "Mastercard"
-    ]
+    "formatted": "prueba interna de tap to pay open loop y firma del contrato com mastercard",
+    "country": "CORP",
+    "bandera": "MASTERCARD"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_2",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "waiver de costo de tsp para visa waiver hasta cambiar el modelo de costo evitamos pagar usd 800k anual"
-    ],
-    "country": "",
-    "bandera": [
-      "Visa"
-    ]
+    "formatted": "waiver de costo de tsp para visa waiver hasta cambiar el modelo de costo evitamos pagar usd 800k anual",
+    "country": "CORP",
+    "bandera": "VISA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_3",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "waiver de 6 meses para ttp sdk mpoc mypinpad hasta jun26 mastercard visa"
-    ],
-    "country": "",
-    "bandera": [
-      "Mastercard",
-      "Visa"
-    ]
+    "formatted": "waiver de 6 meses para ttp sdk mpoc mypinpad hasta jun26 mastercard visa",
+    "country": "CORP",
+    "bandera": "MASTERCARD"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_4",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "visita de visa a polo dot tsp y tokenización"
-    ],
-    "country": "",
-    "bandera": [
-      "Visa"
-    ]
+    "formatted": "visita de visa a polo dot tsp y tokenización",
+    "country": "CORP",
+    "bandera": "VISA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_5",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "reu con leo caputo y jp en argentina para puntos de operaciones"
-    ],
-    "country": [
-      "MLA"
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "reu con leo caputo y jp en argentina para puntos de operaciones",
+    "country": "MLA",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_6",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "3ds server certificación con fime conseguimos avanzar con fime para la certificación y esta semana tendremos un alineamiento con el equipo de aprobaciones sobre el roadmap del proyecto"
-    ],
-    "country": "",
-    "bandera": [
-      ""
-    ]
+    "formatted": "3ds server certificación con fime conseguimos avanzar con fime para la certificación y esta semana tendremos un alineamiento con el equipo de aprobaciones sobre el roadmap del proyecto",
+    "country": "CORP",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_7",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "prosa"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "bin visa ica mastercard mantenemos este tema como prioridad con foco en obtener un eta de implementación que resuelva el issue identificado"
-    ],
-    "country": "",
-    "bandera": [
-      "Visa",
-      "Mastercard"
-    ]
+    "formatted": "bin visa ica mastercard mantenemos este tema como prioridad con foco en obtener un eta de implementación que resuelva el issue identificado",
+    "country": "CORP",
+    "bandera": "VISA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_8",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mco visa mc"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "flujo crossborder en coordinación con el site y con manuela basilico definiremos si se asume el riesgo de procesar este flujo"
-    ],
-    "country": "",
-    "bandera": [
-      "Visa",
-      "Mastercard"
-    ]
+    "formatted": "flujo cross-border en coordinación con el site y con manuela basilico definiremos si se asume el riesgo de procesar este flujo",
+    "country": "MCO",
+    "bandera": "VISA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_9",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mco visa mc"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "nda mastercard seguimiento del estado de firma para su cierre y poder avanzar con el contrato de cámara en paralelo noe está realizando el análisis de fees"
-    ],
-    "country": "",
-    "bandera": [
-      "Mastercard"
-    ]
+    "formatted": "nda mastercard seguimiento del estado de firma para su cierre y poder avanzar con el contrato de cámara en paralelo noe está realizando el análisis de fees",
+    "country": "MCO",
+    "bandera": "MASTERCARD"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_10",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "elo"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "finalizamos la certificación de mensajería y obtuvimos la carta de aprobación loa además certificamos el primer device pro 2 mp35 que representa 35 del tpv elo"
-    ],
-    "country": "",
-    "bandera": [
-      "Elo"
-    ]
+    "formatted": "finalizamos la certificación de mensajería y obtuvimos la carta de aprobación loa además certificamos el primer device pro 2 mp35 que representa 35 del tpv elo",
+    "country": "MLB",
+    "bandera": "ELO"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_11",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "elo"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "realizar el 1 pago productivo"
-    ],
-    "country": "",
-    "bandera": [
-      "Elo"
-    ]
+    "formatted": "realizar el 1 pago productivo",
+    "country": "MLB",
+    "bandera": "ELO"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_12",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "elo"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "planificaación reunión de kickoff con andrec y site mlb el 29sep 1745 hs"
-    ],
-    "country": [
-      "MLB"
-    ],
-    "bandera": [
-      "Elo"
-    ]
+    "formatted": "planificaación reunión de kickoff con andrec y site mlb el 29-sep 1745 hs",
+    "country": "MLB",
+    "bandera": "ELO"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_13",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla amex"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "obtuvimos el ok de ecosistema conci sobre el e2e de controles y la validación de amex sobre los primeros 10 pagos procesados"
-    ],
-    "country": [
-      "MLA"
-    ],
-    "bandera": [
-      "American Express"
-    ]
+    "formatted": "obtuvimos el ok de ecosistema conci sobre el e2e de controles y la validación de amex sobre los primeros 10 pagos procesados",
+    "country": "MLA",
+    "bandera": "AMERICAN EXPRESS"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_14",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla amex"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "roll out prosegur pruebas allianz continuar con el roll out de prosegur y alinear las pruebas de allianz"
-    ],
-    "country": [
-      "MLA"
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "roll out prosegur pruebas allianz continuar con el roll out de prosegur y alinear las pruebas de allianz",
+    "country": "MLA",
+    "bandera": "AMERICAN EXPRESS"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_15",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "porotaje"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "q325 cierre de iniciativas de génova como pilar clave para la nota génova q3"
-    ],
-    "country": "",
-    "bandera": [
-      ""
-    ]
+    "formatted": "q325 cierre de iniciativas de génova como pilar clave para la nota génova q3",
+    "country": "CORP",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_16",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "porotaje"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "q425 elaboración del deck con los resultados del tradeoff"
-    ],
-    "country": "",
-    "bandera": [
-      ""
-    ]
+    "formatted": "q425 elaboración del deck con los resultados del trade-off",
+    "country": "CORP",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_17",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "cross capabilities"
@@ -315,22 +240,16 @@
     "Sub-Sub-Title": [
       "track controles"
     ],
-    "formatted": [
-      "iniciamos sesiones recurrentes con finops con el objetivo de alinear y consensuar las responsabilidades sobre los controles de ic"
-    ],
-    "country": [
-      ""
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "iniciamos sesiones recurrentes con finops con el objetivo de alinear y consensuar las responsabilidades sobre los controles de ic",
+    "country": "CORP",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_18",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "cross capabilities"
@@ -338,22 +257,16 @@
     "Sub-Sub-Title": [
       "track controles"
     ],
-    "formatted": [
-      "completaremos el deck para socializar el nuevo rol de governance de controles"
-    ],
-    "country": [
-      ""
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "completaremos el deck para socializar el nuevo rol de governance de controles",
+    "country": "CORP",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_19",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "cross capabilities"
@@ -361,350 +274,248 @@
     "Sub-Sub-Title": [
       "track ia"
     ],
-    "formatted": [
-      "follow up de la performance de guada"
-    ],
-    "country": [
-      ""
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "follow up de la performance de guada",
+    "country": "CORP",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_20",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlmpili"
+      "mlm pili"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "tasas naturales esta semana queda productivo el fix para enviar 500 solicitudes por archivo continuamos con altas diarias monitoreo de oportunidades para incrementar rollout"
-    ],
-    "country": [
-      "MLM"
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "tasas naturales esta semana queda productivo el fix para enviar 500 solicitudes por archivo continuamos con altas diarias monitoreo de oportunidades para incrementar rollout",
+    "country": "MLM",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_21",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlmpili"
+      "mlm pili"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "pin online la semana pasada finalizó con éxito el proyecto de pin online para génova master coordinar prueba ttp"
-    ],
-    "country": [
-      "MLM"
-    ],
-    "bandera": [
-      "Mastercard"
-    ]
+    "formatted": "pin online la semana pasada finalizó con éxito el proyecto de pin online para génova master coordinar prueba ttp",
+    "country": "MLM",
+    "bandera": "MASTERCARD"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_22",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlmpili"
+      "mlm pili"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "mc internacional se retoma el rollout del flujo para llegar a que el 1 del flujo quede por génova"
-    ],
-    "country": [
-      "MLM"
-    ],
-    "bandera": [
-      "Mastercard"
-    ]
+    "formatted": "mc internacional se retoma el rollout del flujo para llegar a que el 1 del flujo quede por génova",
+    "country": "MLM",
+    "bandera": "MASTERCARD"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_23",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlmpili"
+      "mlm pili"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "msi master cambios en layout de conci para empezar a encender flujo desde el 299 sync con master y stori por rechazos"
-    ],
-    "country": [
-      "MLM"
-    ],
-    "bandera": [
-      "Mastercard"
-    ]
+    "formatted": "msi master cambios en layout de conci para empezar a encender flujo desde el 299 sync con master y stori por rechazos",
+    "country": "MLM",
+    "bandera": "MASTERCARD"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_24",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlceuge"
+      "mlc euge"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "dcc mesa con génova it para armar flujos y escenarios"
-    ],
-    "country": [
-      "MLC"
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "dcc mesa con génova it para armar flujos y escenarios",
+    "country": "MLC",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_25",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlceuge"
+      "mlc euge"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "mesa de trabajo armado prework para revisar valores e iniciativas de 2025 y 2026 con tere y alex que vienen próxima semana"
-    ],
-    "country": [
-      "MLC"
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "mesa de trabajo armado prework para revisar valores e iniciativas de 2025 y 2026 con tere y alex que vienen próxima semana",
+    "country": "MLC",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_26",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "lbllucas"
+      "mlb lucas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "liquidação sub iniciamos el rollout de la liquidación centralizada para el primer sub y esta semana seguiremos con la migración de uno más"
-    ],
-    "country": [
-      "MLB"
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "liquidação sub iniciamos el rollout de la liquidación centralizada para el primer sub y esta semana seguiremos con la migración de uno más",
+    "country": "MLB",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_27",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "lbllucas"
+      "mlb lucas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "mandates ia avanzar con la migración del rpa al sistema meli fury eliminando así la dependencia de correrlo en una computadora local"
-    ],
-    "country": [
-      "MLB"
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "mandates ia avanzar con la migración del rpa al sistema meli fury eliminando así la dependencia de correrlo en una computadora local",
+    "country": "MLB",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_28",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "lbllucas"
+      "mlb lucas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "zero dólar auth entender mejor el flujo de punta a punta y los impactos en el tema de la sif"
-    ],
-    "country": [
-      "MLB"
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "zero dólar auth entender mejor el flujo de punta a punta y los impactos en el tema de la sif",
+    "country": "MLB",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_29",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlasanti"
+      "mla santi"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "propinas seguimiento al inicio del roll out del nuevo flujo para propinas con tc y td"
-    ],
-    "country": [
-      "MLA"
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "propinas seguimiento al inicio del roll out del nuevo flujo para propinas con tc y td",
+    "country": "MLA",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_30",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlasanti"
+      "mla santi"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "banco pagador alineación con banco provincia para comenzar reuniones técnicas"
-    ],
-    "country": [
-      "MLA"
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "banco pagador alineación con banco provincia para comenzar reuniones técnicas",
+    "country": "MLA",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_31",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlasanti"
+      "mla santi"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "promociones vamos a completar las pruebas para el poroto de tokenización de promociones"
-    ],
-    "country": [
-      "MLA"
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "promociones vamos a completar las pruebas para el poroto de tokenización de promociones",
+    "country": "MLA",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_32",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [
       "genova"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "controles revisar deck previo a reu lanzamiento con equipos internos"
-    ],
-    "country": [
-      ""
-    ],
-    "bandera": [
-      ""
-    ]
+    "formatted": "controles revisar deck previo a reu lanzamiento con equipos internos",
+    "country": "CORP",
+    "bandera": "OTRA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_33",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [
       "genova"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "elo go live reu el 29sep 1745 hs con team mlb preparar deck"
-    ],
-    "country": [
-      "MLB"
-    ],
-    "bandera": [
-      "Elo"
-    ]
+    "formatted": "elo go live reu el 29sep 1745 hs con team mlb preparar deck",
+    "country": "MLB",
+    "bandera": "ELO"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_34",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [
       "banderas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "visita visa en polodot agenda de 2hs y review de temas con teams pf buchu etc"
-    ],
-    "country": [
-      ""
-    ],
-    "bandera": [
-      "Visa"
-    ]
+    "formatted": "visita visa en polodot agenda de 2hs y review de temas con teams pf buchu etc",
+    "country": "CORP",
+    "bandera": "VISA"
   },
   {
     "bullet_id": "68d14de7fdd5bf878272ca26_35",
     "commentId": "68d14de7fdd5bf878272ca26",
     "fecha": "2025-Q3",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [
       "banderas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "sif visa descargo reclamo más formal"
-    ],
-    "country": [
-      ""
-    ],
-    "bandera": [
-      "Visa"
-    ]
+    "formatted": "sif visa descargo reclamo más formal",
+    "country": "CORP",
+    "bandera": "VISA"
   }
 ]

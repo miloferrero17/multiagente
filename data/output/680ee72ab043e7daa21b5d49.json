@@ -4,13 +4,13 @@
     "commentId": "680ee72ab043e7daa21b5d49",
     "fecha": "2025-Q2",
     "Team": [
-      "mejora continua planning"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "planning"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "deep dive transacciones internacionales mlb + tablero genova int. + casos abiertos master @camilaprandi"
-    ],
+    "formatted": "deep dive transacciones internacionales mlb + tablero genova int. + casos abiertos master @camilaprandi",
     "country": [
       "MLB"
     ],
@@ -23,18 +23,18 @@
     "commentId": "680ee72ab043e7daa21b5d49",
     "fecha": "2025-Q2",
     "Team": [
-      "mejora continua planning"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "planning"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "diseño controles tc mla + control de razonabilidad prosa @noelialoza3"
-    ],
+    "formatted": "diseño controles tc mla + control de razonabilidad prosa @noelialoza3",
     "country": [
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -42,18 +42,18 @@
     "commentId": "680ee72ab043e7daa21b5d49",
     "fecha": "2025-Q2",
     "Team": [
-      "mejora continua planning"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "planning"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "apoyo a mlb para definición de control de razonabilidad sobre collection fees génova"
-    ],
+    "formatted": "apoyo a mlb para definición de control de razonabilidad sobre collection fees génova",
     "country": [
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

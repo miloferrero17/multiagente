@@ -4,16 +4,18 @@
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "producto"
     ],
     "Sub-Sub-Title": [],
     "formatted": "super token open loop direccionamiento mastercard pki o full passey",
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -21,17 +23,18 @@
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "producto"
     ],
     "Sub-Sub-Title": [],
     "formatted": "tap to pay open loop visa y mastercard intentando hacer probas",
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "visa",
-      "mastercard"
+      "Visa"
     ]
   },
   {
@@ -39,16 +42,18 @@
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "relacionamiento con las marcas"
     ],
     "Sub-Sub-Title": [],
     "formatted": "retro mastercard reu con mari",
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -56,16 +61,18 @@
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "a relacionamiento con banderas fe y thi"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
       "relacionamiento con las marcas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "amex reenvío de casos rg0s data quality",
-    "country": "",
+    "formatted": "amex reenvio de casos rg0s data quality",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "american express"
+      "American Express"
     ]
   },
   {
@@ -73,7 +80,7 @@
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari proyectos y controles"
@@ -81,10 +88,12 @@
     "Sub-Sub-Title": [
       "mlm prosa"
     ],
-    "formatted": "bin visa ica mc configuración de bin visa con visa",
-    "country": "MLM",
+    "formatted": "bin visa ica mc configuracion de bin visa con visa",
+    "country": [
+      "MLM"
+    ],
     "bandera": [
-      "visa"
+      "Visa"
     ]
   },
   {
@@ -92,7 +101,7 @@
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari proyectos y controles"
@@ -100,16 +109,20 @@
     "Sub-Sub-Title": [
       "mco"
     ],
-    "formatted": "roll out 2026 alineación con el site respecto al share capturable y su impacto en grandes exposiciones",
-    "country": "",
-    "bandera": []
+    "formatted": "roll out 2026 alineacion con el site respecto al share capturable y su impacto en grandes exposiciones",
+    "country": [
+      "MCO"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_7",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari proyectos y controles"
@@ -117,10 +130,12 @@
     "Sub-Sub-Title": [
       "mco"
     ],
-    "formatted": "mastercard la semana pasada completamos los casos de certificación nos encontramos a la espera de feedback",
-    "country": "",
+    "formatted": "mastercard la semana pasada completamos los casos de certificacion nos encontramos a la espera de feedback",
+    "country": [
+      "MCO"
+    ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -128,7 +143,7 @@
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari proyectos y controles"
@@ -136,10 +151,12 @@
     "Sub-Sub-Title": [
       "mco"
     ],
-    "formatted": "visa consultation revisión del cronograma compartido por visa para alinear fechas clave para el proyecto",
-    "country": "",
+    "formatted": "visa consultation revision del cronograma compartido por visa para alinear fechas clave para el proyecto",
+    "country": [
+      "MCO"
+    ],
     "bandera": [
-      "visa"
+      "Visa"
     ]
   },
   {
@@ -147,7 +164,7 @@
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari proyectos y controles"
@@ -156,15 +173,19 @@
       "ia"
     ],
     "formatted": "genia probar la transferencia de workflows para proyectos compartidos con el equipo de pmo",
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_10",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari proyectos y controles"
@@ -172,16 +193,20 @@
     "Sub-Sub-Title": [
       "ia"
     ],
-    "formatted": "porotaje avanzar con la implementación del nuevo proceso al flujo actual",
-    "country": "",
-    "bandera": []
+    "formatted": "porotaje avanzar con la implementacion del nuevo proceso al flujo actual",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_11",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari proyectos y controles"
@@ -190,15 +215,19 @@
       "cross capabilities win 1"
     ],
     "formatted": "msi prosa encendido del flujo con los controles e2e",
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_12",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari proyectos y controles"
@@ -207,15 +236,19 @@
       "cross capabilities win 2"
     ],
     "formatted": "control interchange en devoluciones y contracargos acordamos con finops el traspaso en q1",
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_13",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari proyectos y controles"
@@ -224,15 +257,19 @@
       "cross capabilities"
     ],
     "formatted": "controles avance en el mapeo de controles existentes y faltantes",
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_14",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "equipo mari proyectos y controles"
@@ -240,130 +277,180 @@
     "Sub-Sub-Title": [
       "cross capabilities"
     ],
-    "formatted": "nuevos flujos reuniones de diseño del flujo de cbk on us con gco ops y pf",
-    "country": "",
-    "bandera": []
+    "formatted": "nuevos flujos reuniones de diseno del flujo de cbk on us con gco ops y pf",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_15",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "equipo mari proyectos y controles"
+    ],
+    "Sub-Sub-Title": [
       "mlc euge"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": "devoluciones parciales merchant financed cambios necesarios para avanzar con la opción de klap",
-    "country": "MLC",
-    "bandera": []
+    "formatted": "devoluciones parciales merchant financed cambios necesarios para avanzar con la opcion de klap",
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_16",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "equipo mari proyectos y controles"
+    ],
+    "Sub-Sub-Title": [
       "mlc euge"
     ],
-    "Sub-Sub-Title": [],
     "formatted": "encendido merchant financed via mp lending realizamos primeras venta de cupones reales con acfin y larrain vial esperamos check de finops",
-    "country": "MLC",
-    "bandera": []
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_17",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "equipo mari proyectos y controles"
+    ],
+    "Sub-Sub-Title": [
       "mlb lucas"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": "on-us buscar alineamiento y crear el diseño del flujo de movimiento financiero entre bari y génova en coordinación con conci y tesorería",
-    "country": "MLB",
-    "bandera": []
+    "formatted": "on us buscar alineamiento y crear el diseno del flujo de movimiento financiero entre bari y genova en coordinacion con conci y tesoreria",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_18",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "equipo mari proyectos y controles"
+    ],
+    "Sub-Sub-Title": [
       "mlb lucas"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": "ia exploración de alternativas para multi-agente y estado de porotos ia first",
-    "country": "MLB",
-    "bandera": []
+    "formatted": "ia exploracion de alternativas para multi agente y estado de porotos ia first",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_19",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "equipo mari proyectos y controles"
+    ],
+    "Sub-Sub-Title": [
       "mlb lucas"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": "reintentos junto con anto seguiremos con la activación de las reglas de reintentos para subs buscando capturar un incremento esperado de tpv de usd 33 mm anual",
-    "country": "MLB",
-    "bandera": []
+    "formatted": "reintentos junto con anto seguiremos con la activacion de las reglas de reintentos para subs buscando capturar un incremento esperado de tpv de usd 33 mm anual",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_20",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "equipo mari proyectos y controles"
+    ],
+    "Sub-Sub-Title": [
       "mlm pili"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": "tasas naturales track hunting revisión del flujo high level",
-    "country": "MLM",
-    "bandera": []
+    "formatted": "tasas naturales track hunting revision del flujo high level",
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_21",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "equipo mari proyectos y controles"
+    ],
+    "Sub-Sub-Title": [
       "mlm pili"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": "jurisprudencia iva continuación de pruebas de recepción de files",
-    "country": "MLM",
-    "bandera": []
+    "formatted": "jurisprudencia iva continuacion de pruebas de recepcion de files",
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_22",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "equipo mari proyectos y controles"
+    ],
+    "Sub-Sub-Title": [
       "mlm pili"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": "visa internacional alinear apertura de proyecto recibimos confirmación que no debemos realizar certificación de devices",
-    "country": "MLM",
+    "formatted": "visa internacional alinear apertura de proyecto recibimos confirmacion que no debemos realizar certificacion de devices",
+    "country": [
+      "MLM"
+    ],
     "bandera": [
-      "visa"
+      "Visa"
     ]
   },
   {
@@ -371,17 +458,20 @@
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "equipo mari proyectos y controles"
+    ],
+    "Sub-Sub-Title": [
       "mla santi"
     ],
-    "Sub-Sub-Title": [],
     "formatted": "transferencias con tarjeta pruebas productivas inicio del roll out para visa y master",
-    "country": "MLA",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
-      "visa",
-      "mastercard"
+      "Visa"
     ]
   },
   {
@@ -389,76 +479,92 @@
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "equipo mari proyectos y controles"
+    ],
+    "Sub-Sub-Title": [
       "mla santi"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": "no settlement on us armado de impactos técnicos para ambos escenarios con el fin de validar desarrollos en común",
-    "country": "MLA",
-    "bandera": []
+    "formatted": "no settlement on us armado de impactos tecnicos para ambos escenarios con el fin de validar desarrollos en comun",
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_25",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
+      "equipo mari proyectos y controles"
+    ],
+    "Sub-Sub-Title": [
       "mla santi"
     ],
-    "Sub-Sub-Title": [],
-    "formatted": "flujo de pre adelantos seguir profundizando en el entendimiento de las reglas y condiciones que generan diferencias entre génova y mp",
-    "country": "MLA",
-    "bandera": []
+    "formatted": "flujo de pre adelantos seguir profundizando en el entendimiento de las reglas y condiciones que generan diferencias entre genova y mp",
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_26",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
-      "genova"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "monthly noviembre 2025 mandar mail hoy",
-    "country": "",
-    "bandera": []
+    "formatted": "genova monthly noviembre 2025 mandar mail hoy",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_27",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
-      "banderas"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "presentación pau proyectos de tokenización hicimos la presentación alineada con pf ahora armar mail con update mensual",
-    "country": "",
-    "bandera": []
+    "formatted": "banderas presentacion pau proyectos de tokenizacion hicimos la presentacion alineada con pf ahora armar mail con update mensual",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6949487d669597ad3d315949_28",
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
-      "banderas"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "amex dimos feedback de info para contratos",
-    "country": "",
+    "formatted": "banderas amex dimos feedback de info para contratos",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "american express"
+      "American Express"
     ]
   },
   {
@@ -466,16 +572,16 @@
     "commentId": "6949487d669597ad3d315949",
     "fecha": "2025-Q4",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
-      "banderas"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "master reunión de cierre de año",
-    "country": "",
+    "formatted": "banderas master reunion de cierre de ano",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   }
 ]

@@ -8,11 +8,13 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "FU con MC sobre TC MLC por formularios y configuraciones + 2da mesa con IT por aprobación BARI @patriciofernandez42",
+    "formatted": "fu con mc sobre tc mlc por formularios y configuraciones + 2da mesa con it por aprobacion bari",
     "country": [
       "MLC"
     ],
-    "bandera": []
+    "bandera": [
+      "Mastercard"
+    ]
   },
   {
     "bullet_id": "6899e0b0d2818cca5aed2f36_2",
@@ -23,9 +25,13 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "Finalización Deck de Bines (rangos emisión y tokenización) @francogariffo1",
-    "country": [],
-    "bandera": []
+    "formatted": "finalizacion deck de bines rangos emision y tokenizacion",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6899e0b0d2818cca5aed2f36_3",
@@ -36,8 +42,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "Análisis de contratos por On Us @mariaemiliamartino",
-    "country": [],
-    "bandera": []
+    "formatted": "analisis de contratos por on us",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   }
 ]

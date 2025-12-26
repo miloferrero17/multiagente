@@ -4,18 +4,18 @@
     "commentId": "68e14cf2f6b85cc29af2e7ea",
     "fecha": "2025-Q4",
     "Team": [
-      "alvi ooo al sur de peru en la sierra visitando volcanes alpacas vicunas etc"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "planning"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "@camilaprandi disponibilización de tabla única de facturas (ahora a meterla a looker y explotarla :)) - bt_mp_gva_scheme_invoice y lk_categ_scheme_fees"
-    ],
+    "formatted": "fee de bandera sept-25 + continuación omparativa costos MLA Visa vs. Mastercard + calculo de impacto regional mandate de 10pbs para settlement internacional en moneda extranjera",
     "country": [
-      ""
+      "MLA"
     ],
     "bandera": [
-      ""
+      "Visa"
     ]
   },
   {
@@ -23,18 +23,18 @@
     "commentId": "68e14cf2f6b85cc29af2e7ea",
     "fecha": "2025-Q4",
     "Team": [
-      "alvi ooo al sur de peru en la sierra visitando volcanes alpacas vicunas etc"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "planning"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "sofi se integra a equipo como nueva analista de se el 20/10 :)"
-    ],
+    "formatted": "cierre genova sept 2025 + continuar reportes scheme enablers",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -42,19 +42,18 @@
     "commentId": "68e14cf2f6b85cc29af2e7ea",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "planning"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "@camilaprandi :  fee de bandera sept-25 + continuación omparativa costos mla visa vs. mastercard + calculo de impacto regional mandate de 10pbs para settlement internacional en moneda extranjera"
-    ],
+    "formatted": "smart routing MLA y MLM: apertura de fees",
     "country": [
       "MLA"
     ],
     "bandera": [
-      "Visa",
-      "Mastercard"
+      "Otra"
     ]
   },
   {
@@ -62,18 +61,18 @@
     "commentId": "68e14cf2f6b85cc29af2e7ea",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "planning"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "@antonelamutti1 : cierre genova sept 2025 + continuar reportes scheme enablers"
-    ],
+    "formatted": "MLB: revisar cotizaciones de big sellers (pedido de paty)",
     "country": [
-      ""
+      "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -81,20 +80,18 @@
     "commentId": "68e14cf2f6b85cc29af2e7ea",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "planning"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "@noelialoza3 : smart routing mla y mlm: apertura de fees + mlb: revisar cotizaciones de big sellers (pedido de paty) + competitividad mlm (incluyendo data prosa)"
-    ],
+    "formatted": "competitividad MLM (incluyendo data prosa)",
     "country": [
-      "MLA",
-      "MLM",
-      "MLB"
+      "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -102,13 +99,13 @@
     "commentId": "68e14cf2f6b85cc29af2e7ea",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "planning"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "@martinabailo : (i) compliance case rapipago – pago fácil mla: ejecutar accionables (migrar flujo a prisma + compartir info + reclamo comercial a visa por multa aplicada (usd 35k))."
-    ],
+    "formatted": "compliance case rapipago – pago fácil MLA: ejecutar accionables (migrar flujo a prisma + compartir info + reclamo comercial a visa por multa aplicada (usd 35k))",
     "country": [
       "MLA"
     ],
@@ -121,18 +118,18 @@
     "commentId": "68e14cf2f6b85cc29af2e7ea",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "planning"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "(ii) mcc miscoding mlb: alinear con el site de defensa para reclamar multa aplicada (r$520k)"
-    ],
+    "formatted": "mcc miscoding MLB: alinear con el site de defensa para reclamar multa aplicada (r$520k)",
     "country": [
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -140,18 +137,18 @@
     "commentId": "68e14cf2f6b85cc29af2e7ea",
     "fecha": "2025-Q4",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "planning"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "(iii) reporting: finalizar automatización con anto y ejecutar presentación de reportes"
-    ],
+    "formatted": "reporting: finalizar automatización con anto y ejecutar presentación de reportes",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

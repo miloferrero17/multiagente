@@ -8,8 +8,11 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "catch up de temas con prioridad en la certificación de chile y uruguay con mastercard",
-    "country": "",
+    "formatted": "catch up de temas con prioridad en la certificacion de chile y uruguay con mastercard",
+    "country": [
+      "MLC",
+      "MLU"
+    ],
     "bandera": [
       "Mastercard"
     ]
@@ -23,9 +26,9 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "spliteo settlement visa mlm: configuración en sfto y alineación para la descripción bancaria que van a ejecutar",
+    "formatted": "spliteo settlement visa mlm configuracion en sfto y alineacion para la descripcion bancaria que van a ejecutar",
     "country": [
-      "Mexico"
+      "MLM"
     ],
     "bandera": [
       "Visa"
@@ -40,8 +43,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "tj corporativas: mesa de kick off con cards y otros equipos para definir el producto + mesa con pato blanco el viernes para alinear historia 2026",
-    "country": "",
-    "bandera": []
+    "formatted": "tj corporativas mesa de kick off con cards y otros equipos para definir el producto mesa con pato blanco el viernes para alinear historia 2026",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   }
 ]

@@ -4,75 +4,111 @@
     "commentId": "6868aaa59801e07795d4c752",
     "fecha": "2025-Q3",
     "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
       "mc planning"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "Cálculos fee de bandera Jun25 + controles manuales y reclamos, adecuar casuística de notificación SR#2002564448 Visa MLA + cerrar impacto nuevo billings Débito MLB",
-    "country": "",
-    "bandera": ""
+    "formatted": "cálculos fee de bandera jun25 controles manuales y reclamos adecuar casuística de notificación sr2002564448 visa mla cerrar impacto nuevo billings débito mlb",
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Visa"
+    ]
   },
   {
     "bullet_id": "6868aaa59801e07795d4c752_2",
     "commentId": "6868aaa59801e07795d4c752",
     "fecha": "2025-Q3",
     "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
       "mc planning"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "Cierre genova junio 25- Forecast 25 + presentacion a Pau - QBR Q2",
-    "country": "",
-    "bandera": ""
+    "formatted": "cierre genova junio 25 forecast 25 presentacion a pau qbr q2",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6868aaa59801e07795d4c752_3",
     "commentId": "6868aaa59801e07795d4c752",
     "fecha": "2025-Q3",
     "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
       "mc planning"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "Mex: Tasas naturales Camara Master vs Getnet y Prosa y Pruebas sobre el Fee de Bandera de Cubo Hispanos+Brasil",
-    "country": "MLM",
-    "bandera": "Mastercard"
+    "formatted": "mex tasas naturales camara master vs getnet y prosa y pruebas sobre el fee de bandera de cubo hispanos brasil",
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
   },
   {
     "bullet_id": "6868aaa59801e07795d4c752_4",
     "commentId": "6868aaa59801e07795d4c752",
     "fecha": "2025-Q3",
     "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
       "scheme enablers"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "Multa MATCH/QMAP Génova MLB: alineamiento next steps y Notificación Visa MCC Miscoding: flujo Utilities",
-    "country": "MLB",
-    "bandera": "Visa"
+    "formatted": "multa match qmap génova mlb alineamiento next steps y notificación visa mcc miscoding flujo utilities",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Visa"
+    ]
   },
   {
     "bullet_id": "6868aaa59801e07795d4c752_5",
     "commentId": "6868aaa59801e07795d4c752",
     "fecha": "2025-Q3",
     "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
       "scheme enablers"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "Reportes de cierre de Q a banderas",
-    "country": "",
-    "bandera": ""
+    "formatted": "reportes de cierre de q a banderas",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6868aaa59801e07795d4c752_6",
     "commentId": "6868aaa59801e07795d4c752",
     "fecha": "2025-Q3",
-    "Team": [],
+    "Team": [
+      "mejora continua y scheme enablers"
+    ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "Alvi: Transición SE + Slides QBR Marcos",
-    "country": "",
-    "bandera": ""
+    "formatted": "alvi transición se slides qbr marcos",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   }
 ]

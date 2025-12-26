@@ -4,50 +4,56 @@
     "commentId": "679775a12ae3ee6bd0b389da",
     "fecha": "2025-Q1",
     "Team": [
-      "win"
-    ],
-    "Sub-Title": [
       "bari"
     ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "slides para review de marcos y envío de monthly"
     ],
-    "country": [],
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "679775a12ae3ee6bd0b389da_2",
     "commentId": "679775a12ae3ee6bd0b389da",
     "fecha": "2025-Q1",
     "Team": [
-      "win"
-    ],
-    "Sub-Title": [
       "bari"
     ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "presentación a pau de la ampliación del rol del equipo producto para 2025"
     ],
-    "country": [],
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "679775a12ae3ee6bd0b389da_3",
     "commentId": "679775a12ae3ee6bd0b389da",
     "fecha": "2025-Q1",
     "Team": [
-      "win"
-    ],
-    "Sub-Title": [
       "bari"
     ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": [
       "kick tc chile barimonzanegocio site y coordinación del kick off td uruguay con equipo de agus lopez"
     ],
-    "country": [],
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   }
 ]

@@ -11,9 +11,11 @@
     ],
     "Sub-Sub-Title": [],
     "formatted": "tenemos a euge oficialmente en el equipo",
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -34,7 +36,7 @@
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -76,7 +78,7 @@
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -97,7 +99,7 @@
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -118,7 +120,7 @@
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -139,7 +141,7 @@
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -160,7 +162,7 @@
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -181,7 +183,7 @@
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -202,7 +204,7 @@
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -244,7 +246,7 @@
       "MLC"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -252,18 +254,16 @@
     "commentId": "67785cff5ee9016270263e78",
     "fecha": "2025-Q1",
     "Team": [
-      "genova"
+      "relacionamiento con las banderas"
     ],
-    "Sub-Title": [
-      "relacionamiento con banderas ferodri"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "aprobación de devolución de ic por emissores mlb 3 aprobados 11m de reales",
     "country": [
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -271,18 +271,16 @@
     "commentId": "67785cff5ee9016270263e78",
     "fecha": "2025-Q1",
     "Team": [
-      "genova"
+      "relacionamiento con las banderas"
     ],
-    "Sub-Title": [
-      "relacionamiento con banderas ferodri"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "sef threshold data only q4 r5m",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -290,19 +288,16 @@
     "commentId": "67785cff5ee9016270263e78",
     "fecha": "2025-Q1",
     "Team": [
-      "genova"
+      "relacionamiento con las banderas"
     ],
-    "Sub-Title": [
-      "relacionamiento con banderas ferodri"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "seguimiento visa y master 3ds visa servidor",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      "Visa",
-      "Mastercard"
+      "Visa"
     ]
   },
   {
@@ -310,15 +305,13 @@
     "commentId": "67785cff5ee9016270263e78",
     "fecha": "2025-Q1",
     "Team": [
-      "genova"
+      "relacionamiento con las banderas"
     ],
-    "Sub-Title": [
-      "relacionamiento con banderas ferodri"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "proyectos mastercard advisors",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
       "Mastercard"
@@ -329,19 +322,16 @@
     "commentId": "67785cff5ee9016270263e78",
     "fecha": "2025-Q1",
     "Team": [
-      "genova"
+      "relacionamiento con las banderas"
     ],
-    "Sub-Title": [
-      "relacionamiento con banderas ferodri"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "nfc mastervisa",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      "Mastercard",
-      "Visa"
+      "Mastercard"
     ]
   }
 ]

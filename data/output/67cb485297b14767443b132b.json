@@ -4,16 +4,18 @@
     "commentId": "67cb485297b14767443b132b",
     "fecha": "2025-Q1",
     "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
       "scheme enablers"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "response AFT + FUP sobrecargos",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -21,14 +23,15 @@
     "commentId": "67cb485297b14767443b132b",
     "fecha": "2025-Q1",
     "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
       "scheme enablers"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "solicitud de una extensión del plazo de implementación (deferral) para el aumento de costos de chargebacks previsto por Visa para MLB y MLA para el 1.4.",
     "country": [
-      "Brasil",
-      "Argentina"
+      "MLB"
     ],
     "bandera": [
       "Visa"
@@ -39,17 +42,18 @@
     "commentId": "67cb485297b14767443b132b",
     "fecha": "2025-Q1",
     "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
       "scheme enablers"
     ],
-    "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "1:1 con Vero MLM y Ale MLA por alineaciones pendientes + Monthly Deck + novedades de banderas + looker scheme enablers",
     "country": [
-      "Mexico",
-      "Argentina"
+      "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

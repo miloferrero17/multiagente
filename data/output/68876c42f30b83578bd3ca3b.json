@@ -4,13 +4,15 @@
     "commentId": "68876c42f30b83578bd3ca3b",
     "fecha": "2025-Q3",
     "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
       "mejora continua planning"
     ],
-    "Sub-Title": [],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "Estimación de impacto y análisis de notificaciones Visa MLA: flujo Utilities + revisión última adecuación + Configurar con Mastercard el envío automático de facturas de fees de bandera"
+    "Sub-Sub-Title": [
+      ""
     ],
+    "formatted": "estimación de impacto y análisis de notificaciones visa mla flujo utilities revisión última adecuación configurar con mastercard el envío automático de facturas de fees de bandera",
     "country": [
       "MLA"
     ],
@@ -23,18 +25,20 @@
     "commentId": "68876c42f30b83578bd3ca3b",
     "fecha": "2025-Q3",
     "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
       "mejora continua planning"
     ],
-    "Sub-Title": [],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "Deck competitividad MLA + Beneficio approval + cambios en la Weekly Genova MLM"
+    "Sub-Sub-Title": [
+      ""
     ],
+    "formatted": "estimación de impacto y análisis de notificaciones visa mla flujo utilities revisión última adecuación configurar con mastercard el envío automático de facturas de fees de bandera",
     "country": [
       "MLA"
     ],
     "bandera": [
-      ""
+      "Mastercard"
     ]
   },
   {
@@ -42,18 +46,20 @@
     "commentId": "68876c42f30b83578bd3ca3b",
     "fecha": "2025-Q3",
     "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
       "mejora continua planning"
     ],
-    "Sub-Title": [],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "Fees para CUBO - cerrar las pruebas (resta cerrar diferencia de bases en MLA) + Trabajar con los BC de de Click to pay para Master Brasil (junto con Fer) + BC de Bigsellers Brasil"
+    "Sub-Sub-Title": [
+      ""
     ],
+    "formatted": "deck competitividad mla beneficio approval cambios en la weekly genova mlm",
     "country": [
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -61,18 +67,20 @@
     "commentId": "68876c42f30b83578bd3ca3b",
     "fecha": "2025-Q3",
     "Team": [
-      "scheme enablers"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "Licencing PPD MLU: iniciar phase 1 del proceso de licencia (foco en AML/Legales) + Estrategia trx cross-border MLM"
+    "Sub-Title": [
+      "mejora continua planning"
     ],
+    "Sub-Sub-Title": [
+      ""
+    ],
+    "formatted": "deck competitividad mla beneficio approval cambios en la weekly genova mlm",
     "country": [
-      "MLU"
+      "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -80,18 +88,125 @@
     "commentId": "68876c42f30b83578bd3ca3b",
     "fecha": "2025-Q3",
     "Team": [
-      "scheme enablers"
+      "mejora continua y scheme enablers"
     ],
-    "Sub-Title": [],
-    "Sub-Sub-Title": [],
-    "formatted": [
-      "Notificaciones MLA + Detalle de observaciones a los reportes en los últimos Qs"
+    "Sub-Title": [
+      "mejora continua planning"
     ],
+    "Sub-Sub-Title": [
+      ""
+    ],
+    "formatted": "fees para cubo cerrar las pruebas resta cerrar diferencia de bases en mla",
     "country": [
       "MLA"
     ],
     "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68876c42f30b83578bd3ca3b_6",
+    "commentId": "68876c42f30b83578bd3ca3b",
+    "fecha": "2025-Q3",
+    "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
+      "mejora continua planning"
+    ],
+    "Sub-Sub-Title": [
       ""
+    ],
+    "formatted": "trabajar con los bc de de click to pay para master brasil junto con fer",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
+  },
+  {
+    "bullet_id": "68876c42f30b83578bd3ca3b_7",
+    "commentId": "68876c42f30b83578bd3ca3b",
+    "fecha": "2025-Q3",
+    "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
+      "mejora continua planning"
+    ],
+    "Sub-Sub-Title": [
+      ""
+    ],
+    "formatted": "bc de bigsellers brasil",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68876c42f30b83578bd3ca3b_8",
+    "commentId": "68876c42f30b83578bd3ca3b",
+    "fecha": "2025-Q3",
+    "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
+      "scheme enablers"
+    ],
+    "Sub-Sub-Title": [
+      ""
+    ],
+    "formatted": "licencing ppd mlu iniciar phase 1 del proceso de licencia foco en aml legales",
+    "country": [
+      "MLU"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68876c42f30b83578bd3ca3b_9",
+    "commentId": "68876c42f30b83578bd3ca3b",
+    "fecha": "2025-Q3",
+    "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
+      "scheme enablers"
+    ],
+    "Sub-Sub-Title": [
+      ""
+    ],
+    "formatted": "estrategia trx cross border mlm",
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68876c42f30b83578bd3ca3b_10",
+    "commentId": "68876c42f30b83578bd3ca3b",
+    "fecha": "2025-Q3",
+    "Team": [
+      "mejora continua y scheme enablers"
+    ],
+    "Sub-Title": [
+      "scheme enablers"
+    ],
+    "Sub-Sub-Title": [
+      ""
+    ],
+    "formatted": "notificaciones mla detalle de observaciones a los reportes en los últimos qs",
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
     ]
   }
 ]

@@ -8,12 +8,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "armar los one pager de las iniciativas 2026 necesidad a resolver kpis y equipos a impactar",
+    "formatted": "armar los one pager de las iniciativas 2026 (necesidad a resolver, kpis y equipos a impactar)",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -25,9 +25,9 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "avanzar junto a mastercard puesta en producción tc mlc y licencia ica bin de mlu",
+    "formatted": "avanzar junto a mastercard puesta en producción tc mlc y licencia ica/bin de mlu",
     "country": [
-      ""
+      "MLC"
     ],
     "bandera": [
       "Mastercard"
@@ -44,10 +44,10 @@
     "Sub-Sub-Title": [],
     "formatted": "finalizar el proyecto del bin conmercial tc mla para dejarlo live",
     "country": [
-      ""
+      "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 """
 6_query_topk.py
@@ -5,7 +6,7 @@
 Query Pinecone and print top similar vectors (score - formatted).
 
 Usage examples:
-  python3 6_query_topk.py --topk 100 --return 20 --team bari --show-id --debug
+  python3 6_query_topk.py --topk 100 --return 20 clear--team bari --show-id --debug
   python3 6_query_topk.py --fetch-id 69492de0a72a3fe09a23546a_4 --debug
   python3 6_query_topk.py --vector last_vector.json --topk 50 --return 20 --csv out.csv
 
@@ -739,6 +740,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 '''
 #!/usr/bin/env python3

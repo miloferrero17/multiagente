@@ -4,20 +4,18 @@
     "commentId": "68b596c3d45fcd1f973b7666",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
     "Sub-Title": [
       "frente pmo"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "concluir trabajo identificacion de sillas y avanzar con el plan. reunion con brasil para alinear metodologia"
-    ],
+    "formatted": "concluir trabajo identificacion de sillas y avanzar con el plan",
     "country": [
-      "mlb"
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -25,20 +23,18 @@
     "commentId": "68b596c3d45fcd1f973b7666",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
     "Sub-Title": [
-      "frente gestion del cambio"
+      "frente pmo"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "reunion con proveedor por taller para lideres. avance implementacion ai lider mlb. definicion competenciaai lider fs y mla. hoy qa ozzie"
-    ],
+    "formatted": "reunion con brasil para alinear metodologia",
     "country": [
-      "mlb"
+      "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -46,20 +42,94 @@
     "commentId": "68b596c3d45fcd1f973b7666",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente gestion del cambio"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "reunion con proveedor por taller para lideres",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68b596c3d45fcd1f973b7666_4",
+    "commentId": "68b596c3d45fcd1f973b7666",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente gestion del cambio"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "avance implementacion ai lider mlb",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68b596c3d45fcd1f973b7666_5",
+    "commentId": "68b596c3d45fcd1f973b7666",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente gestion del cambio"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "definicion competencia ai lider fs y mla",
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68b596c3d45fcd1f973b7666_6",
+    "commentId": "68b596c3d45fcd1f973b7666",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente gestion del cambio"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "hoy q a ozzie",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68b596c3d45fcd1f973b7666_7",
+    "commentId": "68b596c3d45fcd1f973b7666",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
     ],
     "Sub-Title": [
       "frente iniciativas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "demo voice agents y avance con mvp"
-    ],
+    "formatted": "demo voice agents y avance con mvp",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

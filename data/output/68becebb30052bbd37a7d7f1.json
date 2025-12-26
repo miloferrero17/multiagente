@@ -4,14 +4,20 @@
     "commentId": "68becebb30052bbd37a7d7f1",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "frente pmo"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": "frente pmo: cierre mapeo de sillas y plan de cesiones y recepciones. validación con embajadores. distribución a hr planning",
-    "country": "",
+    "formatted": [
+      "cierre mapeo de sillas y plan de cesiones y recepciones validación con embajadores distribución a hr planning"
+    ],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -19,14 +25,20 @@
     "commentId": "68becebb30052bbd37a7d7f1",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "frente gestón del cambio"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": "frente gestón del cambio: avanzar taller líderes (expectativa poder bloquear agendas) organizar acciones de: competencia/ai lider e historias de éxito para argentina. cerrar y lanzar ai lider brasil. capacitaciones para ai lider (junto con milo): cerrar temas, lideres identificados y capacitaciones con fecha definida",
-    "country": "",
+    "formatted": [
+      "avanzar taller líderes expectativa poder bloquear agendas organizar acciones de competencia ai lider e historias de éxito para argentina cerrar y lanzar ai lider brasil capacitaciones para ai lider junto con milo cerrar temas lideres identificados y capacitaciones con fecha definida"
+    ],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -34,14 +46,20 @@
     "commentId": "68becebb30052bbd37a7d7f1",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "frente grandes iniciativas"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": "frente grandes iniciativas: preparar reunión fdv. seguimiento avances voice agents",
-    "country": "",
+    "formatted": [
+      "preparar reunión fdv seguimiento avances voice agents"
+    ],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

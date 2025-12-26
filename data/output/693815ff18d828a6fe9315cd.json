@@ -4,18 +4,18 @@
     "commentId": "693815ff18d828a6fe9315cd",
     "fecha": "2025-Q4",
     "Team": [
-      "xc"
+      "x countries"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "tte"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "tte - preparacion para monthly"
-    ],
+    "formatted": "preparacion para monthly",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -23,18 +23,18 @@
     "commentId": "693815ff18d828a6fe9315cd",
     "fecha": "2025-Q4",
     "Team": [
-      "xc"
+      "x countries"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "mafalda"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "mafalda - go-live"
-    ],
+    "formatted": "go live",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -42,18 +42,18 @@
     "commentId": "693815ff18d828a6fe9315cd",
     "fecha": "2025-Q4",
     "Team": [
-      "xc"
+      "x countries"
     ],
-    "Sub-Title": [],
-    "Sub-Sub-Title": [],
-    "formatted": [
+    "Sub-Title": [
       "cpc ia v2 with luqui"
     ],
+    "Sub-Sub-Title": [],
+    "formatted": "cpc ia v2 with luqui",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

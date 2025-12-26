@@ -4,12 +4,14 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "a relacionamiento con banderas rodri"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "workshop mastercard: seguir con las reuniones con equipos para preparar el deck y material",
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Mastercard"
     ]
@@ -19,12 +21,14 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "a relacionamiento con banderas rodri"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "revision propuesta ethoca mercado pago",
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -34,12 +38,14 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "a relacionamiento con banderas rodri"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "fup de proyectos: 3ds server proprio, investigación de impacto de nfc interoperabilidad, profundizar el troubleshooting y next steps de card arts.",
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -49,12 +55,14 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "a relacionamiento con banderas rodri"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "tap to phone - incentivo mla (135 mil usuarios que identificamos como publico alvo para ttp)",
-    "country": "MLA",
+    "formatted": "tap to phone - incentivo mla (135 mil usuários que identificamos como público alvo para ttp)",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -64,14 +72,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlm prosa"
     ],
     "Sub-Sub-Title": [],
     "formatted": "firmado el contrato msi: avanzaremos con los next steps para implementación.",
-    "country": "MLM",
+    "country": [
+      "MLM"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -81,14 +91,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlm prosa"
     ],
     "Sub-Sub-Title": [],
     "formatted": "roll out - flujo point: alinear con bebe si avanzamos o nos bloquea la no certificación.",
-    "country": "MLM",
+    "country": [
+      "MLM"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -98,14 +110,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "elo"
     ],
     "Sub-Sub-Title": [],
     "formatted": "definición del alcance del proyecto y envío del formulario de apertura",
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Elo"
     ]
@@ -115,14 +129,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "elo"
     ],
     "Sub-Sub-Title": [],
     "formatted": "reunión de kick-off con point para definir establecer prioridades de certificación",
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Elo"
     ]
@@ -132,14 +148,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "porotaje"
     ],
     "Sub-Sub-Title": [],
     "formatted": "cierre de la ticketera payac: 02/mayo",
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -149,7 +167,7 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "capabilities cross"
@@ -158,7 +176,9 @@
       "controles"
     ],
     "formatted": "diseño del dashboard de génova end-game",
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -168,7 +188,7 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "capabilities cross"
@@ -177,7 +197,9 @@
       "controles"
     ],
     "formatted": "avanzar con el mapeo de controles para la iniciativa con ecoconci",
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -187,16 +209,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "capabilities cross"
+      "mlb"
     ],
-    "Sub-Sub-Title": [
-      "mlb lucas"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": "visa - edqp - programa de calidad de datos de visa - nuevos reportes habilitados y consulta pública sobre cambio de mcc",
-    "country": "MLB",
+    "country": [
+      "MLB"
+    ],
     "bandera": [
       "Visa"
     ]
@@ -206,16 +228,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "capabilities cross"
+      "mlb"
     ],
-    "Sub-Sub-Title": [
-      "mlb lucas"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": "mensual core payments brasil - presentación sobre el micro merchant program e avances de elo (quezia e mari)",
-    "country": "MLB",
+    "country": [
+      "MLB"
+    ],
     "bandera": [
       "Elo"
     ]
@@ -225,16 +247,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "capabilities cross"
+      "mlb"
     ],
-    "Sub-Sub-Title": [
-      "mlb lucas"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": "porotage q3 - carga de porotos y chequeo de estado de porotos para q3",
-    "country": "MLB",
+    "country": [
+      "MLB"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -244,16 +266,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "capabilities cross"
+      "mla"
     ],
-    "Sub-Sub-Title": [
-      "mla santi"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": "carga de porotos q3",
-    "country": "MLA",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -263,16 +285,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "capabilities cross"
+      "mla"
     ],
-    "Sub-Sub-Title": [
-      "mla santi"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": "adelanto de cupones de mpsp a mp : alineación modelo de liquidación, modelo contable y contrato.",
-    "country": "MLA",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -282,16 +304,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "capabilities cross"
+      "mla"
     ],
-    "Sub-Sub-Title": [
-      "mla santi"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": "master money send: validación de pruebas con master y alinear el no cobro de penalidades por falta de campos",
-    "country": "MLA",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
       "Mastercard"
     ]
@@ -301,16 +323,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "capabilities cross"
+      "mlm"
     ],
-    "Sub-Sub-Title": [
-      "mlm pili euge"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": "msi master: se firmó term sheet y enrollment form. sesion agenda para el readiness assessment y apertura del proyecto con master",
-    "country": "MLM",
+    "country": [
+      "MLM"
+    ],
     "bandera": [
       "Mastercard"
     ]
@@ -320,16 +342,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "capabilities cross"
+      "mlm"
     ],
-    "Sub-Sub-Title": [
-      "mlm pili euge"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": "tasas naturales: continuamos con altas diarias (50xdía) y pruebas con el sftp exitosas. análisis de motivos de rechazos para realizar mejoras.",
-    "country": "MLM",
+    "country": [
+      "MLM"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -339,16 +361,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "capabilities cross"
+      "mlc"
     ],
-    "Sub-Sub-Title": [
-      "mlc euge"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": "porotos: revisión de porotos para q3 junto con cp",
-    "country": "MLC",
+    "country": [
+      "MLC"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -358,16 +380,16 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "capabilities cross"
+      "mlc"
     ],
-    "Sub-Sub-Title": [
-      "mlc euge"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": "tx internacionales: monitoreo de fixes implementados el viernes para que genova procese flujo de mas paises y con propina en caso de rechazo de klap (principal adquirente hoy con un bug de su lado).",
-    "country": "MLC",
+    "country": [
+      "MLC"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -377,14 +399,14 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
-      "genova"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "alinear next steps x incidente migración de bari tc mlm via conexión génova-prosa.",
-    "country": "MLM",
+    "formatted": "genova: alinear next steps x incidente migración de bari tc mlm via conexión génova-prosa.",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Otra"
     ]
@@ -394,14 +416,14 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
-      "banderas"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "revisión deck y elaborar contenido para planning workshop master 15 y 16 de mayo.",
-    "country": "",
+    "formatted": "banderas: revisión deck y elaborar contenido para planning workshop master 15 y 16 de mayo.",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Mastercard"
     ]
@@ -411,14 +433,14 @@
     "commentId": "680f7ff18d346767ce6d1c8b",
     "fecha": "2025-Q2",
     "Team": [
-      "b negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
-      "banderas"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "virp (visa): armar slides y compartir con visa.",
-    "country": "",
+    "formatted": "banderas: virp (visa): armar slides y compartir con visa.",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Visa"
     ]

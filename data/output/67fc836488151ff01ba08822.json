@@ -8,14 +8,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "Mesa con Felix Pago + alineamiento de propuesta"
-    ],
+    "formatted": "mesa con felix pago alineamiento de propuesta",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -27,14 +25,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "MLA: trx marcadas como internacionales que podrían ser nacionales (merchant EE.UU, adquirente Argentino, moneda settlement ARS e IC doméstico → Bari las interpretaría como internacionales)"
-    ],
+    "formatted": "mla trx marcadas como internacionales que podrian ser nacionales merchant eeuu adquirente argentino moneda settlement ars e ic domestico bari las interpretaria como internacionales",
     "country": [
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -46,14 +42,12 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "Mesa con Monza previa a la migración de MLM (26/04) y entender qué paso con el retraso en plan del F&F MLA."
-    ],
+    "formatted": "mesa con monza previa a la migracion de mlm 2604 y entender que paso con el retraso en plan del ff mla",
     "country": [
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

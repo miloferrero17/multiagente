@@ -12,12 +12,14 @@
     "Sub-Sub-Title": [
       "mlm prosa"
     ],
-    "formatted": "fu y push con conci por el pasaje a simetrik no se cumplió el eta comprometido 2802",
+    "formatted": [
+      "fu y push con conci por el pasaje a simetrik no se cumplio el eta comprometido 2802"
+    ],
     "country": [
-      "mlm"
+      "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -33,12 +35,14 @@
     "Sub-Sub-Title": [
       "mlm prosa"
     ],
-    "formatted": "iniciar certificaciones flujo de cbk y automatización de recepción de files de fees transaccionales",
+    "formatted": [
+      "iniciar certificaciones flujo de cbk y automatizacion de recepcion de files de fees transaccionales"
+    ],
     "country": [
-      "mlm"
+      "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -54,12 +58,14 @@
     "Sub-Sub-Title": [
       "amex"
     ],
-    "formatted": "finalizar la certificación en el día de hoy 0503",
+    "formatted": [
+      "finalizar la certificacion en el dia de hoy 0503"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      "american express"
+      "American Express"
     ]
   },
   {
@@ -75,12 +81,14 @@
     "Sub-Sub-Title": [
       "amex"
     ],
-    "formatted": "realizar pruebas e2e en ambiente test con payment génova hasta 1303",
+    "formatted": [
+      "realizar pruebas e2e en ambiente test con payment genova hasta 1303"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      "american express"
+      "American Express"
     ]
   },
   {
@@ -96,12 +104,14 @@
     "Sub-Sub-Title": [
       "amex"
     ],
-    "formatted": "fu con cp mla sobre firma de contratos para no bloquear el go live el 1703",
+    "formatted": [
+      "fu con cp mla sobre firma de contratos para no bloquear el go live el 1703"
+    ],
     "country": [
-      "mla"
+      "MLA"
     ],
     "bandera": [
-      "american express"
+      "American Express"
     ]
   },
   {
@@ -117,12 +127,14 @@
     "Sub-Sub-Title": [
       "amex"
     ],
-    "formatted": "fu con op pricing y cp mla para coordinar tareas que nos permitan iniciar roll out",
+    "formatted": [
+      "fu con op pricing y cp mla para coordinar tareas que nos permitan iniciar roll out"
+    ],
     "country": [
-      "mla"
+      "MLA"
     ],
     "bandera": [
-      "american express"
+      "American Express"
     ]
   },
   {
@@ -138,12 +150,14 @@
     "Sub-Sub-Title": [
       "porotaje"
     ],
-    "formatted": "comenzaremos reuniones de planificación con génova it",
+    "formatted": [
+      "comenzaremos reuniones de planificacion con genova it"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -159,12 +173,14 @@
     "Sub-Sub-Title": [
       "porotaje"
     ],
-    "formatted": "desarrollo de automatización de proceso porotaje carga masiva smpr resp que euge g",
+    "formatted": [
+      "desarrollo de automatizacion de proceso porotaje carga masiva smpr resp que euge g"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -180,12 +196,14 @@
     "Sub-Sub-Title": [
       "capabilities cross"
     ],
-    "formatted": "controles validación del modelo de datos de kpis de liquidación",
+    "formatted": [
+      "controles validacion del modelo de datos de kpis de liquidacion"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -201,12 +219,14 @@
     "Sub-Sub-Title": [
       "capabilities cross"
     ],
-    "formatted": "seguimiento tasas naturales validación de orígenes de datos del admin para el seguimiento",
+    "formatted": [
+      "seguimiento tasas naturales validacion de origenes de datos del admin para el seguimiento"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -222,18 +242,20 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "programa micromerchant análisis junto a genova it para adherirse al programa",
+    "formatted": [
+      "programa micromerchant analisis junto a genova it para adherirse al programa"
+    ],
     "country": [
-      "mlb"
+      "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
     "bullet_id": "67c84d6e7663bec81a45e701_12",
     "commentId": "67c84d6e7663bec81a45e701",
-    "fecha": "2025-Q2",
+    "fecha": "2025-Q1",
     "Team": [
       "genova"
     ],
@@ -243,18 +265,20 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "porotagem para q225 presentación de las iniciativas junto a genova it",
+    "formatted": [
+      "porotagem para q225 presentacion de las iniciativas junto a genova it"
+    ],
     "country": [
-      "mlb"
+      "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
     "bullet_id": "67c84d6e7663bec81a45e701_13",
     "commentId": "67c84d6e7663bec81a45e701",
-    "fecha": "2025-Q2",
+    "fecha": "2025-Q1",
     "Team": [
       "genova"
     ],
@@ -264,12 +288,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "revisión de mandates análisis de mandates con impacto para la release de abril 25",
+    "formatted": [
+      "revision de mandates analisis de mandates con impacto para la release de abril 25"
+    ],
     "country": [
-      "mlb"
+      "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -285,12 +311,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "bimonetarismo seguimiento de apertura de cuentas de garantía citi en coelsa",
+    "formatted": [
+      "bimonetarismo seguimiento de apertura de cuentas de garantia citi en coelsa"
+    ],
     "country": [
-      "mla"
+      "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -306,12 +334,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "transporte alineación de respuestas hacia visa por consultas sobre proyecto subtes",
+    "formatted": [
+      "transporte alineacion de respuestas hacia visa por consultas sobre proyecto subtes"
+    ],
     "country": [
-      "mla"
+      "MLA"
     ],
     "bandera": [
-      "visa"
+      "Visa"
     ]
   },
   {
@@ -327,12 +357,14 @@
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "promociones deck sobre tipo de promociones status y plan anual",
+    "formatted": [
+      "promociones deck sobre tipo de promociones status y plan anual"
+    ],
     "country": [
-      "mla"
+      "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -348,12 +380,14 @@
     "Sub-Sub-Title": [
       "mlm prosa tasas naturales"
     ],
-    "formatted": "actualizar deck de tn revisar con el equipo comercial la estrategia de pedidos de altas de afiliaciones nuevas pruebas en act tras el fix del 262",
+    "formatted": [
+      "actualizar deck de tn revisar con el equipo comercial la estrategia de pedidos de altas de afiliaciones nuevas pruebas en act tras el fix del 262"
+    ],
     "country": [
-      "mlm"
+      "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -369,12 +403,14 @@
     "Sub-Sub-Title": [
       "mlm master msi"
     ],
-    "formatted": "envío de ts a master revisión de ef on going eta propuesta 153 fb del modelo contable para cierre de ad",
+    "formatted": [
+      "envio de ts a master revision de ef on going eta propuesta 153 fb del modelo contable para cierre de ad"
+    ],
     "country": [
-      "mlm"
+      "MLM"
     ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -390,12 +426,14 @@
     "Sub-Sub-Title": [
       "devoluciones parciales mf"
     ],
-    "formatted": "estimación del esfuerzo técnico para continuar con ad",
+    "formatted": [
+      "estimacion del esfuerzo tecnico para continuar con ad"
+    ],
     "country": [
-      "mlc"
+      "MLC"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -409,14 +447,16 @@
       "mlc euge"
     ],
     "Sub-Sub-Title": [
-      "certificación a910"
+      "certificacion a910"
     ],
-    "formatted": "inicio de certificación con fime para rdc pedido de cotización done armado de oc done",
+    "formatted": [
+      "inicio de certificacion con fime para rdc pedido de cotizacion done armado de oc done"
+    ],
     "country": [
-      "mlc"
+      "MLC"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -430,14 +470,16 @@
       "mlc euge"
     ],
     "Sub-Sub-Title": [
-      "aceleración de cupones"
+      "aceleracion de cupones"
     ],
-    "formatted": "sync con treasury it y genova para revisar etas para desbloquear pruebas de génova",
+    "formatted": [
+      "sync con treasury it y genova para revisar etas para desbloquear pruebas de genova"
+    ],
     "country": [
-      "mlc"
+      "MLC"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -445,20 +487,22 @@
     "commentId": "67c84d6e7663bec81a45e701",
     "fecha": "2025-Q1",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
-      "ferodri"
+      ""
     ],
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "workshop visa 19 y 20 de marzo armar deck",
+    "formatted": [
+      "workshop visa 19 y 20 de marzo armar deck"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      "visa"
+      "Visa"
     ]
   },
   {
@@ -466,20 +510,22 @@
     "commentId": "67c84d6e7663bec81a45e701",
     "fecha": "2025-Q1",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
-      "ferodri"
+      ""
     ],
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "workshop advisors mastercard priorización del budget",
+    "formatted": [
+      "workshop advisors mastercard priorizacion del budget"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -487,20 +533,22 @@
     "commentId": "67c84d6e7663bec81a45e701",
     "fecha": "2025-Q1",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
-      "ferodri"
+      ""
     ],
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "nfc interoperable investigación de comportamiento qr y nfc en mp deck",
+    "formatted": [
+      "nfc interoperable investigacion de comportamiento qr y nfc en mp deck"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -508,20 +556,22 @@
     "commentId": "67c84d6e7663bec81a45e701",
     "fecha": "2025-Q1",
     "Team": [
-      "relacionamiento con banderas"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [
-      "ferodri"
+      ""
     ],
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "3ds server business case de internalizacion y proyecto de card art",
+    "formatted": [
+      "3ds server business case de internalizacion y proyecto de card art"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -532,17 +582,19 @@
       "negocio cross"
     ],
     "Sub-Title": [
-      "marce"
+      ""
     ],
     "Sub-Sub-Title": [
       "win"
     ],
-    "formatted": "hicimos 1er workshop con team advisors regional y tenemos 10 propuestas presentados por un valor de usd 3mm",
+    "formatted": [
+      "hicimos 1er workshop con team advisors regional y tenemos 10 propuestas presentados por un valor de usd 3mm"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -553,17 +605,19 @@
       "negocio cross"
     ],
     "Sub-Title": [
-      "marce"
+      ""
     ],
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "genova envio monthly",
+    "formatted": [
+      "genova envio monthly"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -574,17 +628,19 @@
       "negocio cross"
     ],
     "Sub-Title": [
-      "marce"
+      ""
     ],
     "Sub-Sub-Title": [
       ""
     ],
-    "formatted": "bari handover general handover track card arts a team relacionamiento banderas",
+    "formatted": [
+      "bari handover general handover track card arts a team relacionamiento banderas"
+    ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -595,17 +651,19 @@
       "negocio cross"
     ],
     "Sub-Title": [
-      "marce"
-    ],
-    "Sub-Sub-Title": [
-      "banderas"
-    ],
-    "formatted": "planning workshops visa semana 17marzo enviar mail a edsor ortega x reclamos virp",
-    "country": [
       ""
     ],
+    "Sub-Sub-Title": [
+      ""
+    ],
+    "formatted": [
+      "banderas planning workshops visa semana 17marzo enviar mail a edsor ortega x reclamos virp"
+    ],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "visa"
+      "Visa"
     ]
   }
 ]

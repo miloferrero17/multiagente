@@ -4,18 +4,18 @@
     "commentId": "68a2fcdc5871a94739fa119a",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "frente pmo"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "frente pmo: definir reglas de juego para dadores/receptores y avanzar tratamiento de opex"
-    ],
+    "formatted": "definir reglas de juego para dadores/receptores y avanzar tratamiento de opex",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -23,18 +23,18 @@
     "commentId": "68a2fcdc5871a94739fa119a",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "frente gestion del cambio"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "frente gestión del cambio: seguimiento programa de competencia/coaches en mlb y avanzar con hispanos y fintech services"
-    ],
+    "formatted": "seguimiento programa de competencia/coaches en mlb y avanzar con hispanos y fintech services",
     "country": [
-      "Brasil"
+      "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -42,18 +42,18 @@
     "commentId": "68a2fcdc5871a94739fa119a",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
-    "Sub-Title": [],
+    "Sub-Title": [
+      "frente grandes iniciativas"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": [
-      "frente grandes iniciativas: reu avance mesa ai recovery y lanzar mesa ai ops"
-    ],
+    "formatted": "reu avance mesa ai recovery y lanzar mesa ai ops",
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

@@ -7,18 +7,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "proyectos"
+      "prosa"
     ],
     "Sub-Sub-Title": [
-      "prosa"
+      ""
     ],
     "formatted": [
       "iniciar pruebas f&f bin visa & ica mastercard - pendiente de la semana pasada"
     ],
-    "country": "",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "visa",
-      "mastercard"
+      "Visa"
     ]
   },
   {
@@ -29,18 +30,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "proyectos"
+      "mco visa & mc"
     ],
     "Sub-Sub-Title": [
-      "mco visa & mc"
+      ""
     ],
     "formatted": [
       "armado de presentación para el workshop"
     ],
-    "country": "",
+    "country": [
+      "MCO"
+    ],
     "bandera": [
-      "visa",
-      "mastercard"
+      "Visa"
     ]
   },
   {
@@ -51,18 +53,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "proyectos"
+      "mco visa & mc"
     ],
     "Sub-Sub-Title": [
-      "mco visa & mc"
+      ""
     ],
     "formatted": [
       "revisión de la parte impositiva del flujo de liquidación"
     ],
-    "country": "",
+    "country": [
+      "MCO"
+    ],
     "bandera": [
-      "visa",
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -73,17 +76,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "proyectos"
+      "elo"
     ],
     "Sub-Sub-Title": [
-      "elo"
+      ""
     ],
     "formatted": [
       "iniciamos la certificación integrada con elo y nuclea"
     ],
-    "country": "",
+    "country": [
+      "MLB"
+    ],
     "bandera": [
-      "elo"
+      "Elo"
     ]
   },
   {
@@ -94,17 +99,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "proyectos"
+      "mla amex"
     ],
     "Sub-Sub-Title": [
-      "mla amex"
+      ""
     ],
     "formatted": [
       "confirmar con amex eta de configuraciones para recibir el file que nos permitirá conciliar"
     ],
-    "country": "MLA",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
-      "american express"
+      "American Express"
     ]
   },
   {
@@ -115,17 +122,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "proyectos"
+      "mla amex"
     ],
     "Sub-Sub-Title": [
-      "mla amex"
+      ""
     ],
     "formatted": [
       "a la espera del contrato firmado por prosegur para avanzar"
     ],
-    "country": "MLA",
+    "country": [
+      "MLA"
+    ],
     "bandera": [
-      "american express"
+      "American Express"
     ]
   },
   {
@@ -138,12 +147,18 @@
     "Sub-Title": [
       "porotaje"
     ],
-    "Sub-Sub-Title": [],
+    "Sub-Sub-Title": [
+      ""
+    ],
     "formatted": [
       "sesiones de alineación de porotos internas y con it"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_8",
@@ -161,8 +176,12 @@
     "formatted": [
       "continuar con anto con el cálculo contribución prosa"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_9",
@@ -180,8 +199,12 @@
     "formatted": [
       "incorporar definición de métricas y testeos"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_10",
@@ -199,8 +222,12 @@
     "formatted": [
       "incorporar métricas y dimensiones y documentación"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_11",
@@ -210,16 +237,20 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlm pilieuge"
+      "mlm"
     ],
     "Sub-Sub-Title": [
       "sync"
     ],
     "formatted": [
-      "sync con euge b por mis vacaciones 1908 a 0509"
+      "sync con euge b por mis vacaciones 19/08 a 05/09"
     ],
-    "country": "MLM",
-    "bandera": []
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_12",
@@ -229,7 +260,7 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlm pilieuge"
+      "mlm"
     ],
     "Sub-Sub-Title": [
       "tasas naturales"
@@ -237,8 +268,12 @@
     "formatted": [
       "solicitud de nuevas tns tras recuperación de data para algunos sellers check rollout tns"
     ],
-    "country": "MLM",
-    "bandera": []
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_13",
@@ -248,7 +283,7 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlm pilieuge"
+      "mlm"
     ],
     "Sub-Sub-Title": [
       "msi master"
@@ -256,9 +291,11 @@
     "formatted": [
       "pruebas exitosas con didi chech con ecoconci revisión business case para stori y didi"
     ],
-    "country": "MLM",
+    "country": [
+      "MLM"
+    ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -269,17 +306,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlm pilieuge"
+      "mlm"
     ],
     "Sub-Sub-Title": [
       "ttp ios"
     ],
     "formatted": [
-      "fecha f&f 258 dependencia con rollout de internacional master"
+      "fecha f&f 25/8 dependencia con rollout de internacional master"
     ],
-    "country": "MLM",
+    "country": [
+      "MLM"
+    ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -290,7 +329,7 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlc euge"
+      "mlc"
     ],
     "Sub-Sub-Title": [
       "refunds parciales"
@@ -298,8 +337,12 @@
     "formatted": [
       "pruebas para tap  exitosas sync con conci para encender eom"
     ],
-    "country": "MLC",
-    "bandera": []
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_16",
@@ -309,7 +352,7 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlc euge"
+      "mlc"
     ],
     "Sub-Sub-Title": [
       "dcc"
@@ -317,8 +360,12 @@
     "formatted": [
       "revisión business case con planning y discovery con genova it respuesta banderas"
     ],
-    "country": "MLC",
-    "bandera": []
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_17",
@@ -328,16 +375,20 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlb lucas"
+      "mlb"
     ],
     "Sub-Sub-Title": [
       "porotagem"
     ],
     "formatted": [
-      "semana de alineación de las iniciativas para q425 interno + it génova"
+      "semana de alineación de las iniciativas para q4.25 interno + it génova"
     ],
-    "country": "MLB",
-    "bandera": []
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_18",
@@ -347,17 +398,19 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlb lucas"
+      "mlb"
     ],
     "Sub-Sub-Title": [
-      "onus"
+      "on-us"
     ],
     "formatted": [
-      "actualizaciones y base de documentos sobre onus en las regulaciones de visa"
+      "actualizaciones y base de documentos sobre on-us en las regulaciones de visa"
     ],
-    "country": "MLB",
+    "country": [
+      "MLB"
+    ],
     "bandera": [
-      "visa"
+      "Visa"
     ]
   },
   {
@@ -368,7 +421,7 @@
       "genova"
     ],
     "Sub-Title": [
-      "mlb lucas"
+      "mlb"
     ],
     "Sub-Sub-Title": [
       "clara & rpa"
@@ -376,8 +429,12 @@
     "formatted": [
       "avances en la comprensión de la herramienta verdi flows e integración con la rpa para la base de datos"
     ],
-    "country": "MLB",
-    "bandera": []
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_20",
@@ -387,7 +444,7 @@
       "genova"
     ],
     "Sub-Title": [
-      "mla santi"
+      "mla"
     ],
     "Sub-Sub-Title": [
       "adquirencia directa"
@@ -395,8 +452,12 @@
     "formatted": [
       "actualización de business case y presentación"
     ],
-    "country": "MLA",
-    "bandera": []
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_21",
@@ -406,7 +467,7 @@
       "genova"
     ],
     "Sub-Title": [
-      "mla santi"
+      "mla"
     ],
     "Sub-Sub-Title": [
       "pruebas bimo"
@@ -414,8 +475,12 @@
     "formatted": [
       "alineación de pruebas en producción con equipo mp y citi"
     ],
-    "country": "MLA",
-    "bandera": []
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_22",
@@ -425,7 +490,7 @@
       "genova"
     ],
     "Sub-Title": [
-      "mla santi"
+      "mla"
     ],
     "Sub-Sub-Title": [
       "propinas"
@@ -433,89 +498,111 @@
     "formatted": [
       "pruebas en stg de génova y alineación pruebas con equipo mp"
     ],
-    "country": "MLA",
-    "bandera": []
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_23",
     "commentId": "68a329cacc933d0836257057",
     "fecha": "2025-Q3",
     "Team": [
-      "negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [
       "genova"
     ],
     "Sub-Sub-Title": [
-      "mla"
+      ""
     ],
     "formatted": [
-      "adquirencia directa seguir con el deck"
+      "mla adquirencia directa seguir con el deck"
     ],
-    "country": "MLA",
-    "bandera": []
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_24",
     "commentId": "68a329cacc933d0836257057",
     "fecha": "2025-Q3",
     "Team": [
-      "negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [
       "genova"
     ],
     "Sub-Sub-Title": [
-      "plan 2026"
+      ""
     ],
     "formatted": [
-      "alinar scope de proyectos con marian para que estime esfuerzo"
+      "plan 2026 alinar scope de proyectos con marian para que estime esfuerzo"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_25",
     "commentId": "68a329cacc933d0836257057",
     "fecha": "2025-Q3",
     "Team": [
-      "negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [
       "banderas"
     ],
-    "Sub-Sub-Title": [],
+    "Sub-Sub-Title": [
+      ""
+    ],
     "formatted": [
       "entrevistas equipo fer definir candidato"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_26",
     "commentId": "68a329cacc933d0836257057",
     "fecha": "2025-Q3",
     "Team": [
-      "negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [
       "banderas"
     ],
     "Sub-Sub-Title": [
-      "onus"
+      "on-us"
     ],
     "formatted": [
-      "reu hoy 18ago con team involucrado para alinear next steps"
+      "reu hoy 18/ago con team involucrado para alinear next steps"
     ],
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68a329cacc933d0836257057_27",
     "commentId": "68a329cacc933d0836257057",
     "fecha": "2025-Q3",
     "Team": [
-      "negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [
       "banderas"
@@ -524,9 +611,13 @@
       "wallet nfc mla con tarjetas de 3ros"
     ],
     "formatted": [
-      "decidimos avanzar reu 22ago para hacer acuerdos operativos"
+      "decidimos avanzar reu 22/ago para hacer acuerdos operativos"
     ],
-    "country": "MLA",
-    "bandera": []
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   }
 ]

@@ -8,10 +8,14 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "porotaje: mapear y cargar todas los porotos con dependencias externas + monitorear todos los porotos con dependencias a bari estén correctamente cargados @francogariffo1",
-    "country": "",
+    "formatted": [
+      "porotaje mapear y cargar todas los porotos con dependencias externas + monitorear todos los porotos con dependencias a bari esten correctamente cargados"
+    ],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -23,10 +27,14 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "seguimiento de los proyectos de certificación de mlc y de obtener ica/bin de mlu @francogariffo1 y @mariaemiliamartino",
-    "country": "",
+    "formatted": [
+      "seguimiento de los proyectos de certificacion de mlc y de obtener ica bin de mlu"
+    ],
+    "country": [
+      "MLC"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -38,10 +46,14 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "on us y one credential @mariaemiliamartino",
-    "country": "",
+    "formatted": [
+      "on us y one credential"
+    ],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

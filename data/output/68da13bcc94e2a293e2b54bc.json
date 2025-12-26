@@ -4,64 +4,84 @@
     "commentId": "68da13bcc94e2a293e2b54bc",
     "fecha": "2025-Q3",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "track multas regionales + integración facturas de banderas a looker",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68da13bcc94e2a293e2b54bc_2",
     "commentId": "68da13bcc94e2a293e2b54bc",
     "fecha": "2025-Q3",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "cierre genova sept 2025 (qbr) + reportes scheme enablers + competitivdad mlb",
-    "country": "Brasil",
-    "bandera": ""
+    "formatted": "cierre genova sept 2025 qbr + reportes scheme enablers + competitivdad mlb",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68da13bcc94e2a293e2b54bc_3",
     "commentId": "68da13bcc94e2a293e2b54bc",
     "fecha": "2025-Q3",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "alinear salida a prod. cubo + sync mlb + fees colombia",
-    "country": "Colombia",
-    "bandera": ""
+    "formatted": "alinear salida a prod cubo + sync mlb + fees colombia",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68da13bcc94e2a293e2b54bc_4",
     "commentId": "68da13bcc94e2a293e2b54bc",
     "fecha": "2025-Q3",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
     "formatted": "novedades de bandera agosto+ reporting q3: finalizar la automatización de reportes junto con anto",
-    "country": "",
-    "bandera": ""
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "68da13bcc94e2a293e2b54bc_5",
     "commentId": "68da13bcc94e2a293e2b54bc",
     "fecha": "2025-Q3",
     "Team": [
-      "mejora planning scheme enablers"
+      "mejora continua y scheme enablers"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "acompañar a santi en track de estimación de - on-us coelsa mla -  y definir controles faltantes cards",
-    "country": "Argentina",
-    "bandera": ""
+    "formatted": "acompañar a santi en track de estimación de on-us coelsa mla y definir controles faltantes cards",
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   }
 ]

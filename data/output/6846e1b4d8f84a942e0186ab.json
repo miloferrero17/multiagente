@@ -4,15 +4,16 @@
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "a relacionamiento con banderas rodri fe"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "workshop mastercard visa payment optimization mexico xb remittances operaciones fup 3ds data only partial authorization",
-    "country": "MLM",
+    "formatted": "workshop mastercard/visa - payment optimization // mexico xb remittances // operaciones fup // 3ds data only // partial authorization",
+    "country": [
+      "MLM"
+    ],
     "bandera": [
-      "Visa",
-      "Mastercard"
+      "Visa"
     ]
   },
   {
@@ -20,12 +21,14 @@
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "a relacionamiento con banderas rodri fe"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "super token con master empezar a alear el piloto de passkey",
-    "country": "",
+    "formatted": "super token - con master (empezar a alear el piloto de passkey)",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Mastercard"
     ]
@@ -35,25 +38,31 @@
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "a relacionamiento con banderas rodri fe"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "fup de proyectos nfc azzali y abate ayuda con apresentacion para ozzi pau",
-    "country": "",
-    "bandera": []
+    "formatted": "fup de proyectos: nfc (azzali y abate) ayuda con apresentacion para ozzi/pau",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_4",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "a relacionamiento con banderas rodri fe"
+      "relacionamiento con las banderas"
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "cards arts reu con visa y mp problemas plan de acción para proyecto",
-    "country": "",
+    "formatted": "cards arts - reu con visa y mp (problemas) // plan de acción para proyecto",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Visa"
     ]
@@ -63,44 +72,54 @@
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlm prosa"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "solución agre dms revisar con prosa la conclusión de pruebas productivas e iniciar el roll out",
-    "country": "MLM",
-    "bandera": []
+    "formatted": "solución agre dms: revisar con prosa la conclusión de pruebas productivas e iniciar el roll out.",
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_6",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlm prosa"
     ],
     "Sub-Sub-Title": [],
     "formatted": "reunión con compliance para compartir updates del plan de mitigación respecto al riesgo identificado de manipulación de data sensible",
-    "country": "",
-    "bandera": []
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_7",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "elo"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "fee bandera seguimiento para revisar el costo del archivo transaccional diaria con elo",
-    "country": "",
+    "formatted": "fee bandera: seguimiento para revisar el costo del archivo transaccional diaria con elo.",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Elo"
     ]
@@ -110,104 +129,130 @@
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "elo"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "accounting corp realizará entrega del modelo contable hasta 16 06",
-    "country": "",
-    "bandera": []
+    "formatted": "accounting corp realizará entrega del modelo contable hasta 16/06.",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_9",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "capabilities cross"
     ],
     "Sub-Sub-Title": [],
     "formatted": "terminar ajustes en gdoc seguimiento tasas naturales",
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_10",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "capabilities cross"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "agregar columnas de interchange y tablas de facturas al modelo de eco fin",
-    "country": "",
-    "bandera": []
+    "formatted": "agregar columnas de interchange y tablas de facturas al modelo de eco&fin",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_11",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "capabilities cross"
     ],
     "Sub-Sub-Title": [],
     "formatted": "vacacionesssssss",
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_12",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "onboarding juli"
     ],
     "Sub-Sub-Title": [],
     "formatted": "refinamiento dod payac",
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_13",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "onboarding juli"
     ],
     "Sub-Sub-Title": [],
     "formatted": "sync con pili por tasas naturales",
-    "country": "",
-    "bandera": []
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_14",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlb lucas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "liquidación centralizada esta semana comenzamos el rollout de liquidación centralizada con el objetivo de alcanzar el 90 para el jueves recolectando las evidencias necesarias para el envío a visa",
-    "country": "MLB",
+    "formatted": "liquidación centralizada: esta semana comenzamos el rollout de liquidación centralizada, con el objetivo de alcanzar el 90% para el jueves, recolectando las evidencias necesarias para el envío a visa.",
+    "country": [
+      "MLB"
+    ],
     "bandera": [
       "Visa"
     ]
@@ -217,17 +262,18 @@
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlb lucas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "track gpt y notebookllm finalizar el mapeo del sitio de visa y el drive organizado con la base general de publicaciones e iniciar el rpa para el sitio de mastercard",
-    "country": "MLB",
+    "formatted": "track gpt y notebookllm: finalizar el mapeo del sitio de visa y el drive organizado con la base general de publicaciones, e iniciar el rpa para el sitio de mastercard.",
+    "country": [
+      "MLB"
+    ],
     "bandera": [
-      "Visa",
-      "Mastercard"
+      "Visa"
     ]
   },
   {
@@ -235,110 +281,130 @@
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlb lucas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "info de payfac id proveniente de agreements pruebas e2e para que genova consuma la información de payfac id registrada en agreements y deje de hacerlo vía mid evitando marcas incorrectas o duplicadas",
-    "country": "",
-    "bandera": []
+    "formatted": "info de payfac_id proveniente de agreements: pruebas e2e para que genova consuma la información de payfac_id registrada en agreements y deje de hacerlo vía mid, evitando marcas incorrectas o duplicadas.",
+    "country": [
+      "MLB"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_17",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla santi"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "adelanto de cupones desde mpsp a mp revisión flujo tecnico citi",
-    "country": "MLA",
-    "bandera": []
+    "formatted": "adelanto de cupones desde mpsp a mp: revisión flujo tecnico citi",
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_18",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla santi"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "fee de riesgo trade off controles",
-    "country": "",
-    "bandera": []
+    "formatted": "fee de riesgo: trade off controles",
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_19",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mla santi"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "adquirencia directa presentación propuesta análisis q2",
-    "country": "",
-    "bandera": []
+    "formatted": "adquirencia directa: presentación propuesta análisis q2",
+    "country": [
+      "MLA"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_20",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlm pili euge"
+      "mlm pili/euge"
     ],
-    "Sub-Sub-Title": [
-      "tasas naturales"
+    "Sub-Sub-Title": [],
+    "formatted": "tasas naturales: continuamos con el plan de altas de junio para cumplir con el objetivo interno de 10k altas",
+    "country": [
+      "MLM"
     ],
-    "formatted": "continuamos con el plan de altas de junio para cumplir con el objetivo interno de 10k altas",
-    "country": "MLM",
-    "bandera": []
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_21",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlm pili euge"
+      "mlm pili/euge"
     ],
-    "Sub-Sub-Title": [
-      "tasas naturales"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": "implementación de ajuste en el nombre comercial que incrementará la tasa de aprobación",
-    "country": "",
-    "bandera": []
+    "country": [
+      "MLM"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_22",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
-      "mlm pili euge"
+      "mlm pili/euge"
     ],
-    "Sub-Sub-Title": [
-      "msi master"
+    "Sub-Sub-Title": [],
+    "formatted": "msi master: continuar con las pruebas en staging (auth ok, clearing wip). follow up con master para confirmar fecha de prueba productiva",
+    "country": [
+      "MLM"
     ],
-    "formatted": "continuar con las pruebas en staging auth ok clearing wip follow up con master para confirmar fecha de prueba productiva",
-    "country": "",
     "bandera": [
       "Mastercard"
     ]
@@ -348,17 +414,18 @@
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "b genova"
+      "genova"
     ],
     "Sub-Title": [
       "mlc euge"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "refunds parciales esta semana iniciaremos pruebas en staging para visa y master",
-    "country": "MLC",
+    "formatted": "refunds parciales: esta semana iniciaremos pruebas en staging para visa y master",
+    "country": [
+      "MLC"
+    ],
     "bandera": [
-      "Visa",
-      "Mastercard"
+      "Visa"
     ]
   },
   {
@@ -366,48 +433,52 @@
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "c negocio cross marce"
-    ],
-    "Sub-Title": [
       "genova"
     ],
+    "Sub-Title": [
+      "mlc euge"
+    ],
     "Sub-Sub-Title": [],
-    "formatted": "porotaje q3 seguir alineando prioridades y scopes con team it",
-    "country": "",
-    "bandera": []
+    "formatted": "refunds parciales: esta semana iniciaremos pruebas en staging para visa y master",
+    "country": [
+      "MLC"
+    ],
+    "bandera": [
+      "Mastercard"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_25",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
-      "genova"
-    ],
+    "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "mex update plan contribución méxico de ccff y tasas naturales",
-    "country": "MLM",
-    "bandera": []
+    "formatted": "porotaje q3. seguir alineando prioridades y scopes con team it.",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_26",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
-    "Sub-Title": [
-      "banderas"
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
+    "formatted": "mex. update plan contribución méxico de ccff y tasas naturales.",
+    "country": [
+      "MLM"
     ],
-    "Sub-Sub-Title": [
-      "win"
-    ],
-    "formatted": "virp visa logramos que visa flexibilice el programa y nos de un pre aviso ante reclamos de titulares de marca",
-    "country": "",
     "bandera": [
-      "Visa"
+      "Otra"
     ]
   },
   {
@@ -415,14 +486,16 @@
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [
       "banderas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "super token visa presentó 1ra versión de framework para mejorar las tasas de aprobación basado en un nuevo token requestor",
-    "country": "",
+    "formatted": "win: virp (visa). logramos que visa flexibilice el programa y nos de un pre-aviso ante reclamos de titulares de marca.",
+    "country": [
+      "CORP"
+    ],
     "bandera": [
       "Visa"
     ]
@@ -432,29 +505,56 @@
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
     ],
     "Sub-Title": [
       "banderas"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "nfc hay reunión para toma de decisión si avanzamos o no con nfc con tarjetas de terceros",
-    "country": "",
-    "bandera": []
+    "formatted": "super token: visa presentó 1ra versión de framework para mejorar las tasas de aprobación basado en un nuevo token requestor.",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Visa"
+    ]
   },
   {
     "bullet_id": "6846e1b4d8f84a942e0186ab_29",
     "commentId": "6846e1b4d8f84a942e0186ab",
     "fecha": "2025-Q2",
     "Team": [
-      "c negocio cross marce"
+      "negocio cross"
+    ],
+    "Sub-Title": [
+      "banderas"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": "nfc: hay reunión para toma de decisión si avanzamos o no con nfc con tarjetas de terceros.",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "6846e1b4d8f84a942e0186ab_30",
+    "commentId": "6846e1b4d8f84a942e0186ab",
+    "fecha": "2025-Q2",
+    "Team": [
+      "negocio cross"
     ],
     "Sub-Title": [
       "otros side proyects"
     ],
     "Sub-Sub-Title": [],
-    "formatted": "lanzamos prueba piloto de meliruns con 63 personas participando",
-    "country": "",
-    "bandera": []
+    "formatted": "lanzamos prueba piloto de meliruns con 63 personas participando.",
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
   }
 ]

@@ -4,20 +4,20 @@
     "commentId": "68c805f6b0e41d0e39dd964c",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
     "Sub-Title": [
       "frente pmo"
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "presentación optimus en mesa ozzie / cerrar mapeo y plan de sillas / avanzar proceso control opex"
+      "presentación optimus en mesa ozzie"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -25,20 +25,20 @@
     "commentId": "68c805f6b0e41d0e39dd964c",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
     ],
     "Sub-Title": [
-      "frente gestión del cambio"
+      "frente pmo"
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "cierre de competencia ai sellers. definir contratación consultora para worshop palancas. avanzar contenido de palancas. tener ai lider identificados por vertical"
+      "cerrar mapeo y plan de sillas"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -46,20 +46,146 @@
     "commentId": "68c805f6b0e41d0e39dd964c",
     "fecha": "2025-Q3",
     "Team": [
-      "optimus fintech"
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente pmo"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "avanzar proceso control opex"
+    ],
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68c805f6b0e41d0e39dd964c_4",
+    "commentId": "68c805f6b0e41d0e39dd964c",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente gestión del cambio"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "cierre de competencia ai sellers"
+    ],
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68c805f6b0e41d0e39dd964c_5",
+    "commentId": "68c805f6b0e41d0e39dd964c",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente gestión del cambio"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "definir contratación consultora para worshop palancas"
+    ],
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68c805f6b0e41d0e39dd964c_6",
+    "commentId": "68c805f6b0e41d0e39dd964c",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente gestión del cambio"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "avanzar contenido de palancas"
+    ],
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68c805f6b0e41d0e39dd964c_7",
+    "commentId": "68c805f6b0e41d0e39dd964c",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente gestión del cambio"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "tener ai lider identificados por vertical"
+    ],
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68c805f6b0e41d0e39dd964c_8",
+    "commentId": "68c805f6b0e41d0e39dd964c",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
     ],
     "Sub-Title": [
       "frente iniciativas"
     ],
     "Sub-Sub-Title": [],
     "formatted": [
-      "terminar de relevar iniciativas en curso fdv / one pager voice agents"
+      "terminar de relevar iniciativas en curso fdv"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
+    ]
+  },
+  {
+    "bullet_id": "68c805f6b0e41d0e39dd964c_9",
+    "commentId": "68c805f6b0e41d0e39dd964c",
+    "fecha": "2025-Q3",
+    "Team": [
+      "optimus"
+    ],
+    "Sub-Title": [
+      "frente iniciativas"
+    ],
+    "Sub-Sub-Title": [],
+    "formatted": [
+      "one pager voice agents"
+    ],
+    "country": [
+      "CORP"
+    ],
+    "bandera": [
+      "Otra"
     ]
   }
 ]

@@ -8,10 +8,14 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "banco mlm y primeros acercamientos de mla",
-    "country": "",
+    "formatted": [
+      "banco MLM y primeros acercamientos de MLA"
+    ],
+    "country": [
+      "MLM"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -23,10 +27,14 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "mesa de alm con master",
-    "country": "",
+    "formatted": [
+      "mesa de ALM con Master"
+    ],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      "mastercard"
+      "Mastercard"
     ]
   },
   {
@@ -38,10 +46,14 @@
     ],
     "Sub-Title": [],
     "Sub-Sub-Title": [],
-    "formatted": "cierre porotaje",
-    "country": "",
+    "formatted": [
+      "cierre porotaje"
+    ],
+    "country": [
+      "CORP"
+    ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]

@@ -36,13 +36,13 @@
       "mlm prosa"
     ],
     "formatted": [
-      "pruebas f&f tokenización tras dejar de procesar vía banorte"
+      "pruebas f&f tokenizacion tras dejar de procesar via banorte"
     ],
     "country": [
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -62,7 +62,7 @@
       "armado del deck para el workshop / cerrar definiciones para ecosistema conci"
     ],
     "country": [
-      ""
+      "MCO"
     ],
     "bandera": [
       "Visa"
@@ -82,7 +82,7 @@
       "mlb elo"
     ],
     "formatted": [
-      "garantía elo: seguimiento a minutas con bb tesorería y legales"
+      "garantia elo seguimiento a minutas con bb tesoreria y legales"
     ],
     "country": [
       "MLB"
@@ -105,7 +105,7 @@
       "mlb elo"
     ],
     "formatted": [
-      "revisión plan roll out técnico q4: alinear posibles flujos a probar sin impacto getnet"
+      "revision plan roll out tecnico q4 alinear posibles flujos a probar sin impacto getnet"
     ],
     "country": [
       "MLB"
@@ -128,7 +128,7 @@
       "mla amex"
     ],
     "formatted": [
-      "win: logramos salir en producción evitando la recertificación"
+      "win logramos salir en produccion evitando la recertificacion"
     ],
     "country": [
       "MLA"
@@ -151,7 +151,7 @@
       "mla amex"
     ],
     "formatted": [
-      "amex informó 3 semanas para configurar archivo de conciliación pd no fue aclarado en reuniones previas"
+      "amex informo 3 semanas para configurar archivo de conciliacion pd no fue aclarado en reuniones previas"
     ],
     "country": [
       "MLA"
@@ -174,7 +174,7 @@
       "mla amex"
     ],
     "formatted": [
-      "armar el plan de roll out y refinar setups para el capturar tráfico del primer seller"
+      "armar el plan de roll out y refinar setups para el capturar trafico del primer seller"
     ],
     "country": [
       "MLA"
@@ -193,17 +193,15 @@
     "Sub-Title": [
       "gestion de proyectos team mari"
     ],
-    "Sub-Sub-Title": [
-      "porotaje"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "aprobación de payacs y carga masiva o repusheo smpr"
+      "aprobacion de payacs y carga masiva o repusheo smpr"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -216,17 +214,15 @@
     "Sub-Title": [
       "gestion de proyectos team mari"
     ],
-    "Sub-Sub-Title": [
-      "cross capabilities"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "tasas naturales: continuar con anto con el cálculo contribución prosa"
+      "tasas naturales continuar con anto con el calculo contribucion prosa"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -239,17 +235,15 @@
     "Sub-Title": [
       "gestion de proyectos team mari"
     ],
-    "Sub-Sub-Title": [
-      "cross capabilities"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "ia: incorporar definición de métricas y testeos"
+      "ia incorporar definicion de metricas y testeos"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -262,17 +256,15 @@
     "Sub-Title": [
       "gestion de proyectos team mari"
     ],
-    "Sub-Sub-Title": [
-      "cross capabilities"
-    ],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "modelo de datos unificado: incorporar métricas y dimensiones y documentación"
+      "modelo de datos unificado incorporar metricas y dimensiones y documentacion"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -286,16 +278,16 @@
       "gestion de proyectos team mari"
     ],
     "Sub-Sub-Title": [
-      "mlmpili euge"
+      "mlm pili euge"
     ],
     "formatted": [
-      "sync con euge b por mis vacaciones 19/08 a 05/09"
+      "sync con euge b por mis vacaciones 19 08 a 05 09"
     ],
     "country": [
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -309,16 +301,16 @@
       "gestion de proyectos team mari"
     ],
     "Sub-Sub-Title": [
-      "mlmpili euge"
+      "mlm pili euge"
     ],
     "formatted": [
-      "tasas naturales:implementación de tracks de recuperar data pendiente de los sellers con csf y armado del deck de status de tns"
+      "tasas naturales implementacion de tracks de recuperar data pendiente de los sellers con csf y armado del deck de status de tns"
     ],
     "country": [
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -332,16 +324,16 @@
       "gestion de proyectos team mari"
     ],
     "Sub-Sub-Title": [
-      "mlmpili euge"
+      "mlm pili euge"
     ],
     "formatted": [
-      "ttp ios: obtuvimos certificación fime multi site alineación con point para estar listos para el f&f"
+      "ttp ios obtuvimos certificacion fime multi site alineacion con point para estar listos para el f&f"
     ],
     "country": [
       "MLM"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -355,10 +347,10 @@
       "gestion de proyectos team mari"
     ],
     "Sub-Sub-Title": [
-      "mlmpili euge"
+      "mlm pili euge"
     ],
     "formatted": [
-      "msi master: revisión del roadmap con core payments nuevo espacios de pruebas con didi"
+      "msi master revision del roadmap con core payments nuevo espacios de pruebas con didi"
     ],
     "country": [
       "MLM"
@@ -387,7 +379,7 @@
       "MLC"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -404,13 +396,13 @@
       "mlc euge"
     ],
     "formatted": [
-      "refunds parciales: pruebas para tap y experiencia versus transbank"
+      "refunds parciales pruebas para tap y experiencia versus transbank"
     ],
     "country": [
       "MLC"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -427,13 +419,13 @@
       "mlc euge"
     ],
     "formatted": [
-      "dcc: reunión con fexco y it para el fx provider"
+      "dcc reunion con fexco y it para el fx provider"
     ],
     "country": [
       "MLC"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -447,16 +439,16 @@
       "gestion de proyectos team mari"
     ],
     "Sub-Sub-Title": [
-      "mlblucas"
+      "mlb lucas"
     ],
     "formatted": [
-      "reembolso bradesco: fee collection enviado con éxito el 05/08 – total r$ 27040400"
+      "reembolso bradesco fee collection enviado con exito el 05 08 total r 27040400"
     ],
     "country": [
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -470,16 +462,16 @@
       "gestion de proyectos team mari"
     ],
     "Sub-Sub-Title": [
-      "mlblucas"
+      "mlb lucas"
     ],
     "formatted": [
-      "on-us: kick-off con genova-it para aclarar dudas y avanzar con el discovery"
+      "on us kick off con genova it para aclarar dudas y avanzar con el discovery"
     ],
     "country": [
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -493,16 +485,16 @@
       "gestion de proyectos team mari"
     ],
     "Sub-Sub-Title": [
-      "mlblucas"
+      "mlb lucas"
     ],
     "formatted": [
-      "mandates & release: revisión del proceso para reducir los mandates a analizar por genova-it"
+      "mandates & release revision del proceso para reducir los mandates a analizar por genova it"
     ],
     "country": [
       "MLB"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -516,16 +508,16 @@
       "gestion de proyectos team mari"
     ],
     "Sub-Sub-Title": [
-      "mlasanti"
+      "mla santi"
     ],
     "formatted": [
-      "adquirencia directa: actualización de presentación"
+      "adquirencia directa actualizacion de presentacion"
     ],
     "country": [
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -539,16 +531,16 @@
       "gestion de proyectos team mari"
     ],
     "Sub-Sub-Title": [
-      "mlasanti"
+      "mla santi"
     ],
     "formatted": [
-      "pruebas bimo: seguimiento citi para volver a hacer pruebas productivas con liquidación de saldos"
+      "pruebas bimo seguimiento citi para volver a hacer pruebas productivas con liquidacion de saldos"
     ],
     "country": [
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -562,16 +554,16 @@
       "gestion de proyectos team mari"
     ],
     "Sub-Sub-Title": [
-      "mlasanti"
+      "mla santi"
     ],
     "formatted": [
-      "propinas: seguimiento cambios alineados para poder probar en agosto e iniciar f&f en septiembre"
+      "propinas seguimiento cambios alineados para poder probar en agosto e iniciar f&f en septiembre"
     ],
     "country": [
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -579,22 +571,18 @@
     "commentId": "6899edc48dfca8846103ea87",
     "fecha": "2025-Q3",
     "Team": [
-      "genova"
+      "negocio cross"
     ],
-    "Sub-Title": [
-      "negocio cross marce"
-    ],
-    "Sub-Sub-Title": [
-      ""
-    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "win terminé 37km de trail run en la cumbrecita ayer domingo y puedo sonreir"
+      "win termine 37km de trail run en la cumbrecita ayer domingo y puedo sonreir"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -602,22 +590,18 @@
     "commentId": "6899edc48dfca8846103ea87",
     "fecha": "2025-Q3",
     "Team": [
-      "genova"
+      "negocio cross"
     ],
-    "Sub-Title": [
-      "negocio cross marce"
-    ],
-    "Sub-Sub-Title": [
-      ""
-    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "12/ago full day en curso de genai"
+      "12 ago full day en curso de genai"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -627,20 +611,16 @@
     "Team": [
       "genova"
     ],
-    "Sub-Title": [
-      ""
-    ],
-    "Sub-Sub-Title": [
-      ""
-    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "mla: adquirencia directa seguir con definición impacto del proyecto"
+      "mla adquirencia directa seguir con definicion impacto del proyecto"
     ],
     "country": [
       "MLA"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -650,20 +630,16 @@
     "Team": [
       "genova"
     ],
-    "Sub-Title": [
-      ""
-    ],
-    "Sub-Sub-Title": [
-      ""
-    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "plan 2026: colaborar con el deck de grandes historias"
+      "plan 2026 colaborar con el deck de grandes historias"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -671,22 +647,18 @@
     "commentId": "6899edc48dfca8846103ea87",
     "fecha": "2025-Q3",
     "Team": [
-      "genova"
+      "relacionamiento con las banderas"
     ],
-    "Sub-Title": [
-      ""
-    ],
-    "Sub-Sub-Title": [
-      ""
-    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
     "formatted": [
       "entrevistas candidatos para equipo de fer"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   },
   {
@@ -694,22 +666,18 @@
     "commentId": "6899edc48dfca8846103ea87",
     "fecha": "2025-Q3",
     "Team": [
-      "genova"
+      "relacionamiento con las banderas"
     ],
-    "Sub-Title": [
-      ""
-    ],
-    "Sub-Sub-Title": [
-      ""
-    ],
+    "Sub-Title": [],
+    "Sub-Sub-Title": [],
     "formatted": [
-      "on-us: alineamientos varios con mlb y mlm para determinar scope del proyecto"
+      "on us alineamientos varios con mlb y mlm para determinar scope del proyecto"
     ],
     "country": [
-      ""
+      "CORP"
     ],
     "bandera": [
-      ""
+      "Otra"
     ]
   }
 ]
