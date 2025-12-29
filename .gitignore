@@ -1,0 +1,127 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+data/*
+!data/.gitkeep
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+pip-wheel-metadata/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.env.*       # evita cualquier .env.* accidental
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+
+# PyTest
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Coverage and reports
+.coverage
+htmlcov/
+.coverage.*
+coverage.xml
+
+# Logs and runtime files
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# SQLite / DBs
+*.sqlite3
+*.db
+*.db-journal
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon?
+Icon?
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# JetBrains
+.idea/
+*.iml
+*.iws
+out/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Build artifacts
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Python packaging
+pip-wheel-metadata/
+
+# Secrets and credentials (extra safety)
+secrets/
+*.pem
+*.key
+*.crt
+
+# Editor swap / temp files
+*~ 
+*.swp
+*.swo
+
+# Docker
+docker-compose.override.yml
+.envrc
+
+# Node (if any assets/tools)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Misc
+.cache/
+coverage/
+*.cover
+*.log

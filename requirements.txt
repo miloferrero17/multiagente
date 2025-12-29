@@ -1,0 +1,9 @@
+requests
+python-dotenv
+pydantic
+fastapi
+uvicorn
+rq
+redis
+# (solo si usás openai oficial)
+openai
