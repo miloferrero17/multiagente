@@ -11,7 +11,11 @@ __pycache__/
 build/
 develop-eggs/
 dist/
-data/*
+# Ignorar toda la carpeta de datos y su contenido
+data/
+# Si quieres mantener la carpeta pero no los archivos grandes:
+data/**/*.jsonl
+data/embeddings/
 !data/.gitkeep
 downloads/
 eggs/

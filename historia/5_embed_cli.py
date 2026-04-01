@@ -1,5 +1,4 @@
-p
-'''
+
 #!/usr/bin/env python3
 """
 5_embed_cli.py
@@ -435,4 +434,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-'''

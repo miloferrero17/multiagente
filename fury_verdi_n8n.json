@@ -1,0 +1,99 @@
+{
+  "name": "Trello_ETL_Reparado",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {}
+      },
+      "id": "aa0c123c-1761-436f-a2c0-265f966e1742",
+      "name": "When chat message received",
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "position": [0, 0],
+      "typeVersion": 1.1
+    },
+    {
+      "parameters": {
+        "options": {
+          "systemMessage": "Eres un asistente experto en análisis de datos de tarjetas. Tu objetivo es ayudar al usuario a configurar una consulta para la base de datos de Trello.\n\n### 1. PROTOCOLO DE INTERACCIÓN (CURACIÓN)\n* No asumas datos: Si el usuario no menciona un trimestre específico (ej. 2025-Q1), solicítalo antes de continuar.\n* Confirmación obligatoria: Antes de ejecutar cualquier búsqueda, presenta un resumen legible: \"Voy a buscar datos para el equipo [Team] en [País] durante [fecha]. ¿Es correcto?\".\n* Uso de Herramienta: SOLO utiliza la herramienta 'consultar_trello' cuando el usuario responda \"Sí\", \"Confirmado\" o similar.\n\n### 2. CONFIGURACIÓN TÉCNICA (Para la Tool)\nCuando el usuario confirme, invoca 'consultar_trello' con el esquema JSON de filtros solicitado.\n\n### 3. MAPEOS Y REGLAS DE VALORES\n* Country: Argentina->MLA, Brasil->MLB, México->MLM, Uruguay->MLU, Chile->MLC, Colombia->MCO. (Otros o global -> \"Corp\").\n* Team: 'Genova', 'Relacionamiento con las banderas', 'Negocio cross', 'Bari', 'Mejora Continua y Planning', 'Scheme enablers', 'Optimus', 'X Countries'.\n* Bandera: 'Visa', 'Mastercard', 'American Express', 'Cabal', 'Elo', 'Hipercard', 'Carnet', 'Naranja', 'Otra'.\n* Operador $in: Úsalo siempre para valores por defecto (cuando el usuario no mencione la dimensión).\n* Selección de Año: Si pide \"2025\", usa {\"$in\": [\"2025-Q1\", \"2025-Q2\", \"2025-Q3\", \"2025-Q4\"]}.\n\n### 4. RESTRICCIONES\n* No incluyas ```json ni texto adicional al llamar a la herramienta."
+        }
+      },
+      "id": "3dee5d4e-4fc7-4af5-bb08-c3d702e73236",
+      "name": "AI Agent",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "position": [208, 0],
+      "typeVersion": 2.2
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "[https://fundacionbarcelorugby.com.ar/v1/search](https://fundacionbarcelorugby.com.ar/v1/search)",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "contentType": "raw",
+        "body": "={\n  \"filters\": {{ JSON.stringify($json.filters) }},\n  \"namespace\": \"trello\"\n}",
+        "options": {}
+      },
+      "id": "54bac1fd-ab23-4d09-b6e7-94807cec5ea4",
+      "name": "HTTP Request",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [700, 224],
+      "typeVersion": 4.2
+    },
+    {
+      "parameters": {
+        "description": "Realiza la consulta a Trello. Solo usar tras confirmación del usuario.",
+        "workflowJson": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"filters\": {\n      \"type\": \"object\"\n    }\n  },\n  \"required\": [\"filters\"]\n}"
+      },
+      "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
+      "typeVersion": 2.2,
+      "position": [450, 224],
+      "id": "b4fe08ff-af50-40ce-a0f5-00aa1bd7b5d3",
+      "name": "consultar_trello"
+    },
+    {
+      "parameters": {
+        "options": {},
+        "model": "us.anthropic.claude-sonnet-4-20250514-v1:0"
+      },
+      "id": "e86f7546-71b1-41f9-a8b7-2d36b584b015",
+      "name": "Anthropic Chat Model",
+      "type": "@n8n/n8n-nodes-langchain.lmChatAnthropic",
+      "position": [80, 208],
+      "typeVersion": 1.3
+    },
+    {
+      "parameters": {},
+      "id": "a9eea5b0-286d-49f9-8287-df10c80dde46",
+      "name": "Agent Memory",
+      "type": "n8n-nodes-base.agentMemory",
+      "position": [300, 240],
+      "typeVersion": 1
+    }
+  ],
+  "connections": {
+    "When chat message received": {
+      "main": [[{"node": "AI Agent", "type": "main", "index": 0}]]
+    },
+    "AI Agent": {
+      "main": [[]]
+    },
+    "Anthropic Chat Model": {
+      "ai_languageModel": [[{"node": "AI Agent", "type": "ai_languageModel", "index": 0}]]
+    },
+    "Agent Memory": {
+      "ai_memory": [[{"node": "AI Agent", "type": "ai_memory", "index": 0}]]
+    },
+    "consultar_trello": {
+      "ai_tool": [[{"node": "AI Agent", "type": "ai_tool", "index": 0}]],
+      "main": [[{"node": "HTTP Request", "type": "main", "index": 0}]]
+    }
+  }
+}

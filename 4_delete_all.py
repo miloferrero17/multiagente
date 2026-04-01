@@ -1,7 +1,7 @@
 
 #!/usr/bin/env python3
 """
-4_delete_all.py
+  python3 4_delete_all.py --namespace trello
 
 Borra vectores de un índice Pinecone en serverless. Si no se pasa --namespace,
 lista namespaces y borra cada uno.

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+source venv/bin/activate
 python3 0_trello_comments.py
 Use Trello API to fetch comments from a specified list within a date range.
 All the variables are set via environment variables.
